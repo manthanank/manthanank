@@ -1,6 +1,6 @@
 # Manthan Ank
 
-## Hi, I amFrontend Developer 👩‍💻
+## Hi, I am Frontend Developer 👩‍💻
 
 - 👋 Hi, I’m @manthanank
 - 👀 I’m interested in photography,web development
@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Tech Blog✏️:
+### Stats✏️:
 
 ![Manthan's Github Stats](https://github-readme-stats.vercel.app/api?username=manthanank&count_private=true&theme=dracula&show_icons=true)
 
