@@ -53,3 +53,18 @@ You can click the Preview link to take a look at your changes.
 <br />
 
 ---
+
+### Tech Blog✏️:
+
+![Manthan's Github Stats](https://github-readme-stats.vercel.app/api?username=manthanank&count_private=true&theme=dracula&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthanank)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manthanank)
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank)
+
+[twitter]: https://twitter.com/manthanank
+[linkedin]: https://www.linkedin.com/in/manthanankolekar
+[dev]: https://dev.to/manthanank
+[github]: https://github.com/manthanank
