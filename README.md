@@ -179,7 +179,6 @@ You can click the Preview link to take a look at your changes.
 <hr>
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=juicyfresh&no-bg=true" />
 
 <p align="center">
 <div align=center>
