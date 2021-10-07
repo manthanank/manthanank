@@ -68,6 +68,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Manthan's Github Stats](https://github-readme-stats.vercel.app/api?username=manthanank&count_private=true&theme=dracula&show_icons=true)
 
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank)
+
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manthanank)
 
 <p align="center">
