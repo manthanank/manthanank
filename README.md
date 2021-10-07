@@ -167,7 +167,6 @@ You can click the Preview link to take a look at your changes.
 
 ![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
-
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
@@ -176,13 +175,8 @@ You can click the Preview link to take a look at your changes.
 <br><br><br><br><br>
 <hr>
 
-
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=juicyfresh&no-bg=true" />
-
-### Here's my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
 
 ### Thank you for visiting my profile 🤓 
 
