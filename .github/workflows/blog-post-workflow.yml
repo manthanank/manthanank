@@ -11,6 +11,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: manthanank/blog-post-workflow@master
+      - uses: manthanank/blog-post-workflow@main
         with:
           feed_list: "https://dev.to/feed/manthanank"
