@@ -74,6 +74,13 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank)
 
+<hr>
+
+
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=juicyfresh&no-bg=true" />
+
+
 [twitter]: https://twitter.com/manthanank
 [linkedin]: https://www.linkedin.com/in/manthanankolekar
 [dev]: https://dev.to/manthanank
