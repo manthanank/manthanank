@@ -4,6 +4,9 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
  </p>
+ 
+ [![GitHub followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)](https://github.com/manthanank?tab=followers)
+ 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
@@ -159,6 +162,11 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+
+### Look at my contributions! :
+
+![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
+
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
