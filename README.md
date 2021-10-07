@@ -178,3 +178,7 @@ Last Edited On: 31/08/2021
 [linkedin]: https://www.linkedin.com/in/manthanankolekar
 [dev]: https://dev.to/manthanank
 [github]: https://github.com/manthanank
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
