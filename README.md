@@ -180,6 +180,19 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=juicyfresh&no-bg=true" />
 
+### Here's my Codewars stats:
+
+<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
+
+### Thank you for visiting my profile 🤓 
+
+### Feel free to fork and 🌟 this repo!!
+
+------
+
+Credit : [Manthanank](https://github.com/manthanank)
+
+Last Edited On: 31/08/2021
 
 [twitter]: https://twitter.com/manthanank
 [linkedin]: https://www.linkedin.com/in/manthanankolekar
