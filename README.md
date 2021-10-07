@@ -68,8 +68,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Manthan's Github Stats](https://github-readme-stats.vercel.app/api?username=manthanank&count_private=true&theme=dracula&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manthanank)](https://github.com/anuraghazra/github-readme-stats)
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manthanank)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank)
@@ -79,6 +77,7 @@ You can click the Preview link to take a look at your changes.
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="410" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
 <br><br><br><br><br>
 <hr>
 
