@@ -1,14 +1,15 @@
+<hr>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Manthan Ank </h1>
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
  </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-24-blue" />
-  <img src="https://img.shields.io/badge/Focus-Front-End%20Development-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
-<hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Manthan Ank </h1>
 
 ##Frontend Developer 👩‍💻
 
