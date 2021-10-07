@@ -171,14 +171,6 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align="center">
-<div align=center>
-  <a href="https://github.com/manthanank/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" /></p>
@@ -188,6 +180,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
 <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=juicyfresh&no-bg=true" />
+
+<p align="center">
+<div align=center>
+  <a href="https://github.com/manthanank/github-profile-trophy" title="Go to Source">
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+</p>
 
 ### Thank you for visiting my profile 🤓 
 
