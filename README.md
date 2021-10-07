@@ -163,9 +163,13 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-### Look at my contributions! :
+<p align="center">
+ <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Look at my Contributions! : </b></i></p>
+ 
+ <p align="center">
+  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
 
-![snake gif](https://github.com/AvidCoder101/AvidCoder101/blob/output/github-contribution-grid-snake.gif)
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Git Activeness</b></i></p>
