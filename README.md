@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Languages-English-brightgreen" />
 </p>
 
-#Frontend Developer 👩‍💻
+# Frontend Developer 👩‍💻
 
 - 👀 I’m interested in photography,web development
 - 🌱 I’m currently learning web developing, html, css, javascript, php, angular, react js.
