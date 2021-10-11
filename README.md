@@ -166,7 +166,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tn2xuvspbm3z7pyamk7esvxtmq)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
 
 ---
 
