@@ -164,16 +164,16 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Thank you for visiting my profile 🤓 
-
-### Feel free to fork and 🌟 this repo!!
-
-------
-
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+------
+
+### Thank you for visiting my profile 🤓 
+
+### Feel free to fork and 🌟 this repo!!
 
 ------
 
