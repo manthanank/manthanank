@@ -170,13 +170,13 @@ You can click the Preview link to take a look at your changes.
 
 ------
 
-Credit : [Manthanank](https://github.com/manthanank)
-------
-Last Edited On: 11/10/2021
-------
 # Blog posts
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
 ------
+
+Last Edited On: 11/10/2021
+
+Credit : [Manthanank](https://github.com/manthanank)
