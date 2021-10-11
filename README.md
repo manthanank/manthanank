@@ -164,6 +164,12 @@ You can click the Preview link to take a look at your changes.
 </div>
 </p>
 
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/31tn2xuvspbm3z7pyamk7esvxtmq)
+
+---
+
 ### Thank you for visiting my profile 🤓 
 
 ### Feel free to fork and 🌟 this repo!!
