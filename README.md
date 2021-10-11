@@ -166,7 +166,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&chartreuse-dark)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
 
 ---
 
@@ -178,7 +178,7 @@ You can click the Preview link to take a look at your changes.
 
 Credit : [Manthanank](https://github.com/manthanank)
 
-Last Edited On: 31/08/2021
+Last Edited On: 11/10/2021
 
 [twitter]: https://twitter.com/manthanank
 [linkedin]: https://www.linkedin.com/in/manthanankolekar
