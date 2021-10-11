@@ -166,7 +166,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Spotify Playing 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
 
 ---
 
