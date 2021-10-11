@@ -171,14 +171,12 @@ You can click the Preview link to take a look at your changes.
 ------
 
 Credit : [Manthanank](https://github.com/manthanank)
-
+------
 Last Edited On: 11/10/2021
-
-[twitter]: https://twitter.com/manthanank
-[linkedin]: https://www.linkedin.com/in/manthanankolekar
-[dev]: https://dev.to/manthanank
-[github]: https://github.com/manthanank
-
+------
 # Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+------
