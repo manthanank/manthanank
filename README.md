@@ -153,7 +153,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center">
 <div align=center>
   <a href="https://github.com/manthanank/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=default&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
     </a>
 </div>
 </p>
