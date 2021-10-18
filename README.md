@@ -139,7 +139,7 @@ You can click the Preview link to take a look at your changes.
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Look at my Contributions! : </b></i></p>
  
  <p align="center">
-  <img src="https://github.com/DHANOLA/DHANOLA/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/manthanank/manthanank/blob/a62957ceca96fb7dbd282dec82ef7e4777207d15/github-contribution-grid-snake.gif" alt="snake"></center>
 </p>
 
 <p align="center">
