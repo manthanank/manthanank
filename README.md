@@ -143,7 +143,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-[![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph&theme=nord_dark)
+[![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph)
 
 
 <p align="center">
