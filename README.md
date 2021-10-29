@@ -129,11 +129,21 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-### Stats✏️:
+### GitHub Profile Summary Cards✏️:
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=manthanank&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=manthanank&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=manthanank&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=manthanank&theme=nord_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=manthanank&theme=nord_dark)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
-[![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph)
+[![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph&theme=nord_dark)
 
 
 <p align="center">
