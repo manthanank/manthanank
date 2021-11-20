@@ -183,6 +183,8 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 ------
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ### Thank you for visiting my profile 🤓 
 
