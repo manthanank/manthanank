@@ -145,6 +145,15 @@ You can click the Preview link to take a look at your changes.
 
 [![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph)
 
+<!--START_SECTION:waka-->
+```text
+Other        13 hrs          ████████████████▓░░░░░░░░   66.63 % 
+HTML         2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
+Vue.js       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+CSS          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
+JavaScript   1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
+```
+<!--END_SECTION:waka-->
 
 <p align="center">
  <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>Look at my Contributions! : </b></i></p>
@@ -183,15 +192,6 @@ You can click the Preview link to take a look at your changes.
 <!-- BLOG-POST-LIST:END -->
 
 ------
-<!--START_SECTION:waka-->
-```text
-Other        13 hrs          ████████████████▓░░░░░░░░   66.63 % 
-HTML         2 hrs 20 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-Vue.js       1 hr 35 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
-CSS          1 hr 18 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 % 
-JavaScript   1 hr 16 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 % 
-```
-<!--END_SECTION:waka-->
 
 ### Thank you for visiting my profile 🤓 
 
