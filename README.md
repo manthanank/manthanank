@@ -147,11 +147,11 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
-Other        13 hrs          ████████████▒░░░░░░░░░░░░   49.78 % 
-JavaScript   6 hrs 21 mins   ██████░░░░░░░░░░░░░░░░░░░   24.32 % 
-HTML         2 hrs 55 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Vue.js       1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.07 % 
-CSS          1 hr 20 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+Other        9 hrs           █████████▒░░░░░░░░░░░░░░░   37.46 % 
+JavaScript   6 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.76 % 
+HTML         4 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.88 % 
+TypeScript   1 hr 58 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
+Vue.js       1 hr 35 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
 ```
 <!--END_SECTION:waka-->
 
