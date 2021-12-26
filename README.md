@@ -129,13 +129,6 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
-### Platforms
-
-<img alt="Instagram" src="https://img.shields.io/badge/Manthan_Ank%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/manthan_ank/"/>  
-<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" href="https://m.facebook.com/Manthan.ankolekar?ref=bookmarks"/>  
-<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" href="https://stackoverflow.com/users/14292971/manthan-ankolekar"/>
-<br/>
-
 ---
 
 ### GitHub Profile Summary Cards✏️:
