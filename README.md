@@ -129,6 +129,13 @@ You can click the Preview link to take a look at your changes.
     
 </p>
 
+### Platforms
+
+<img alt="Instagram" src="https://img.shields.io/badge/Manthan_Ank%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" href="https://www.instagram.com/manthan_ank/"/>  
+<img alt="Facebook" src="https://img.shields.io/badge/Facebook%20-%231877F2.svg?&style=for-the-badge&logo=Facebook&logoColor=white" href="https://m.facebook.com/Manthan.ankolekar?ref=bookmarks"/>  
+<img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" href="https://stackoverflow.com/users/14292971/manthan-ankolekar"/>
+<br/>
+
 ---
 
 ### GitHub Profile Summary Cards✏️:
@@ -196,6 +203,10 @@ CSS          10 mins         ▒░░░░░░░░░░░░░░░░
 ------
 
 ### Thank you for visiting my profile 🤓 
+
+### If you like my projects and want to support me to build more cool open source projects
+  
+<a href="https://www.buymeacoffee.com/Manthanank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=VaibhavJaiswal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ### Feel free to fork and 🌟 this repo!!
 
