@@ -149,6 +149,8 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 ```text
+Total: 11 hrs 6 mins
+
 TypeScript   ███████████████████████████▓░░░░░░░░░░░░░   67.46 % 
 HTML         ████████████▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░   30.38 % 
 SCSS         ▒░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
