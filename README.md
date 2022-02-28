@@ -148,11 +148,13 @@ You can click the Preview link to take a look at your changes.
 [![Manthan's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank)](https://github.com/manthanank/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
+
 ```text
-TypeScript   ███████████████████▒░░░░░░░░░░░░░░░░░░░░░   47.02 % 
-HTML         ██████████████████░░░░░░░░░░░░░░░░░░░░░░░   43.89 % 
-SCSS         ███▓░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   09.08 % 
+HTML                         ████████████▒░░░░░░░░░░░░   49.09 %
+TypeScript                   ██████████▒░░░░░░░░░░░░░░   41.03 %
+SCSS                         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.87 %
 ```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
