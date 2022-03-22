@@ -206,6 +206,6 @@ SCSS                         ░░░░░░░░░░░░░░░░░
 
 ------
 
-Last Edited On: 26/12/2021
+Last Edited On: 22/03/2022
 
 Credit : [Manthanank](https://github.com/manthanank)
