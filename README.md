@@ -150,8 +150,8 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ██████████████████▒░░░░░░   72.85 %
-HTML                         ██████▓░░░░░░░░░░░░░░░░░░   27.13 %
+TypeScript                   █████████████████░░░░░░░░   67.35 %
+HTML                         ████████░░░░░░░░░░░░░░░░░   32.63 %
 JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 SCSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
