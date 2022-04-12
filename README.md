@@ -150,10 +150,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ████████████████▒░░░░░░░░   64.70 %
-HTML                         ████████▓░░░░░░░░░░░░░░░░   35.00 %
-SCSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
-JSON                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+TypeScript                   ███████████████▓░░░░░░░░░   63.27 %
+HTML                         █████████░░░░░░░░░░░░░░░░   36.44 %
+SCSS                         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
 ```
 
 <!--END_SECTION:waka-->
