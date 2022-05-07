@@ -17,7 +17,7 @@
 # Frontend Developer 👩‍💻
 
 - 👀 I’m interested in photography,web development
-- 🌱 I’m currently learning web developing, html, css, javascript, php, angular, react js.
+- 🌱 I’m currently working on web developing, html, css, javascript, angular.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me through manthan.ank46@gmail.com, 8105068268, http://manthanank.xyz/
 
