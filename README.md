@@ -19,7 +19,7 @@
 - 👀 I’m interested in photography,web development
 - 🌱 I’m currently working on angular.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through <a href="mailto:manthan.ank46@gmail.com">manthan.ank46@gmail.com</a>, 8105068268
+- 📫 How to reach me through <a href="mailto:manthan.ank46@gmail.com">manthan.ank46@gmail.com</a>, <a href="tel:+918105068268">+91 8105068268</a>
 - 🚀 Visit **[My Resume Portfolio ](https://manthanank.xyz)**
 
 <!---
