@@ -98,11 +98,9 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript                   ██████░░░░░░░░░░░░░░░░░░░   23.74 %
-HTML                         ████▓░░░░░░░░░░░░░░░░░░░░   18.63 %
-Markdown                     ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
-JavaScript                   ████░░░░░░░░░░░░░░░░░░░░░   15.94 %
-Other                        ███▒░░░░░░░░░░░░░░░░░░░░░   13.66 %
+TypeScript                   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+HTML                         █████▓░░░░░░░░░░░░░░░░░░░   23.31 %
+Other                        ███▓░░░░░░░░░░░░░░░░░░░░░   15.07 %
 ```
 
 <!--END_SECTION:waka-->
