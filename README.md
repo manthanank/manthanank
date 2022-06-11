@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Manthan Ank </h1>
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Manthan Ank </h1>
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
