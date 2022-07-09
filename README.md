@@ -1,6 +1,8 @@
 <hr>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Manthan Ank </h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=FFFFFF&center=true&vCenter=true&height=57&lines=Hey%2C+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome!;I'm+Front+End+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
+
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
  </p>
