@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 </p>
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=FFFFFF&center=true&vCenter=true&height=57&lines=Hey%2C+%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome!;I'm+Front+End+Developer%F0%9F%92%BB)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=F7F7F7&lines=Hey%2C%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome+!;I'm+Front+End+Developer)](https://git.io/typing-svg)
 
 - 👀 I’m interested in photography,web development
 - 🌱 I’m currently working on angular.
