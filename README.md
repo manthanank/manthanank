@@ -103,6 +103,12 @@ Git Config                   ▒░░░░░░░░░░░░░░░░
 
 ------
 
+# Daily Quotes :
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
+------
+
 ### Thank you for visiting my profile 🤓 
 
 ### If you like my projects and want to support me to build more cool open source projects
