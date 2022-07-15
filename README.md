@@ -124,9 +124,15 @@ Git Config                   ▒░░░░░░░░░░░░░░░░
 
 # Blog posts
 
-<!-- BLOG-POST-LIST:START -->
-- [NPM](https://dev.to/manthanank/npm-3nhh)
-<!-- BLOG-POST-LIST:END -->
+### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
+
+<!-- DEVTO:START -->
+<!-- DEVTO:END -->
+
+### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
+
+<!-- MEDIUM:START -->
+<!-- MEDIUM:END -->
 
 ------
 
@@ -140,6 +146,6 @@ Git Config                   ▒░░░░░░░░░░░░░░░░
 
 ------
 
-Last Edited On: 09/07/2022
+Last Edited On: 15/7/22
 
 Credit : [Manthanank](https://github.com/manthanank)
