@@ -12,6 +12,6 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
       - name: Pull in dev.to posts
-        uses: manthanank/.github/workflows/blog-post-workflow@main
+        uses: google-github-actions/setup-gcloud@v0
         with:
           feed_list: "https://dev.to/feed/manthanank,https://www.manthanank.com/feed/"
