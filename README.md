@@ -127,11 +127,7 @@ Git Config                   ▒░░░░░░░░░░░░░░░░
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
 
 <!-- DEVTO:START -->
-- [Using HarperDB with Kubernetes](https://dev.to/_staticvoid/using-harperdb-with-kubernetes-2pf6)
-- [Por que você deveria repensar o uso do Date.now](https://dev.to/_staticvoid/por-que-voce-deveria-repensar-o-uso-do-datenow-2g39)
-- [Código mais seguro com Shadow Realms no JavaScript](https://dev.to/_staticvoid/codigo-mais-seguro-com-shadow-realms-no-javascript-3p9e)
-- [O que há de novo no TypeScript 4.7](https://dev.to/_staticvoid/o-que-ha-de-novo-no-typescript-47-28bl)
-- [Tudo o que você precisa saber sobre o novo test runner do Node.js](https://dev.to/_staticvoid/tudo-o-que-voce-precisa-saber-sobre-o-novo-test-runner-do-nodejs-1i11)
+- [NPM](https://dev.to/manthanank/npm-3nhh)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
