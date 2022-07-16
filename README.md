@@ -92,6 +92,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
 
 <!-- DEVTO:START -->
+- [YARN](https://dev.to/manthanank/yarn-6b5)
 - [NPM](https://dev.to/manthanank/npm-3nhh)
 <!-- DEVTO:END -->
 
