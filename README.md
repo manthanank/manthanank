@@ -8,7 +8,7 @@
  [![GitHub followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)](https://github.com/manthanank?tab=followers)
  
  <p align="center">
-<img src="https://img.shields.io/badge/Age-24-blue" />
+<img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Language-English-brightgreen" />
