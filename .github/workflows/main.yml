@@ -37,7 +37,7 @@ jobs:
     - name: Install requirements
       run: |
         python3 -m pip install --upgrade pip setuptools wheel
-        python3 -m pip freeze &gt; requirements.txt
+        python3 -m pip freeze > requirements.txt
     # Generate all statistics images
     - name: Generate images
       run: |
