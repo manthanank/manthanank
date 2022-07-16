@@ -99,7 +99,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
 
 <!-- MEDIUM:START -->
-- [NPM](https://manthanank.medium.com/npm-b5ae0bacf18e?source=rss-ade313d62381------2)
 <!-- MEDIUM:END -->
 
 ------
