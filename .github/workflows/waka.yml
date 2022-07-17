@@ -15,7 +15,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TIME: false
-          SHOW_PROJECTS: False
-          SHOW_LINES_OF_CODE: True
-          SHOW_LOC_CHART: False
+          SHOW_PROJECTS: false
+          SHOW_LINES_OF_CODE: true
+          SHOW_LOC_CHART: false
+          SHOW_DAYS_OF_WEEK: true
+          SHOW_LANGUAGE: true
+          SHOW_OS: true
+          SHOW_EDITORS: true
           LOCALE: en
