@@ -59,6 +59,16 @@ You can click the Preview link to take a look at your changes.
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript                   ███████████░░░░░░░░░░░░░░   43.85 %
+TypeScript                   ████████░░░░░░░░░░░░░░░░░   32.04 %
+HTML                         ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+JSON                         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
+Bash                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.00 %
+CSS                          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
