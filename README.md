@@ -1,18 +1,20 @@
 <hr>
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Manthan Ank </h1>
-
-<p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
- </p>
- 
- [![GitHub followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)](https://github.com/manthanank?tab=followers)
- 
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-India-success" />
   <img src="https://img.shields.io/badge/Language-English-brightgreen" />
 </p>
+
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
+</p>
+ 
+[![GitHub followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)](https://github.com/manthanank?tab=followers)
+[![Twitter Follow](https://img.shields.io/twitter/follow/manthan_ank?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Linkedin: Manthan](https://img.shields.io/badge/-manthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-ankolekar-597b07a8/)](https://www.linkedin.com/in/manthan-ankolekar-597b07a8/)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://manthanank.xyz/)](https://manthanank.xyz/)
 
 # [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=F7F7F7&lines=Hey%2C%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome+!;I'm+Front+End+Developer)](https://git.io/typing-svg)
 
