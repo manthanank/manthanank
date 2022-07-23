@@ -94,11 +94,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
 
 <!-- DEVTO:START -->
+- [Deploy Angular app to GitHub Pages](https://dev.to/manthanank/deploy-angular-app-to-github-pages-gjl)
 - [Creating Service In Angular Using CLI/Manually](https://dev.to/manthanank/creating-service-using-climanually-fl2)
 - [Generating Component in Angular (Using CLI/Manually)](https://dev.to/manthanank/generating-component-in-angular-using-climanually-43pj)
 - [Install NVM on windows](https://dev.to/manthanank/nvm-on-windows-1oe8)
 - [YARN Cheatsheet](https://dev.to/manthanank/yarn-6b5)
-- [NPM Cheatsheet](https://dev.to/manthanank/npm-3nhh)
 <!-- DEVTO:END -->
 
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
