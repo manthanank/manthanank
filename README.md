@@ -108,12 +108,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ------
 
-# Daily Quotes :
-
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
-
-------
-
 ### Thank you for visiting my profile 🤓 
 
 ### If you like my projects and want to support me to build more cool open source projects
@@ -124,6 +118,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ------
 
-Last Edited On: 15/7/22
+Last Edited On: 30/7/22
 
 Credit : [Manthanank](https://github.com/manthanank)
