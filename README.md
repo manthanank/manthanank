@@ -101,8 +101,9 @@ CSS                          ░░░░░░░░░░░░░░░░░
 - [YARN Cheatsheet](https://dev.to/manthanank/yarn-6b5)
 <!-- DEVTO:END -->
 
+<!--
 ### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
-
+-->
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
