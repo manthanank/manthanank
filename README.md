@@ -1,5 +1,4 @@
-<hr>
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I am Manthan Ank </h1>
+<h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile!<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
@@ -16,7 +15,7 @@
 [![Linkedin: Manthan](https://img.shields.io/badge/-manthan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-ankolekar-597b07a8/)](https://www.linkedin.com/in/manthan-ankolekar-597b07a8/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://manthanank.xyz/)](https://manthanank.xyz/)
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Merriweather&size=30&color=F7F7F7&lines=Hey%2C%F0%9F%99%8B%E2%80%8D%E2%99%82%EF%B8%8F+Welcome+!;I'm+Front+End+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Manthan+Ank!;Front+End+Developer;2%2B+years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
 
 - 👀 I’m interested in photography,web development
 - 🌱 I’m currently working on angular.
