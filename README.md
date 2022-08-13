@@ -29,36 +29,36 @@ manthanank/manthanank is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-### Available on:
+<p align="left"><i><b>Available On:</b></i></p>
 
+<div align="left">
 <a href="https://dev.to/manthanank"><img height="30" src="https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/dev.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/manthan_ank"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/manthan-ankolekar-597b07a8/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/manthan_ank/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/instagram.png?raw=true"></a>
+ </div>
 <br />
 
----
+<p align="left"><i><b>Languages and Tools:</b></i></p>
 
-
-<h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
----
+<p align="center"><i><b>Stack Overflow</b></i></p>
 
-<p align="center"><i><b>Look at my Contributions! : </b></i></p>
- 
- <p align="center">
-  <img src="https://github.com/manthanank/manthanank/blob/a62957ceca96fb7dbd282dec82ef7e4777207d15/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+<div align="center">
+   <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14292971&theme=dark"></img>
+</div>
+
+<p align="center"><i><b>Look at my Contributions! :</b></i></p>
+
+<div align="center">
+    <img src="https://github.com/manthanank/manthanank/blob/a62957ceca96fb7dbd282dec82ef7e4777207d15/github-contribution-grid-snake.svg" alt="snake"></center>
+</div>
 
 <p align="center"><i><b>Git Activeness</b></i></p>
- 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="manthan" /></p>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=chartreuse-dark" alt="manthan" width="410" /></p>
-<br><br><br><br><br>
-<hr>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)
+|<img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan" width="410" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark"/>|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan" />|
+|---|---|---|
 
 <!--START_SECTION:waka-->
 
@@ -73,7 +73,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<p align="center"><i><b><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</b></i></p>
 
 <p align="center">
 <div align=center>
@@ -83,11 +83,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 </div>
 </p>
 
-### Spotify Playing 🎧
+<p align="center"><i><b>On Spotify:</b></i></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&redirect=true)
-
----
+<div align="center">
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default&bar_color_cover=true"></img>
+</div>
 
 # Blog posts
 
@@ -107,18 +107,14 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
-------
-
 ### Thank you for visiting my profile 🤓 
 
 ### If you like my projects and want to support me to build more cool open source projects
-  
+ 
 <a href="https://www.buymeacoffee.com/Manthanank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=VaibhavJaiswal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ### Feel free to fork and 🌟 this repo!!
 
-------
-
-Last Edited On: 30/7/22
+Last Edited On: 13/8/22
 
 Credit : [Manthanank](https://github.com/manthanank)
