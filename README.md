@@ -59,7 +59,11 @@ You can click the Preview link to take a look at your changes.
 |<img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan" width="410" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark"/>|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan" />|
 |---|---|---|
 
+<!---
 ![Github Activity Graph](https://github-readme-activity-graph.manthanank.repl.co/graph?username=manthanank&theme=github)
+--->
+
+![Github Activity Graph](https://peaceful-thicket-48020.herokuapp.com/graph?username=manthanank&theme=xcode)
 
 <!--START_SECTION:waka-->
 
@@ -116,6 +120,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 13/8/22
+Last Edited On: 14/8/22
 
 Credit : [Manthanank](https://github.com/manthanank)
