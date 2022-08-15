@@ -62,8 +62,10 @@ You can click the Preview link to take a look at your changes.
 <!---
 ![Github Activity Graph](https://github-readme-activity-graph.manthanank.repl.co/graph?username=manthanank&theme=github)
 --->
-
-![Github Activity Graph](https://peaceful-thicket-48020.herokuapp.com/graph?username=manthanank&theme=xcode)
+<!---
+![Github Activity Graph](https://peaceful-thicket-48020.herokuapp.com/graph?username=manthanank&theme=xcode) 
+--->
+[![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
 <!--START_SECTION:waka-->
 
@@ -120,6 +122,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 14/8/22
+Last Edited On: 15/8/22
 
 Credit : [Manthanank](https://github.com/manthanank)
