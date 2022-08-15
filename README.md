@@ -67,6 +67,15 @@ You can click the Preview link to take a look at your changes.
 --->
 [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
+<!-- https://github.com/jamesgeorge007/github-activity-readme -->
+<details>
+  <summary>Recent GitHub Activity</summary>
+  <br/>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
+
 <!--START_SECTION:waka-->
 
 ```text
