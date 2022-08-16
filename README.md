@@ -48,6 +48,14 @@ You can click the Preview link to take a look at your changes.
    <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14292971&theme=dark"></img>
 </div>
 
+<p align="center"><i><b>Leetcode</b></i></p>
+
+<p align="center">
+  <a href="https://leetcode.com/manthanank" target="_blank">
+    <img title="Manthanank's LeetCode Stats" alt="Manthanank's LeetCode Stats" src="https://leetcard.jacoblin.cool/manthanank" />
+  </a>
+</p>
+
 <p align="center"><i><b>Look at my Contributions! :</b></i></p>
 
 <div align="center">
