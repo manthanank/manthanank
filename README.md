@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><i><b>Leetcode</b></i></p>
 
 <p align="center">
-  <a href="https://leetcode.com/manthanank" target="_blank">
+  <a href="https://leetcode.com/manthanank">
     <img title="Manthanank's LeetCode Stats" alt="Manthanank's LeetCode Stats" src="https://leetcard.jacoblin.cool/manthanank" />
   </a>
 </p>
@@ -144,6 +144,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 15/8/22
+Last Edited On: 16/8/22
 
 Credit : [Manthanank](https://github.com/manthanank)
