@@ -104,13 +104,9 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 <p align="center"><i><b><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</b></i></p>
 
-<p align="center">
-<div align=center>
-  <a href="https://github.com/manthanank/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
 </div>
-</p>
 
 <p align="center"><i><b>On Spotify:</b></i></p>
 
