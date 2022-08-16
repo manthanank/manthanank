@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile!<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"></h1>
+<h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile!<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/></h1>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
@@ -7,7 +7,7 @@
 </p>
 
 <p align="left"> 
-<img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count" />
+<img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count"/>
 </p>
  
 [![GitHub followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)](https://github.com/manthanank?tab=followers)
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><i><b>Stack Overflow</b></i></p>
 
 <div align="center">
-   <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14292971&theme=dark"></img>
+   <img src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14292971&theme=dark"/>
 </div>
 
 <p align="center"><i><b>Leetcode</b></i></p>
@@ -59,7 +59,7 @@ You can click the Preview link to take a look at your changes.
 <p align="center"><i><b>Look at my Contributions! :</b></i></p>
 
 <div align="center">
-    <img src="https://github.com/manthanank/manthanank/blob/a62957ceca96fb7dbd282dec82ef7e4777207d15/github-contribution-grid-snake.svg" alt="snake"></center>
+    <img src="https://github.com/manthanank/manthanank/blob/a62957ceca96fb7dbd282dec82ef7e4777207d15/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <p align="center"><i><b>Git Activeness</b></i></p>
@@ -115,7 +115,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <p align="center"><i><b>On Spotify:</b></i></p>
 
 <div align="center">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default&bar_color_cover=true"></img>
+   <img src="https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default&bar_color_cover=true"/>
 </div>
 
 # Blog posts
@@ -144,6 +144,4 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 16/8/22
-
-Credit : [Manthanank](https://github.com/manthanank)
+Last Edited On: 17/8/22
