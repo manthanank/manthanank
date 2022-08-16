@@ -64,8 +64,36 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><i><b>Git Activeness</b></i></p>
 
-|<img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan" width="410" /> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark"/>|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan" />|
-|---|---|---|
+<table>
+<!---
+<thead>
+<tr>
+ <th>
+  <p style="atext-align:center">Github Stats</p>
+ </th>
+ <th>
+  <p style="atext-align:center">Streaks</p>
+ </th>
+  <th>
+  <p style="atext-align:center">Most Used Languages</p>
+ </th>
+</tr>
+</thead>
+<tbody> 
+--->
+<tr>
+ <td>
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan's github stats" width="410" />
+ </td>
+ <td>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's github streaks" />
+ </td>
+ <td>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's most used languages" />
+ </td>
+</tr>
+</tbody>
+</table>
 
 <!---
 ![Github Activity Graph](https://github-readme-activity-graph.manthanank.repl.co/graph?username=manthanank&theme=github)
@@ -105,7 +133,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <p align="center"><i><b><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</b></i></p>
 
 <div align="center">
-<img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+<img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" align="center" width=100% />
 </div>
 
 <p align="center"><i><b>On Spotify:</b></i></p>
