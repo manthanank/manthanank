@@ -79,8 +79,8 @@ You can click the Preview link to take a look at your changes.
  </th>
 </tr>
 </thead>
-<tbody> 
 --->
+<tbody> 
 <tr>
  <td>
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan's github stats" width="410" />
