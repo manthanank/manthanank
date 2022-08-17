@@ -64,36 +64,17 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center"><i><b>Git Activeness</b></i></p>
 
-<table>
-<!---
-<thead>
-<tr>
- <th>
-  <p style="atext-align:center">Github Stats</p>
- </th>
- <th>
-  <p style="atext-align:center">Streaks</p>
- </th>
-  <th>
-  <p style="atext-align:center">Most Used Languages</p>
- </th>
-</tr>
-</thead>
---->
-<tbody> 
-<tr>
- <td>
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan's github stats" width="410" />
- </td>
- <td>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's github streaks" />
- </td>
- <td>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's most used languages" />
- </td>
-</tr>
-</tbody>
-</table>
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark" alt="manthan's github stats" />
+</div>
+
+<div align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's github streaks" />
+</div>
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's most used languages" />
+</div>
 
 <!---
 ![Github Activity Graph](https://github-readme-activity-graph.manthanank.repl.co/graph?username=manthanank&theme=github)
@@ -177,4 +158,4 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 17/8/22
+Last Edited On: 18/8/22
