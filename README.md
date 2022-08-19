@@ -1,4 +1,4 @@
-<h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile!<img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/></h1>
+<h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile! <img width="35" src="waving.gif"/></h1>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-25-blue" />
   <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
@@ -158,4 +158,4 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 18/8/22
+Last Edited On: 19/8/22
