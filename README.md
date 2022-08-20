@@ -118,8 +118,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
   <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
 </div>
 
-<br/>
-<br/>
 <h1 align="center"><i><b>On Spotify:</b></i></h1>
 
 <div align="center">
@@ -161,4 +159,4 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 20/8/22
+### Last Edited On: 20/8/22
