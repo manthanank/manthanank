@@ -85,9 +85,7 @@ You can click the Preview link to take a look at your changes.
 [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
 <!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<details>
-  <summary>Recent GitHub Activity</summary>
-  <br/>
+<h3>Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/manthanank/developer-portfolio/pull/1) in [manthanank/developer-portfolio](https://github.com/manthanank/developer-portfolio)
@@ -96,7 +94,6 @@ You can click the Preview link to take a look at your changes.
 4. 🎉 Merged PR [#1](https://github.com/manthanank/nodejs-mongodb-expressjs-signup/pull/1) in [manthanank/nodejs-mongodb-expressjs-signup](https://github.com/manthanank/nodejs-mongodb-expressjs-signup)
 5. 🎉 Merged PR [#2](https://github.com/manthanank/uptime/pull/2) in [manthanank/uptime](https://github.com/manthanank/uptime)
 <!--END_SECTION:activity-->
-</details>
 
 <!--START_SECTION:waka-->
 
@@ -158,4 +155,4 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 ### Feel free to fork and 🌟 this repo!!
 
-Last Edited On: 19/8/22
+Last Edited On: 20/8/22
