@@ -65,8 +65,13 @@
 
 <h1 align="center"><i><b>Github Activeness</b></i></h1>
 
+<!--
 <div align="center">
     <img src="https://github.com/manthanank/manthanank/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
+</div>
+-->
+<div align="center">
+    <img src="https://raw.githubusercontent.com/manthanank/manthanank/c3caee62181bfdbe3a20afa7249203aee20402a8/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
 
 <div align="center">
