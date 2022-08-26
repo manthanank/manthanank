@@ -95,8 +95,8 @@
 <h3>Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/manthanank/manthanank.github.io/pull/3) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-2. 🎉 Merged PR [#1](https://github.com/manthanank/developer-portfolio/pull/1) in [manthanank/developer-portfolio](https://github.com/manthanank/developer-portfolio)
+1. 🎉 Merged PR [#1](https://github.com/manthanank/todo-app/pull/1) in [manthanank/todo-app](https://github.com/manthanank/todo-app)
+2. 🎉 Merged PR [#3](https://github.com/manthanank/manthanank.github.io/pull/3) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
 3. 🎉 Merged PR [#1](https://github.com/manthanank/real-time-quotes-nodejs-socketio/pull/1) in [manthanank/real-time-quotes-nodejs-socketio](https://github.com/manthanank/real-time-quotes-nodejs-socketio)
 4. 🎉 Merged PR [#1](https://github.com/manthanank/nodejs-mongodb-expressjs-signup/pull/1) in [manthanank/nodejs-mongodb-expressjs-signup](https://github.com/manthanank/nodejs-mongodb-expressjs-signup)
 5. 🎉 Merged PR [#2](https://github.com/manthanank/uptime/pull/2) in [manthanank/uptime](https://github.com/manthanank/uptime)
