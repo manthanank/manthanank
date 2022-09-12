@@ -95,10 +95,10 @@
 <h3>Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🎉 Merged PR [#1](https://github.com/manthanank/todo-app/pull/1) in [manthanank/todo-app](https://github.com/manthanank/todo-app)
-3. 🎉 Merged PR [#1](https://github.com/manthanank/real-time-quotes-nodejs-socketio/pull/1) in [manthanank/real-time-quotes-nodejs-socketio](https://github.com/manthanank/real-time-quotes-nodejs-socketio)
-4. 🎉 Merged PR [#1](https://github.com/manthanank/nodejs-mongodb-expressjs-signup/pull/1) in [manthanank/nodejs-mongodb-expressjs-signup](https://github.com/manthanank/nodejs-mongodb-expressjs-signup)
+1. ❗️ Reopened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+2. 🗣 Commented on [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. ❗️ Closed issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. ❗️ Opened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 5. 🎉 Merged PR [#2](https://github.com/manthanank/uptime/pull/2) in [manthanank/uptime](https://github.com/manthanank/uptime)
 <!--END_SECTION:activity-->
 
