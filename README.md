@@ -95,11 +95,11 @@
 <h3>Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Reopened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. 🗣 Commented on [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-3. ❗️ Closed issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. ❗️ Opened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-5. 🎉 Merged PR [#2](https://github.com/manthanank/uptime/pull/2) in [manthanank/uptime](https://github.com/manthanank/uptime)
+1. 🎉 Merged PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+2. 💪 Opened PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+3. ❗️ Reopened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+4. 🗣 Commented on [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+5. ❗️ Closed issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
