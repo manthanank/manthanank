@@ -130,11 +130,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
 
 <!-- DEVTO:START -->
+- [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
 - [Analyze React App Size](https://dev.to/manthanank/analyze-react-app-size-28ng)
 - [Deploy Angular app to GitHub Pages](https://dev.to/manthanank/deploy-angular-app-to-github-pages-gjl)
 - [Creating Service In Angular Using CLI/Manually](https://dev.to/manthanank/creating-service-using-climanually-fl2)
 - [Generating Component in Angular (Using CLI/Manually)](https://dev.to/manthanank/generating-component-in-angular-using-climanually-43pj)
-- [Install NVM on windows](https://dev.to/manthanank/nvm-on-windows-1oe8)
 <!-- DEVTO:END -->
 
 <!--
