@@ -97,8 +97,8 @@
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
 2. 💪 Opened PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
-3. ❗️ Reopened issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-4. 🗣 Commented on [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. 🎉 Merged PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+4. 💪 Opened PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
 5. ❗️ Closed issue [#130](https://github.com/DenverCoder1/readme-typing-svg/issues/130) in [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
 <!--END_SECTION:activity-->
 
