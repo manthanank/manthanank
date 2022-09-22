@@ -95,10 +95,10 @@
 <h3>Recent GitHub Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/manthanank/my-followers/pull/2) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
-2. 💪 Opened PR [#2](https://github.com/manthanank/my-followers/pull/2) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
-3. 🎉 Merged PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
-4. 💪 Opened PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+1. 🎉 Merged PR [#3](https://github.com/manthanank/my-followers/pull/3) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+2. 💪 Opened PR [#3](https://github.com/manthanank/my-followers/pull/3) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+3. 🎉 Merged PR [#2](https://github.com/manthanank/my-followers/pull/2) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
+4. 💪 Opened PR [#2](https://github.com/manthanank/my-followers/pull/2) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
 5. 🎉 Merged PR [#1](https://github.com/manthanank/my-followers/pull/1) in [manthanank/my-followers](https://github.com/manthanank/my-followers)
 <!--END_SECTION:activity-->
 
