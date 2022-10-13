@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 
-- I’m currently woking on...
-- I’m looking to collaborate on...
-- Reach me out through manthan.ank46@gmail.com , <https://manthanank.xyz>
+- 💻 I’m currently woking on...
+- 🤝 I’m looking to collaborate on...
+- ✉️ Reach me out through manthan.ank46@gmail.com , <https://manthanank.xyz>
 
 ## Skills Set
 
@@ -14,19 +14,19 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
-![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-grren?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/-express-white?style=for-the-badge&logo=express&logoColor=black)
-![firebase](https://img.shields.io/badge/-firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-blue?style=for-the-badge&logo=Heroku&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=Yarn&logoColor=white)
-![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=green)
+![firebase](https://img.shields.io/badge/-firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
 
 ## GitHub Stats
 
