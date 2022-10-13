@@ -1,14 +1,10 @@
-# Welcome to Manthan Ank's Profile <img width="25" src="waving.gif"/>
+# Welcome to Manthan Ank's Profile 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Manthan+Ank!;Front+End+Developer;2%2B+years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Front+End+Developer;2%2B+Years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
 
-![Github Followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)
-![Twitter Followers](https://img.shields.io/twitter/follow/manthan_ank?label=Follow)
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 
-![Stackoverflow](https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=14292971&theme=dark)
-
-![Leetcode](https://leetcard.jacoblin.cool/manthanank)
+[Portfolio](https://manthanank.xyz/)
 
 ## Github Activeness
 
