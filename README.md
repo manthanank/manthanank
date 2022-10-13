@@ -1,11 +1,42 @@
-# Welcome to Manthan Ank's Profile 👋
+# Hey, I'm Manthan Ank👋
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;2%2B+years+of+coding+experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-ankolekar-597b07a8)
-![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/manthan_ank)
-![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://manthanank.xyz/)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Front+End+Developer;2%2B+Years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
+- I’m currently woking on...
+- I’m looking to collaborate on...
+- Reach me out through manthan.ank46@gmail.com , <https://manthanank.xyz>
+
+## Skills Set
+
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
+![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-grren?style=for-the-badge&logo=Node.js&logoColor=white)
+![express](https://img.shields.io/badge/-express-white?style=for-the-badge&logo=express&logoColor=black)
+![firebase](https://img.shields.io/badge/-firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
+![Heroku](https://img.shields.io/badge/-Heroku-blue?style=for-the-badge&logo=Heroku&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=Yarn&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=green)
+
+## GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark)
+
+## Streaks
+
+![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark)
+
+## Github Activeness
 
 [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
