@@ -1,16 +1,8 @@
 <h1 align="center">Welcome to <a href="https://github.com/manthanank">Manthan Ank's</a> Profile! <img width="35" src="waving.gif"/></h1>
 
-<p align="center">
-<img src="https://img.shields.io/badge/Age-25-blue" />
-  <img src="https://img.shields.io/badge/Focus-FrontEnd%20Development-brightgreen" />
-  <img src="https://img.shields.io/badge/Lives-India-success" />
-  <img src="https://img.shields.io/badge/Language-English-brightgreen" />
-</p>
+![Github Followers](https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers)
+![Twitter Followers](https://img.shields.io/twitter/follow/manthan_ank?label=Follow)
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count"/>
-</p>
- 
 <p align="center">
     <a align="center" href="">
     <img src="https://img.shields.io/github/followers/manthanank.svg?style=social&label=Followers" />
@@ -24,6 +16,7 @@
     <a align="center" href="">
     <img src="https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://manthanank.xyz/" />
     </a>
+    <img src="https://komarev.com/ghpvc/?username=manthanank&color=brightgreen" alt="watching_count"/>
 </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=F7F7F7&width=435&lines=Hey%2C+I'm+Manthan+Ank!;Front+End+Developer;2%2B+years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
@@ -65,11 +58,6 @@
 
 <h1 align="center"><i><b>Github Activeness</b></i></h1>
 
-<!--
-<div align="center">
-    <img src="https://github.com/manthanank/manthanank/blob/output/github-contribution-grid-snake.svg" alt="snake"/>
-</div>
--->
 <div align="center">
     <img src="https://raw.githubusercontent.com/manthanank/manthanank/c3caee62181bfdbe3a20afa7249203aee20402a8/github-contribution-grid-snake.svg" alt="snake"/>
 </div>
@@ -86,21 +74,11 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark" alt="manthan's most used languages" />
 </div>
 
-<!---
-![Github Activity Graph](https://peaceful-thicket-48020.herokuapp.com/graph?username=manthanank&theme=xcode) 
---->
 [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
-<!-- https://github.com/jamesgeorge007/github-activity-readme -->
-<h3>Recent GitHub Activity</h3>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/manthanank/manthanank.github.io/pull/5) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-2. 🎉 Merged PR [#4](https://github.com/manthanank/manthanank.github.io/pull/4) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-3. 🎉 Merged PR [#6](https://github.com/manthanank/manthanank.github.io/pull/6) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-4. 🎉 Merged PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-5. 💪 Opened PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-<!--END_SECTION:activity-->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
+</div>
 
 <!--START_SECTION:waka-->
 
@@ -115,19 +93,17 @@ CSS                          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY"/>
-</div>
+# Recent GitHub Activity
 
-<h1 align="center"><i><b>On Spotify:</b></i></h1>
-
-<div align="center">
-   <img src="https://spotify-github-profile.vercel.app/api/view?uid=sp2tz1tj0fpcmzs0atozi1hpr&cover_image=false&theme=default&bar_color_cover=true"/>
-</div>
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/manthanank/manthanank.github.io/pull/5) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+2. 🎉 Merged PR [#4](https://github.com/manthanank/manthanank.github.io/pull/4) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+3. 🎉 Merged PR [#6](https://github.com/manthanank/manthanank.github.io/pull/6) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+4. 🎉 Merged PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+5. 💪 Opened PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+<!--END_SECTION:activity-->
 
 # Blog posts
-
-### [![Dev.to](https://img.shields.io/badge/-Dev.to-ffffff?style=for-the-badge&logo=dev.to&logoColor=0A0A0A)](https://dev.to/manthanank)
 
 <!-- DEVTO:START -->
 - [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
@@ -137,27 +113,9 @@ CSS                          ░░░░░░░░░░░░░░░░░
 - [Generating Component in Angular (Using CLI/Manually)](https://dev.to/manthanank/generating-component-in-angular-using-climanually-43pj)
 <!-- DEVTO:END -->
 
-<!--
-### [![Medium](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@manthanank)
--->
 <!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
-
-<!--
-### [![Hashnode](https://img.shields.io/badge/-Medium-ffffff?style=for-the-badge&logo=hashnode&logoColor=black)](https://medium.com/@manthanank)
--->
 
 <!-- HASHNODE_BLOG:START -->
 
 <!-- HASHNODE_BLOG:END -->
-
-
-### Thanks for visiting my profile 🤓 
-
-### If you like my projects and want to support me to build more cool open source projects
- 
-<a href="https://www.buymeacoffee.com/Manthanank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=VaibhavJaiswal&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
-
-### Feel free to fork and 🌟 this repo!!
-
-### Last Edited On: 21/8/22
