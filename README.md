@@ -1,24 +1,15 @@
 # Welcome to Manthan Ank's Profile 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Front+End+Developer;2%2B+Years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manthan-ankolekar-597b07a8)
+![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.twitter.com/manthan_ank)
+![Website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://manthanank.xyz/)
 
-[Portfolio](https://manthanank.xyz/)
-
-## Github Activeness
-
-![Snake](https://raw.githubusercontent.com/manthanank/manthanank/c3caee62181bfdbe3a20afa7249203aee20402a8/github-contribution-grid-snake.svg)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark)
-
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Front+End+Developer;2%2B+Years+of+Coding+Experience;Wake+Up%2C+Code%2C+Learn%2C+Sleep!)](https://git.io/typing-svg)
 
 [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
 
-![Tropies](https://github-profile-trophy.vercel.app/?username=manthanank&theme=onedark&margin-h=10&margin-w=6&no-bg=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&show_icons=true&locale=en&layout=compact&theme=dark)
+![Snake](https://raw.githubusercontent.com/manthanank/manthanank/c3caee62181bfdbe3a20afa7249203aee20402a8/github-contribution-grid-snake.svg)
 
 <!--START_SECTION:waka-->
 
@@ -32,16 +23,6 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/manthanank/manthanank.github.io/pull/5) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-2. 🎉 Merged PR [#4](https://github.com/manthanank/manthanank.github.io/pull/4) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-3. 🎉 Merged PR [#6](https://github.com/manthanank/manthanank.github.io/pull/6) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-4. 🎉 Merged PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-5. 💪 Opened PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-<!--END_SECTION:activity-->
 
 ## Blog posts
 
@@ -59,3 +40,13 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <!-- HASHNODE_BLOG:START -->
 
 <!-- HASHNODE_BLOG:END -->
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#5](https://github.com/manthanank/manthanank.github.io/pull/5) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+2. 🎉 Merged PR [#4](https://github.com/manthanank/manthanank.github.io/pull/4) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+3. 🎉 Merged PR [#6](https://github.com/manthanank/manthanank.github.io/pull/6) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+4. 🎉 Merged PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+5. 💪 Opened PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
+<!--END_SECTION:activity-->
