@@ -58,11 +58,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
 - [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
 - [Analyze React App Size](https://dev.to/manthanank/analyze-react-app-size-28ng)
 - [Deploy Angular app to GitHub Pages](https://dev.to/manthanank/deploy-angular-app-to-github-pages-gjl)
 - [Creating Service In Angular Using CLI/Manually](https://dev.to/manthanank/creating-service-using-climanually-fl2)
-- [Generating Component in Angular (Using CLI/Manually)](https://dev.to/manthanank/generating-component-in-angular-using-climanually-43pj)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
