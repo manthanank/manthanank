@@ -58,11 +58,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Deno Install/Upgrade steps](https://dev.to/manthanank/deno-installupgrade-steps-30ik)
 - [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
 - [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
 - [Analyze React App Size](https://dev.to/manthanank/analyze-react-app-size-28ng)
 - [Deploy Angular app to GitHub Pages](https://dev.to/manthanank/deploy-angular-app-to-github-pages-gjl)
-- [Creating Service In Angular Using CLI/Manually](https://dev.to/manthanank/creating-service-using-climanually-fl2)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
