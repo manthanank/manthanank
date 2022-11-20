@@ -58,11 +58,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Adding Tailwind CSS to Angular projects.](https://dev.to/manthanank/adding-tailwind-css-to-angular-projects-5132)
+- [Adding Bootstrap to Angular projects.](https://dev.to/manthanank/adding-bootstrap-to-angular-projects-8g8)
 - [MongoDB Cheatsheet](https://dev.to/manthanank/mongodb-cheatsheet-9do)
 - [Deno Install/Upgrade steps](https://dev.to/manthanank/deno-installupgrade-steps-30ik)
 - [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
-- [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
-- [Analyze React App Size](https://dev.to/manthanank/analyze-react-app-size-28ng)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
