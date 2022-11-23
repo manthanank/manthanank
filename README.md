@@ -58,11 +58,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Set up SSH key for GitLab on Windows](https://dev.to/manthanank/set-up-ssh-key-for-gitlab-on-windows-4gnd)
 - [Using cloudgragh in projects](https://dev.to/manthanank/using-cloudgragh-in-projects-3ij2)
 - [Data types in JavaScript](https://dev.to/manthanank/data-types-in-javascript-4ehg)
 - [Adding Tailwind CSS to Angular projects.](https://dev.to/manthanank/adding-tailwind-css-to-angular-projects-5132)
 - [Adding Bootstrap to Angular projects.](https://dev.to/manthanank/adding-bootstrap-to-angular-projects-8g8)
-- [MongoDB Cheatsheet](https://dev.to/manthanank/mongodb-cheatsheet-9do)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
