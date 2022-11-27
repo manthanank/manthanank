@@ -58,11 +58,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [GitHub Repositories : Part 1](https://dev.to/manthanank/github-repositories-part-1-5hb7)
 - [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
 - [Set up SSH key for GitLab on Windows](https://dev.to/manthanank/set-up-ssh-key-for-gitlab-on-windows-4gnd)
 - [Using cloudgragh in projects](https://dev.to/manthanank/using-cloudgragh-in-projects-3ij2)
 - [Data types in JavaScript](https://dev.to/manthanank/data-types-in-javascript-4ehg)
-- [Adding Tailwind CSS to Angular projects.](https://dev.to/manthanank/adding-tailwind-css-to-angular-projects-5132)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
