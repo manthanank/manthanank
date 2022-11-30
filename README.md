@@ -68,11 +68,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
-- [MongoDB Cheatsheet](https://dev.to/manthanank/mongodb-cheatsheet-9do)
-- [Deno Install/Upgrade steps](https://dev.to/manthanank/deno-installupgrade-steps-30ik)
-- [Docker Cheatsheet](https://dev.to/manthanank/docker-cheatsheet-bk6)
-- [Set-up Flask & Print Hello World!](https://dev.to/manthanank/set-up-flask-print-hello-world-1bmk)
-- [Analyze React App Size](https://dev.to/manthanank/analyze-react-app-size-28ng)
+- [GitHub Repositories : Part 2](https://dev.to/manthanank/github-repositories-part-2-3pp3)
+- [VS Code Extensions : Part 2](https://dev.to/manthanank/vs-code-extensions-part-2-394b)
+- [VS Code Extensions : Part - 1](https://dev.to/manthanank/vs-code-extensions-part-1-268a)
+- [GitHub Repositories : Part 1](https://dev.to/manthanank/github-repositories-part-1-5hb7)
+- [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
