@@ -10,23 +10,33 @@
 
 ## Skills Set
 
+<!-- ![C++](https://img.shields.io/badge/-c++-blue?style=for-the-badge&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/-c-blue?style=for-the-badge&logo=c&logoColor=white) -->
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=CSS3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-pink?style=for-the-badge&logo=SASS&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=Javascript&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-grren?style=for-the-badge&logo=jquery&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-darkred?style=for-the-badge&logo=Angular&logoColor=white)
 ![Typescript](https://img.shields.io/badge/-Typescript-blue?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/-flask-black?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-grren?style=for-the-badge&logo=Node.js&logoColor=white)
 ![express](https://img.shields.io/badge/-express-white?style=for-the-badge&logo=express&logoColor=black)
+![DENO](https://img.shields.io/badge/-deno-black?style=for-the-badge&logo=deno&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-grren?style=for-the-badge&logo=gatsby&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-orange?style=for-the-badge&logo=Git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Npm](https://img.shields.io/badge/-NPM-blue?style=for-the-badge&logo=Npm&logoColor=white)
+![GitLab](https://img.shields.io/badge/-gitlab-orange?style=for-the-badge&logo=gitlab&logoColor=white)
 ![mysql](https://img.shields.io/badge/-mysql-white?style=for-the-badge&logo=mysql&logoColor=black)
 ![Heroku](https://img.shields.io/badge/-Heroku-blue?style=for-the-badge&logo=Heroku&logoColor=white)
 ![Yarn](https://img.shields.io/badge/-Yarn-blue?style=for-the-badge&logo=Yarn&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=Docker&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=MongoDB&logoColor=green)
 ![firebase](https://img.shields.io/badge/-firebase-yellow?style=for-the-badge&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-graphql-white?style=for-the-badge&logo=graphql&logoColor=pink)
+![Postgresql](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## GitHub Stats
 
