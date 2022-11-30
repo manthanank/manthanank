@@ -4,9 +4,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 
-- 💻 I’m currently woking on...
-- 🤝 I’m looking to collaborate on...
-- ✉️ Reach me out through manthan.ank46@gmail.com , <https://manthanank.xyz>
+- 💻 I’m currently woking in **AppiVa Software Pvt Ltd** as a *Developer*.
+- 🤝 I’m looking to collaborate on open source projects
+- ✉️ Reach me out through manthan.ank46@gmail.com , <https://manthanank.github.io>
 
 ## Skills Set
 
