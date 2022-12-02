@@ -68,11 +68,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Adding Angular Material to Angular Projects.](https://dev.to/manthanank/adding-angular-material-to-angular-projects-3bc4)
 - [GitHub Repositories : Part 2](https://dev.to/manthanank/github-repositories-part-2-3pp3)
 - [VS Code Extensions : Part 2](https://dev.to/manthanank/vs-code-extensions-part-2-394b)
 - [VS Code Extensions : Part - 1](https://dev.to/manthanank/vs-code-extensions-part-1-268a)
 - [GitHub Repositories : Part 1](https://dev.to/manthanank/github-repositories-part-1-5hb7)
-- [JavaScript : var, let, const.](https://dev.to/manthanank/javascript-var-let-const-5f53)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
