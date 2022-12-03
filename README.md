@@ -44,7 +44,7 @@
 
 ## Streaks
 
-![Streaks](https://github-readme-streak-stats.herokuapp.com/?user=manthanank&show_icons=true&locale=en&layout=compact&theme=dark)
+[![GitHub Streak](https://streak-stats.demolab.com?user=manthanank&theme=dark)](https://git.io/streak-stats)
 
 ## Github Activeness
 
