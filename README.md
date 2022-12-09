@@ -68,11 +68,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Getting Started with Angular and Firebase: A Step-by-Step Guide to deploy to firebase.](https://dev.to/manthanank/getting-started-with-angular-and-firebase-a-step-by-step-guide-to-deploy-to-firebase-2d3b)
 - [Adding Angular Material to Angular Projects.](https://dev.to/manthanank/adding-angular-material-to-angular-projects-3bc4)
 - [GitHub Most Used Repositories : Part 2](https://dev.to/manthanank/github-repositories-part-2-3pp3)
 - [VS Code Most Used Extensions : Part 2](https://dev.to/manthanank/vs-code-extensions-part-2-394b)
 - [VS Code Most Used Extensions : Part - 1](https://dev.to/manthanank/vs-code-extensions-part-1-268a)
-- [GitHub Most Used Repositories : Part 1](https://dev.to/manthanank/github-repositories-part-1-5hb7)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
