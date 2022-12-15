@@ -48,7 +48,9 @@
 
 ## Github Activeness
 
-[![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph)
+[![Manthanank's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=manthanank&theme=xcode&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/manthanank/github-readme-activity-graph)
+
+<!-- [![Manthanank's github activity graph](https://activity-graph.herokuapp.com/graph?username=manthanank&theme=xcode)](https://github.com/manthanank/github-readme-activity-graph) -->
 
 ![Snake](https://raw.githubusercontent.com/manthanank/manthanank/c3caee62181bfdbe3a20afa7249203aee20402a8/github-contribution-grid-snake.svg)
 
