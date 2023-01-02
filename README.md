@@ -42,8 +42,8 @@
 
 ## Social Links
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
-![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/manthanank)](https://www.linkedin.com/in/manthanank)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/manthanank)](https://twitter.com/manthan_ank)
 
 ## GitHub Stats
 
