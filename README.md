@@ -40,6 +40,11 @@
 ![GraphQL](https://img.shields.io/badge/-graphql-white?style=for-the-badge&logo=graphql&logoColor=pink)
 ![Postgresql](https://img.shields.io/badge/-postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 
+## Social Links
+
+![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)
+![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)
+
 ## GitHub Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=manthanank&show_icons=true&locale=en&theme=dark)
