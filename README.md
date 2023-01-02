@@ -45,7 +45,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white&link=https://linkedin.com/manthanank)](https://www.linkedin.com/in/manthanank)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/manthanank)](https://twitter.com/manthan_ank)
 [![Instagram](https://img.shields.io/badge/-Instagram-red?style=for-the-badge&logo=Instagram&logoColor=white&link=https://twitter.com/manthanank)](https://www.instagram.com/manthan_ank/)
-[![YouTube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://twitter.com/manthanank)](https://twitter.com/manthan_ank)
+[![YouTube](https://img.shields.io/badge/-Youtube-red?style=for-the-badge&logo=YouTube&logoColor=white&link=https://twitter.com/manthanank)](https://www.youtube.com/channel/UCsVGjIkfpIB13iHg4GWpyhQ)
 
 ## GitHub Stats
 
