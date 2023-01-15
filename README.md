@@ -89,6 +89,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
+- [Learn JavaScript from this GitHub repository](https://manthanank.medium.com/learn-javascript-from-this-github-repository-2c645720cc7e?source=rss-ade313d62381------2)
 <!-- MEDIUM:END -->
 
 <!-- HASHNODE_BLOG:START -->
