@@ -81,11 +81,11 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ## Blog posts
 
 <!-- DEVTO:START -->
+- [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
 - [Upgrade all installed software's using command line](https://dev.to/manthanank/upgrade-all-installed-softwares-using-command-line-289i)
 - [Setting Up Nodejs with Typescript](https://dev.to/manthanank/setting-up-nodejs-with-typescript-mh7)
 - [Exploring Angular with GitHub Repositories: Top Picks for Learning and Development](https://dev.to/manthanank/exploring-angular-with-github-repositories-top-picks-for-learning-and-development-7ci)
 - [Getting Started with Node.js, Express.js, and GraphQL: A Beginner's Example Project](https://dev.to/manthanank/getting-started-with-nodejs-expressjs-and-graphql-a-beginners-example-project-523k)
-- [Angular with Firebase setup & deployment.](https://dev.to/manthanank/getting-started-with-angular-and-firebase-a-step-by-step-guide-to-deploy-to-firebase-2d3b)
 <!-- DEVTO:END -->
 
 <!-- MEDIUM:START -->
