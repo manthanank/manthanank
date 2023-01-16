@@ -93,7 +93,7 @@ CSS                          ░░░░░░░░░░░░░░░░░
 <!-- MEDIUM:END -->
 
 <!-- HASHNODE_BLOG:START -->
-
+- [GitHub repository to learn JavaScript and resources](https://manthanank.hashnode.dev//github-repository-to-learn-javascript-and-resources)
 <!-- HASHNODE_BLOG:END -->
 
 ## Recent GitHub Activity
