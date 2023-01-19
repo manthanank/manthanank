@@ -77,22 +77,3 @@ CSS                          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-## Blog posts
-
-<!-- DEVTO:START -->
-- [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
-- [Upgrade all installed software's using command line](https://dev.to/manthanank/upgrade-all-installed-softwares-using-command-line-289i)
-- [Setting Up Nodejs with Typescript](https://dev.to/manthanank/setting-up-nodejs-with-typescript-mh7)
-- [Exploring Angular with GitHub Repositories: Top Picks for Learning and Development](https://dev.to/manthanank/exploring-angular-with-github-repositories-top-picks-for-learning-and-development-7ci)
-- [Getting Started with Node.js, Express.js, and GraphQL: A Beginner's Example Project](https://dev.to/manthanank/getting-started-with-nodejs-expressjs-and-graphql-a-beginners-example-project-523k)
-<!-- DEVTO:END -->
-
-<!-- MEDIUM:START -->
-- [Learn JavaScript from this GitHub repository](https://manthanank.medium.com/learn-javascript-from-this-github-repository-2c645720cc7e?source=rss-ade313d62381------2)
-<!-- MEDIUM:END -->
-
-<!-- HASHNODE_BLOG:START -->
-- [GitHub repository to learn JavaScript and resources](https://manthanank.hashnode.dev//github-repository-to-learn-javascript-and-resources)
-<!-- HASHNODE_BLOG:END -->
-
