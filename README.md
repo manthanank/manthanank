@@ -96,12 +96,3 @@ CSS                          ░░░░░░░░░░░░░░░░░
 - [GitHub repository to learn JavaScript and resources](https://manthanank.hashnode.dev//github-repository-to-learn-javascript-and-resources)
 <!-- HASHNODE_BLOG:END -->
 
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/manthanank/manthanank.github.io/pull/5) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-2. 🎉 Merged PR [#4](https://github.com/manthanank/manthanank.github.io/pull/4) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-3. 🎉 Merged PR [#6](https://github.com/manthanank/manthanank.github.io/pull/6) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-4. 🎉 Merged PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-5. 💪 Opened PR [#7](https://github.com/manthanank/manthanank.github.io/pull/7) in [manthanank/manthanank.github.io](https://github.com/manthanank/manthanank.github.io)
-<!--END_SECTION:activity-->
