@@ -54,6 +54,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Lintree Clone in Angular](https://dev.to/manthanank/lintree-clone-in-angular-4a14)
+- [Publish Angular Library to NPM](https://dev.to/manthanank/publish-angular-library-to-npm-f5j)
+- [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
+- [Upgrade all installed software&#39;s using command line](https://dev.to/manthanank/upgrade-all-installed-softwares-using-command-line-289i)
+- [Setting Up Nodejs with Typescript](https://dev.to/manthanank/setting-up-nodejs-with-typescript-mh7)
 <!-- BLOG-POST-LIST:END -->
 
 ## Languages used
