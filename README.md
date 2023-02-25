@@ -54,7 +54,7 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Create multiple angular apps in one app](https://dev.to/manthanank/create-multiple-angular-apps-in-one-app-lf4)
+- [Create multiple Angular apps in one Angular app](https://dev.to/manthanank/create-multiple-angular-apps-in-one-app-lf4)
 - [Lintree Clone in Angular](https://dev.to/manthanank/lintree-clone-in-angular-4a14)
 - [Publish Angular Library to NPM](https://dev.to/manthanank/publish-angular-library-to-npm-f5j)
 - [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
