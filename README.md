@@ -53,12 +53,8 @@
 
 ## Recent Blog Posts
 
-<!-- DEVTO:START -->
-<!-- DEVTO:END -->
-<!-- MEDIUM:START -->
-<!-- MEDIUM:END -->
-<!-- HASHNODE:START -->
-<!-- HASHNODE:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Languages
 
