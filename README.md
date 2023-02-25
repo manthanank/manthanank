@@ -61,17 +61,7 @@
 - [Setting Up Nodejs with Typescript](https://dev.to/manthanank/setting-up-nodejs-with-typescript-mh7)
 <!-- BLOG-POST-LIST:END -->
 
-<!-- HASHNODE_BLOG:START -->
-<p align="left">
-<a href="https://blog.manthanank.dev/github-repository-to-learn-javascript-and-resources" title="GitHub repository to learn JavaScript and resources"><img src="https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/cckf4TsHAuw/upload/af68d68f4ac642d777fe9ab4d10d4ece.jpeg" alt="GitHub repository to learn JavaScript and resources" width="250px" align="left" /></a>
-<a href="https://blog.manthanank.dev/github-repository-to-learn-javascript-and-resources" title="GitHub repository to learn JavaScript and resources"><strong>GitHub repository to learn JavaScript and resources</strong></a>
-<br/> Contents Included:  
-✅Complete JavaScript Guide to learn from basics✅Examples, Interview Questions, etc.  
-Resources to learn JavaScript are also included in it.  
-✅Learn from GitHub Repositories✅Learn from Websites✅Learn from Books✅Learn from YouTub... </p> <br/> <br/>
-<!-- HASHNODE_BLOG:END -->
-
-## Languages used
+## Languages
 
 <!--START_SECTION:waka-->
 
