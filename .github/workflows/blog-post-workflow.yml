@@ -18,7 +18,9 @@ jobs:
         with:
           comment_tag_name: "DEVTO"
           feed_list: "https://dev.to/feed/manthanank"
+        with:
           comment_tag_name: "MEDIUM"
           feed_list: "https://medium.com/feed/@manthanank"
+        with:
           comment_tag_name: "HASHNODE"
           feed_list: "https://manthanank.hashnode.dev/rss.xml"
