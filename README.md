@@ -61,7 +61,7 @@
 - [Upgrade all installed software&#39;s using command line](https://dev.to/manthanank/upgrade-all-installed-softwares-using-command-line-289i)
 <!-- BLOG-POST-LIST:END -->
 
-## Languages
+## Weekly Insight of Languages I use
 
 <!--START_SECTION:waka-->
 
