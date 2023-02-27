@@ -1,9 +1,13 @@
 name: Update README
 
 on:
-  schedule:
-    - cron: '0 * * * *'
+  push:
+    branches:
+      - master
   workflow_dispatch:
+  schedule:
+    # Runs at 12am UTC
+    - cron: '0 * * * *'
   
 jobs:
   build:
