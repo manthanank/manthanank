@@ -54,11 +54,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Add package manager to Angular app](https://dev.to/manthanank/add-package-manager-to-angular-app-2df)
 - [Create multiple Angular apps in one Angular app](https://dev.to/manthanank/create-multiple-angular-apps-in-one-app-lf4)
 - [Lintree Clone in Angular](https://dev.to/manthanank/lintree-clone-in-angular-4a14)
 - [Publish Angular Library to NPM](https://dev.to/manthanank/publish-angular-library-to-npm-f5j)
 - [Learn JavaScript from this GitHub repo](https://dev.to/manthanank/learn-javascript-from-this-github-repo-36bp)
-- [Upgrade all installed software&#39;s using command line](https://dev.to/manthanank/upgrade-all-installed-softwares-using-command-line-289i)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
