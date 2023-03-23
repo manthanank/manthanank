@@ -40,17 +40,6 @@
 ![GraphQL](/assets/svg/graphql.svg)
 ![Postgresql](/assets/svg/postgresql.svg)
 
-## Social Links
-
-[![LinkedIn](/assets/svg/linkedin.svg)](https://www.linkedin.com/in/manthanank)
-[![Twitter](/assets/svg/twitter.svg)](https://twitter.com/manthan_ank)
-[![Instagram](/assets/svg/instagram.svg)](https://www.instagram.com/manthan_ank/)
-[![YouTube](/assets/svg/youtube.svg)](https://www.youtube.com/channel/UCsVGjIkfpIB13iHg4GWpyhQ)
-
-<!-- ## Streaks
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=manthanank&theme=dark)](https://git.io/streak-stats) -->
-
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
