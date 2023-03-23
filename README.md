@@ -1,4 +1,4 @@
-# Hey, I'm Manthan Ank👋
+# Hey, I'm Manthan Ankolekar👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;Learn%2C+Build%2C+Repeat)](https://git.io/typing-svg)
 
