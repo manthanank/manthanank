@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/manthanank/manthanank/compare/v1.2.0...v1.2.1) (2023-03-25)
+
+
+### Bug Fixes
+
+* docker repo name changed ([31b3d5f](https://github.com/manthanank/manthanank/commit/31b3d5fb3bab79fbcdb8c6f892c65e97ede330b8))
+
+
+
 # [1.2.0](https://github.com/manthanank/manthanank/compare/v1.1.0...v1.2.0) (2023-03-25)
 
 
