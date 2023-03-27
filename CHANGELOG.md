@@ -1,3 +1,12 @@
+## [1.2.2](https://github.com/manthanank/manthanank/compare/v1.2.1...v1.2.2) (2023-03-27)
+
+
+### Bug Fixes
+
+* updated all svg width & height to 40px ([1712934](https://github.com/manthanank/manthanank/commit/1712934c2108eba108e4eb10836fd0845e76d91e))
+
+
+
 ## [1.2.1](https://github.com/manthanank/manthanank/compare/v1.2.0...v1.2.1) (2023-03-25)
 
 
