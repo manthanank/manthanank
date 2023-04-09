@@ -1,3 +1,12 @@
+# [1.5.0](https://github.com/manthanank/manthanank/compare/v1.4.0...v1.5.0) (2023-04-09)
+
+
+### Features
+
+* updated package desc ([87c2347](https://github.com/manthanank/manthanank/commit/87c2347608b3c31497fa464c652256b1c943818b))
+
+
+
 # [1.4.0](https://github.com/manthanank/manthanank/compare/v1.3.0...v1.4.0) (2023-03-29)
 
 
@@ -33,15 +42,6 @@
 ### Bug Fixes
 
 * docker repo name changed ([31b3d5f](https://github.com/manthanank/manthanank/commit/31b3d5fb3bab79fbcdb8c6f892c65e97ede330b8))
-
-
-
-# [1.2.0](https://github.com/manthanank/manthanank/compare/v1.1.0...v1.2.0) (2023-03-25)
-
-
-### Features
-
-* added docker ([459f5a2](https://github.com/manthanank/manthanank/commit/459f5a2bfcd5c541cf79d699bdecfa5e2abe1953))
 
 
 
