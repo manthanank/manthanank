@@ -1,3 +1,12 @@
+# [1.6.0](https://github.com/manthanank/manthanank/compare/v1.5.0...v1.6.0) (2023-05-18)
+
+
+### Features
+
+* updated readme ([bfebdf3](https://github.com/manthanank/manthanank/commit/bfebdf325429d02261974e6451efb37401ea4b0f))
+
+
+
 # [1.5.0](https://github.com/manthanank/manthanank/compare/v1.4.0...v1.5.0) (2023-04-09)
 
 
@@ -33,15 +42,6 @@
 ### Bug Fixes
 
 * updated all svg width & height to 40px ([1712934](https://github.com/manthanank/manthanank/commit/1712934c2108eba108e4eb10836fd0845e76d91e))
-
-
-
-## [1.2.1](https://github.com/manthanank/manthanank/compare/v1.2.0...v1.2.1) (2023-03-25)
-
-
-### Bug Fixes
-
-* docker repo name changed ([31b3d5f](https://github.com/manthanank/manthanank/commit/31b3d5fb3bab79fbcdb8c6f892c65e97ede330b8))
 
 
 
