@@ -3,11 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;Learn%2C+Build%2C+Repeat)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
-![npm](https://img.shields.io/npm/dw/manthanank)
+![npm](https://img.shields.io/npm/dt/manthanank)
+<!-- ![npm](https://img.shields.io/npm/dw/manthanank)
+![npm](https://img.shields.io/npm/dm/manthanank)
+![npm](https://img.shields.io/npm/dy/manthanank) -->
 
 - 💻 I’m currently woking in **Blackcoffer** as a *Software Engineer Associate*.
 - 🧑‍💻 I’m currently learning MEAN Stack and working on.
-- ✉️ Reach me out through manthan.ank46@gmail.com
+- ✉️ Reach me out through [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
 
 ## Skills Set
 
