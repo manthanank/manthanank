@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily used Git commands.](https://dev.to/manthanank/daily-used-git-commands-1jg)
 - [What are Angular Signals? Explain with example.](https://dev.to/manthanank/what-ara-angular-signals-explain-with-example-1nei)
 - [Router Debugging in Angular](https://dev.to/manthanank/router-debugging-in-angular-4abd)
 - [Cookies vs Local Storage vs Session Storage](https://manthanank.hashnode.dev/cookies-vs-local-storage-vs-session-storage)
 - [Cookies vs Local Storage vs Session Storage](https://dev.to/manthanank/cookies-vs-local-storage-vs-session-storage-1d7i)
-- [Setting up multiple environments in Angular app](https://dev.to/manthanank/setting-up-multiple-environments-in-angular-app-50kf)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
