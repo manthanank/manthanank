@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [What is ForwardRef Function in Angular?](https://dev.to/manthanank/what-is-forwardref-function-in-angular-95f)
 - [What is @input&lpar;&rpar; from Angular v16?](https://dev.to/manthanank/what-is-input-from-angular-v16-3kh)
 - [What is Container queries?🤔](https://dev.to/manthanank/what-is-container-queries-ajl)
 - [New Array methods in JavaScript](https://dev.to/manthanank/new-array-methods-in-javascript-4m30)
 - [What is Renderer2? How to use it in Angular Project?](https://dev.to/manthanank/what-is-renderer2-how-to-use-it-in-angular-project-5l1)
-- [Daily used Git commands.](https://dev.to/manthanank/daily-used-git-commands-1jg)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
