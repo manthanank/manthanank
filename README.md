@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Used Git &amp; GitHub Commands](https://manthanank.hashnode.dev/most-used-git-github-commands)
+- [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
 - [Difference between px vs em vs rem in CSS](https://dev.to/manthanank/difference-between-px-vs-em-vs-rem-in-css-51i8)
 - [What is ForwardRef Function in Angular?](https://dev.to/manthanank/what-is-forwardref-function-in-angular-95f)
 - [What is @input&lpar;&rpar; from Angular v16?](https://dev.to/manthanank/what-is-input-from-angular-v16-3kh)
-- [What is Container queries?🤔](https://dev.to/manthanank/what-is-container-queries-ajl)
-- [New Array methods in JavaScript](https://dev.to/manthanank/new-array-methods-in-javascript-4m30)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
