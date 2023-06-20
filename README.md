@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Most Used MySQL Commands and Syntax](https://manthanank.hashnode.dev/most-used-mysql-commands-and-syntax)
+- [CSS Grid Cheatsheet](https://dev.to/manthanank/css-grid-cheatsheet-53la)
 - [Most Used MongoDB commands and operations](https://manthanank.hashnode.dev/most-used-mongodb-commands-and-operations)
 - [CSS Flex Cheatsheet](https://dev.to/manthanank/css-flex-cheatsheet-13lp)
 - [Git &amp; GitHub Commands](https://dev.to/manthanank/git-github-commands-45b6)
-- [Most Used Git &amp; GitHub Commands](https://manthanank.hashnode.dev/most-used-git-github-commands)
-- [Difference between Promises and Observables.](https://dev.to/manthanank/difference-between-promises-and-observables-380e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
