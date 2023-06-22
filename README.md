@@ -47,10 +47,10 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Commonly used features and commands of Firebase](https://manthanank.hashnode.dev/commonly-used-features-and-commands-of-firebase)
 - [Most Used MySQL Commands and Syntax](https://manthanank.hashnode.dev/most-used-mysql-commands-and-syntax)
 - [CSS Grid Cheatsheet](https://dev.to/manthanank/css-grid-cheatsheet-53la)
 - [Most Used MongoDB commands and operations](https://manthanank.hashnode.dev/most-used-mongodb-commands-and-operations)
-- [Git &amp; GitHub Commands](https://dev.to/manthanank/git-github-commands-45b6)
 - [CSS Flex Cheatsheet](https://dev.to/manthanank/css-flex-cheatsheet-13lp)
 <!-- BLOG-POST-LIST:END -->
 
