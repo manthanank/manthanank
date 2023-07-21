@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful Input Decorator Features in Angular 16](https://dev.to/manthanank/useful-input-decorator-features-in-angular-16-1og3)
 - [User Snippets in VS Code](https://dev.to/manthanank/user-snippets-in-vs-code-1bik)
 - [Commonly used npm commands](https://dev.to/manthanank/commonly-used-npm-commands-25ck)
 - [Most Used commands, methods, and concepts of Node.js](https://dev.to/manthanank/most-used-commands-methods-and-concepts-of-nodejs-182e)
 - [Common used commands, methods, and concepts of Node.js](https://manthanank.hashnode.dev/common-used-commands-methods-and-concepts-of-nodejs)
-- [Commonly used features and commands of Firebase in Angular](https://manthanank.hashnode.dev/commonly-used-features-and-commands-of-firebase-in-angular)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
