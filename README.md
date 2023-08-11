@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
 - [Building a real-time chat application using Node.js, MongoDB, and Express](https://dev.to/manthanank/building-a-real-time-chat-application-using-nodejs-mongodb-and-express-3bhp)
 - [Ways to unsubscribe in Angular to avoid memory leaks](https://dev.to/manthanank/ways-to-unsubscribe-in-angular-to-avoid-memory-leaks-4b06)
 - [Useful Input Decorator Features in Angular 16](https://dev.to/manthanank/useful-input-decorator-features-in-angular-16-1og3)
 - [User Snippets in VS Code](https://dev.to/manthanank/user-snippets-in-vs-code-1bik)
-- [Commonly used npm commands](https://dev.to/manthanank/commonly-used-npm-commands-25ck)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
