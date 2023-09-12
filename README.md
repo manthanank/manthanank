@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bun.js cheatsheet](https://dev.to/manthanank/bunjs-cheatsheet-4ilp)
 - [Deno Cheatsheet](https://dev.to/manthanank/deno-cheatsheet-3fbd)
 - [Typescript Type vs Interface](https://dev.to/manthanank/typescript-type-vs-interface-e94)
 - [MySQL CheatSheet](https://dev.to/manthanank/mysql-cheatsheet-1m9i)
 - [Convert simple javascript function to typescript](https://dev.to/manthanank/convert-simple-javascript-function-to-typescript-29o6)
-- [Building a real-time chat application using Node.js, MongoDB, and Express](https://dev.to/manthanank/building-a-real-time-chat-application-using-nodejs-mongodb-and-express-3bhp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
