@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
 - [Easy steps to migrate all Angular components to standalone](https://dev.to/manthanank/create-an-angular-complete-standalone-app-2f4a)
 - [Bun.js cheatsheet](https://dev.to/manthanank/bunjs-cheatsheet-4ilp)
 - [Deno Cheatsheet](https://dev.to/manthanank/deno-cheatsheet-3fbd)
 - [Typescript Type vs Interface](https://dev.to/manthanank/typescript-type-vs-interface-e94)
-- [MySQL CheatSheet](https://dev.to/manthanank/mysql-cheatsheet-1m9i)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
