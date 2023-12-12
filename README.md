@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
 - [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
 - [Wrong Methods vs Good Methods in javascript](https://dev.to/manthanank/wrong-methods-vs-good-methods-in-javascript-4cgl)
 - [Typescript type vs interface with example in angular](https://dev.to/manthanank/typescript-type-vs-interface-with-example-in-angular-3k9m)
 - [Typescript type vs interface](https://dev.to/manthanank/typescript-type-vs-interface-2gf)
-- [Easy steps to migrate all Angular components to standalone](https://dev.to/manthanank/create-an-angular-complete-standalone-app-2f4a)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
