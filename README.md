@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Sorting Arrays in JavaScript: toSorted&lpar;&rpar; and sort&lpar;&rpar;](https://dev.to/manthanank/sorting-arrays-in-javascript-tosorted-and-sort-4pf6)
 - [Nodejs with NGINX](https://dev.to/manthanank/nodejs-with-nginx-35d1)
 - [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
 - [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
 - [Wrong Methods vs Good Methods in javascript](https://dev.to/manthanank/wrong-methods-vs-good-methods-in-javascript-4cgl)
-- [Typescript type vs interface with example in angular](https://dev.to/manthanank/typescript-type-vs-interface-with-example-in-angular-3k9m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
