@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Image Uploads and Deletion with Node.js and Cloudinary](https://dev.to/manthanank/simplifying-image-uploads-and-deletion-with-nodejs-and-cloudinary-e6p)
 - [Building a Simple Email Sending API with Express and Node.js](https://dev.to/manthanank/building-a-simple-email-sending-api-with-express-and-nodejs-eln)
 - [Sorting Arrays in JavaScript: toSorted&lpar;&rpar; and sort&lpar;&rpar;](https://dev.to/manthanank/sorting-arrays-in-javascript-tosorted-and-sort-4pf6)
 - [Nodejs with NGINX](https://dev.to/manthanank/nodejs-with-nginx-35d1)
 - [Common mistakes to avoid while working with Express.js](https://dev.to/manthanank/common-mistakes-to-avoid-while-working-with-expressjs-5g3d)
-- [New Array Method in JavaScript: groupBy](https://dev.to/manthanank/new-array-method-in-javascript-groupby-3f5n)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
