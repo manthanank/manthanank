@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NGINX Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/nginx-cheatsheet-a-quick-reference-guide-o0m)
 - [PM2 Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/pm2-cheatsheet-a-quick-reference-guide-f6e)
 - [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/manthanank/exploring-javascript-string-methods-a-comprehensive-guide-49m0)
 - [Building a Newsletter Subscription System with Node.js and MongoDB](https://dev.to/manthanank/building-a-newsletter-subscription-system-with-nodejs-and-mongodb-2dld)
 - [Setting Up a Simple Real-Time Application with Angular, Node.js, and Socket.IO](https://dev.to/manthanank/setting-up-a-simple-real-time-application-with-angular-nodejs-and-socketio-2dcm)
-- [6 ways to hide an element in CSS](https://dev.to/manthanank/6-ways-to-hide-an-element-in-css-2e10)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
