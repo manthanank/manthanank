@@ -8,8 +8,8 @@
 ![npm](https://img.shields.io/npm/dm/manthanank)
 ![npm](https://img.shields.io/npm/dy/manthanank) -->
 
-- 💻 I’m currently woking in **Blackcoffer** as a *Software Engineer Associate*.
-- 🧑‍💻 I’m currently learning MEAN Stack and working on.
+- 💻 I’m currently woking in **Blackcoffer** as a *Software Engineer*.
+- 🧑‍💻 I’m currently learning MEAN Stack and working on it.
 - ✉️ Reach me out through [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
 
 ## Skills Set
