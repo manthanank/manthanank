@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
 - [Building a Contact Form with HTML, CSS, and JavaScript](https://dev.to/manthanank/building-a-contact-form-with-html-css-and-javascript-2409)
 - [NGINX Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/nginx-cheatsheet-a-quick-reference-guide-o0m)
 - [PM2 Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/pm2-cheatsheet-a-quick-reference-guide-f6e)
 - [Exploring JavaScript String Methods: A Comprehensive Guide](https://dev.to/manthanank/exploring-javascript-string-methods-a-comprehensive-guide-49m0)
-- [Building a Newsletter Subscription System with Node.js and MongoDB](https://dev.to/manthanank/building-a-newsletter-subscription-system-with-nodejs-and-mongodb-2dld)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
