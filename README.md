@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an OTP Verification System using HTML, CSS, and JavaScript](https://dev.to/manthanank/building-an-otp-verification-system-using-html-css-and-javascript-2dlk)
 - [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
 - [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
 - [Building a Contact Form with HTML, CSS, and JavaScript](https://dev.to/manthanank/building-a-contact-form-with-html-css-and-javascript-2409)
 - [NGINX Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/nginx-cheatsheet-a-quick-reference-guide-o0m)
-- [PM2 Cheatsheet: A Quick Reference Guide](https://dev.to/manthanank/pm2-cheatsheet-a-quick-reference-guide-f6e)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
