@@ -47,11 +47,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Understanding Git Pull vs. Git Fetch: Unveiling the Difference](https://manthanank.hashnode.dev/understanding-git-pull-vs-git-fetch-unveiling-the-difference)
+- [Understanding Git Pull vs. Git Fetch: Unveiling the Difference](https://dev.to/manthanank/understanding-git-pull-vs-git-fetch-unveiling-the-difference-52i8)
 - [npm i vs npm ci: Understanding the Difference](https://manthanank.hashnode.dev/npm-i-vs-npm-ci-understanding-the-difference)
 - [npm i vs npm ci: Understanding the Difference](https://dev.to/manthanank/npm-i-vs-npm-ci-understanding-the-difference-2pfk)
 - [Building an OTP Verification System using HTML, CSS, and JavaScript](https://dev.to/manthanank/building-an-otp-verification-system-using-html-css-and-javascript-2dlk)
-- [Building an OTP Verification System with Node.js and MongoDB](https://dev.to/manthanank/building-an-otp-verification-system-with-nodejs-and-mongodb-2p0o)
-- [Building a Contact Form with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-contact-form-with-nodejs-express-and-mongodb-534)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
