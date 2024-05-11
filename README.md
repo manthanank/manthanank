@@ -33,6 +33,7 @@
 ![Deno](/assets/svg/deno.svg)
 ![Gatsby](/assets/svg/gatsby.svg)
 ![NextJs](/assets/svg/nextjs.svg)
+![NestJs](/assets/svg/nestjs.svg)
 ![Astro](/assets/svg/astro.svg)
 ![Markdown](/assets/svg/markdown.svg)
 ![Git](/assets/svg/git.svg)
