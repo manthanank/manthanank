@@ -57,11 +57,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Node.js CRUD with Express: A Step-by-Step Guide for Beginners](https://manthanank.hashnode.dev/nodejs-crud-with-express-a-step-by-step-guide-for-beginners)
 - [Building a CRUD Application with Node.js, Express, and MySQL](https://dev.to/manthanank/building-a-crud-application-with-nodejs-express-and-mysql-4d2m)
 - [Node.js, Express, MongoDB CRUD App: A Step-by-Step Guide](https://manthanank.hashnode.dev/nodejs-express-mongodb-crud-app-a-step-by-step-guide)
 - [Building a CRUD Application with Node.js, Express, and MongoDB](https://dev.to/manthanank/building-a-crud-application-with-nodejs-express-and-mongodb-25o2)
-- [Simplifying Your Workflow: npm run vs npm --run](https://manthanank.hashnode.dev/simplifying-your-workflow-npm-run-vs-npm-run)
-- [Simplifying Your Workflow: npm run vs npm --run](https://dev.to/manthanank/simplifying-your-workflow-npm-run-vs-npm-run-2p69)
+- [Supercharge Your Workflow: A Beginner&#39;s Guide to npm run](https://manthanank.hashnode.dev/supercharge-your-workflow-a-beginners-guide-to-npm-run)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
