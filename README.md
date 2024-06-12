@@ -57,11 +57,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Lifecycle Hooks: The Essentials](https://manthanank.hashnode.dev/angular-lifecycle-hooks-the-essentials)
+- [Understanding Angular Life Cycle Hooks: A Comprehensive Guide](https://dev.to/manthanank/understanding-angular-life-cycle-hooks-a-comprehensive-guide-34oa)
 - [Level Up Your Angular Skills: The Essential Guide to Directives](https://manthanank.hashnode.dev/level-up-your-angular-skills-the-essential-guide-to-directives)
 - [Exploring Angular Directives: A Comprehensive Guide](https://dev.to/manthanank/exploring-angular-directives-a-comprehensive-guide-4bia)
 - [Node.js CRUD with Express: A Step-by-Step Guide for Beginners](https://manthanank.hashnode.dev/nodejs-crud-with-express-a-step-by-step-guide-for-beginners)
-- [Building a CRUD Application with Node.js, Express, and MySQL](https://dev.to/manthanank/building-a-crud-application-with-nodejs-express-and-mysql-4d2m)
-- [Node.js, Express, MongoDB CRUD App: A Step-by-Step Guide](https://manthanank.hashnode.dev/nodejs-express-mongodb-crud-app-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
