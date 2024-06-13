@@ -57,11 +57,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Dynamic Forms in Angular: Template-Driven vs Reactive Approaches](https://manthanank.hashnode.dev/building-dynamic-forms-in-angular-template-driven-vs-reactive-approaches)
+- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
 - [Angular Lifecycle Hooks: The Essentials](https://manthanank.hashnode.dev/angular-lifecycle-hooks-the-essentials)
 - [Understanding Angular Life Cycle Hooks: A Comprehensive Guide](https://dev.to/manthanank/understanding-angular-life-cycle-hooks-a-comprehensive-guide-34oa)
 - [Level Up Your Angular Skills: The Essential Guide to Directives](https://manthanank.hashnode.dev/level-up-your-angular-skills-the-essential-guide-to-directives)
-- [Exploring Angular Directives: A Comprehensive Guide](https://dev.to/manthanank/exploring-angular-directives-a-comprehensive-guide-4bia)
-- [Node.js CRUD with Express: A Step-by-Step Guide for Beginners](https://manthanank.hashnode.dev/nodejs-crud-with-express-a-step-by-step-guide-for-beginners)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
