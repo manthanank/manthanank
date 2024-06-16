@@ -1,3 +1,13 @@
+# [1.9.0](https://github.com/manthanank/manthanank/compare/v1.8.0...v1.9.0) (2024-06-16)
+
+
+### Features
+
+* Update publish.yml ([3aec0ab](https://github.com/manthanank/manthanank/commit/3aec0ab6b07bb6fe0ca213a858cfe0f260ce8f62))
+* Update publish.yml ([f15836a](https://github.com/manthanank/manthanank/commit/f15836af2227cf095b14e3b70a6c13dbca4af66a))
+
+
+
 # [1.8.0](https://github.com/manthanank/manthanank/compare/v1.7.0...v1.8.0) (2024-06-16)
 
 
@@ -31,15 +41,6 @@
 ### Features
 
 * updated package desc ([87c2347](https://github.com/manthanank/manthanank/commit/87c2347608b3c31497fa464c652256b1c943818b))
-
-
-
-# [1.4.0](https://github.com/manthanank/manthanank/compare/v1.3.0...v1.4.0) (2023-03-29)
-
-
-### Features
-
-* added npm downloads badge ([71e010f](https://github.com/manthanank/manthanank/commit/71e010f1de4a390e25ebef063fb8e83009219b7b))
 
 
 
