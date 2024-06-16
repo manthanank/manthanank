@@ -1,3 +1,12 @@
+# [1.11.0](https://github.com/manthanank/manthanank/compare/v1.10.0...v1.11.0) (2024-06-16)
+
+
+### Features
+
+* Update releases.yml ([2e9bf7b](https://github.com/manthanank/manthanank/commit/2e9bf7b7cf882812dcc0dd9fbd04d8fd8b4d29c4))
+
+
+
 # [1.10.0](https://github.com/manthanank/manthanank/compare/v1.9.0...v1.10.0) (2024-06-16)
 
 
@@ -32,15 +41,6 @@
 ### Features
 
 * Update releases.json ([f44ffb2](https://github.com/manthanank/manthanank/commit/f44ffb2b15193dd0fa5a44a1f886655e3e03c68a))
-
-
-
-# [1.6.0](https://github.com/manthanank/manthanank/compare/v1.5.0...v1.6.0) (2023-05-18)
-
-
-### Features
-
-* updated readme ([bfebdf3](https://github.com/manthanank/manthanank/commit/bfebdf325429d02261974e6451efb37401ea4b0f))
 
 
 
