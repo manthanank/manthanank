@@ -4,15 +4,57 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
-<!-- ![npm](https://img.shields.io/npm/dw/manthanank)
-![npm](https://img.shields.io/npm/dm/manthanank)
-![npm](https://img.shields.io/npm/dy/manthanank) -->
+![GitHub followers](https://img.shields.io/github/followers/manthanank?label=Follow&style=social)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
+![GitHub User's stars](https://img.shields.io/github/stars/manthanank?affiliations=OWNER&style=social)
 
 - 💻 I currently work as a **Software Engineer** at **Blackcoffer**.
 - 🧑‍💻 I’m currently learning MEAN Stack and working on it.
 - ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
+- 📄 Check out my [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing)
+- 📝 I regularly write articles on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
 
-## Skills Set
+## Languages and Tools
+
+<!-- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Typescript](https://img.shields.io/badge/-Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![RxJS](https://img.shields.io/badge/-RxJS-B7178C?style=for-the-badge&logo=reactivex&logoColor=white)
+![NgRx](https://img.shields.io/badge/-NgRx-333333?style=for-the-badge&logo=redux&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+![Deno](https://img.shields.io/badge/-Deno-000000?style=for-the-badge&logo=deno&logoColor=white)
+![Gatsby](https://img.shields.io/badge/-Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
+![NextJs](https://img.shields.io/badge/-NextJs-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![NestJs](https://img.shields.io/badge/-NestJs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Astro](https://img.shields.io/badge/-Astro-000000?style=for-the-badge&logo=astro&logoColor=white)
+![Markdown](https://img.shields.io/badge/-Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Npm](https://img.shields.io/badge/-Npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-269539?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/-Postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/-GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
 
 ![HTML5](/assets/svg/html.svg)
 ![CSS3](/assets/svg/css.svg)
@@ -82,3 +124,26 @@ YAML          8 mins          ░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
+
+## Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manthanank)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/manthan_ank)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://manthanank.hashnode.dev/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev-dot-to&logoColor=white)](https://dev.to/manthanank)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://manthanank.medium.com/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/manthan_ank/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]([https://www.facebook.com/manthanank/](https://www.facebook.com/manthanank/))
+
+## Support me
+
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/manthanank)
+[![Sponsor me](https://img.shields.io/badge/Sponsor%20me-FFDD00?style=for-the-badge&logo=github-sponsors&logoColor=white)]([https://github.com/sponsors/manthanank])
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+---
+
+Thanks for visiting! 😄
