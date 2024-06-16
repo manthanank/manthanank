@@ -1,6 +1,6 @@
 # Hey, I'm Manthan Ankolekar👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Front+End+Developer;Learn%2C+Build%2C+Repeat)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer%F0%9F%8E%93;Front+End+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;MEAN+Stack+Developer%F0%9F%9A%80;Learn%2C+Code%2C+Build+%F0%9F%91%BD)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
 ![npm](https://img.shields.io/npm/dt/manthanank)
