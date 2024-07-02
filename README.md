@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript&#39;s == vs ===: A Deep Dive into Equality and Identity](https://manthanank.hashnode.dev/javascripts-vs-a-deep-dive-into-equality-and-identity)
+- [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
 - [Building Dynamic Forms in Angular: Template-Driven vs Reactive Approaches](https://manthanank.hashnode.dev/building-dynamic-forms-in-angular-template-driven-vs-reactive-approaches)
 - [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
 - [Angular Lifecycle Hooks: The Essentials](https://manthanank.hashnode.dev/angular-lifecycle-hooks-the-essentials)
-- [Understanding Angular Life Cycle Hooks: A Comprehensive Guide](https://dev.to/manthanank/understanding-angular-life-cycle-hooks-a-comprehensive-guide-34oa)
-- [Level Up Your Angular Skills: The Essential Guide to Directives](https://manthanank.hashnode.dev/level-up-your-angular-skills-the-essential-guide-to-directives)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
