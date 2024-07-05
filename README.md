@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enhancing Angular Components with :host and :host-context](https://manthanank.hashnode.dev/enhancing-angular-components-with-host-and-host-context)
+- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
 - [JavaScript&#39;s == vs ===: A Deep Dive into Equality and Identity](https://manthanank.hashnode.dev/javascripts-vs-a-deep-dive-into-equality-and-identity)
 - [Understanding JavaScript&#39;s `==` and `===`: Equality and Identity](https://dev.to/manthanank/understanding-javascripts-and-equality-and-identity-34lj)
 - [Building Dynamic Forms in Angular: Template-Driven vs Reactive Approaches](https://manthanank.hashnode.dev/building-dynamic-forms-in-angular-template-driven-vs-reactive-approaches)
-- [Comprehensive Guide to Angular Forms: Fundamental Concepts and Examples](https://dev.to/manthanank/comprehensive-guide-to-angular-forms-fundamental-concepts-and-examples-4ljc)
-- [Angular Lifecycle Hooks: The Essentials](https://manthanank.hashnode.dev/angular-lifecycle-hooks-the-essentials)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
