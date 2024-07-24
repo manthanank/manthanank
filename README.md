@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide to Building a URL Shortener Using Node.js](https://manthanank.hashnode.dev/step-by-step-guide-to-building-a-url-shortener-using-nodejs)
+- [Building a URL Shortener App with Node.js and MongoDB](https://dev.to/manthanank/building-a-url-shortener-app-with-nodejs-and-mongodb-bhh)
 - [Boosting Angular Performance Using trackBy in ngFor](https://manthanank.hashnode.dev/boosting-angular-performance-using-trackby-in-ngfor)
 - [Optimizing Angular Performance with `trackBy` in `ngFor`](https://dev.to/manthanank/optimizing-angular-performance-with-trackby-in-ngfor-1gil)
 - [Enhancing Angular Components with :host and :host-context](https://manthanank.hashnode.dev/enhancing-angular-components-with-host-and-host-context)
-- [Angular: A Deep Dive into `:host` &amp; `:host-context` Pseudo-Classes](https://dev.to/manthanank/angular-a-deep-dive-into-host-host-context-pseudo-classes-5ged)
-- [JavaScript&#39;s == vs ===: A Deep Dive into Equality and Identity](https://manthanank.hashnode.dev/javascripts-vs-a-deep-dive-into-equality-and-identity)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
