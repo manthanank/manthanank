@@ -9,7 +9,7 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/manthanank?affiliations=OWNER&style=social)
 
 - 💻 I currently work as a **Software Engineer** at **Blackcoffer**.
-- 🧑‍💻 I’m currently learning MEAN Stack and working on it.
+- 🧑‍💻 I’m currently in MEAN Stack.
 - ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing)
 - 📝 I regularly write articles on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
