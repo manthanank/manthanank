@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Unit Converter App in Angular with Tailwind CSS](https://dev.to/manthanank/building-a-unit-converter-app-in-angular-with-tailwind-css-5con)
 - [Creating a Unit Converter Application in Angular with Tailwind CSS](https://manthanank.hashnode.dev/creating-a-unit-converter-application-in-angular-with-tailwind-css)
 - [Step-by-Step Guide to Building a URL Shortener with Angular and Tailwind CSS](https://manthanank.hashnode.dev/step-by-step-guide-to-building-a-url-shortener-with-angular-and-tailwind-css)
 - [Building a URL Shortener App with Angular and Tailwind CSS](https://dev.to/manthanank/building-a-url-shortener-app-with-angular-and-tailwind-css-2kop)
 - [Step-by-Step Guide to Building a URL Shortener Using Node.js](https://manthanank.hashnode.dev/step-by-step-guide-to-building-a-url-shortener-using-nodejs)
-- [Building a URL Shortener App with Node.js and MongoDB](https://dev.to/manthanank/building-a-url-shortener-app-with-nodejs-and-mongodb-bhh)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
