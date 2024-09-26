@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular Formly: The Ultimate Guide to Dynamic Forms](https://manthanank.hashnode.dev/angular-formly-the-ultimate-guide-to-dynamic-forms)
+- [Building Dynamic Forms with Angular and Formly](https://dev.to/manthanank/building-dynamic-forms-with-angular-and-formly-3pmf)
 - [Creating a CRUD Application with NestJS and MongoDB: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-a-crud-application-with-nestjs-and-mongodb-a-step-by-step-guide)
 - [Building a CRUD Application with NestJS and MongoDB](https://dev.to/manthanank/building-a-crud-application-with-nestjs-and-mongodb-52o2)
 - [Building a Unit Converter App in Angular with Tailwind CSS](https://dev.to/manthanank/building-a-unit-converter-app-in-angular-with-tailwind-css-5con)
-- [Creating a Unit Converter Application in Angular with Tailwind CSS](https://manthanank.hashnode.dev/creating-a-unit-converter-application-in-angular-with-tailwind-css)
-- [Step-by-Step Guide to Building a URL Shortener with Angular and Tailwind CSS](https://manthanank.hashnode.dev/step-by-step-guide-to-building-a-url-shortener-with-angular-and-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
