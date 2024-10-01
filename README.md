@@ -8,8 +8,8 @@
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/manthanank)
 ![GitHub User's stars](https://img.shields.io/github/stars/manthanank?affiliations=OWNER&style=social)
 
-- 💻 I currently work as a **Software Developer** at **Stellar Innovations Pvt Ltd**.
-- 🧑‍💻 I’m currently working in MEAN Stack projects.
+- 💻 I'm a Software Engineer.
+- 🧑‍💻 I’m currently working on MEAN Stack projects.
 - ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing)
 - 📝 I regularly write articles on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
