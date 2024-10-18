@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Build Custom Directives in Angular: A Comprehensive Tutorial](https://manthanank.hashnode.dev/how-to-build-custom-directives-in-angular-a-comprehensive-tutorial)
+- [Creating Custom Directives in Angular : A Step-by-Step Guide](https://dev.to/manthanank/creating-custom-directives-in-angular-a-step-by-step-guide-5bel)
 - [Creating a Basic Todo Application Using Deno and Oak](https://manthanank.hashnode.dev/creating-a-basic-todo-application-using-deno-and-oak)
 - [Building a Simple Todo App with Deno and Oak](https://dev.to/manthanank/building-a-simple-todo-app-with-deno-and-oak-35on)
 - [Mastering Angular&#39;s inject Function: A Step-by-Step Migration Guide](https://manthanank.hashnode.dev/mastering-angulars-inject-function-a-step-by-step-migration-guide)
-- [Migrating to the `inject` Function in Angular: A Comprehensive Guide](https://dev.to/manthanank/migrating-to-the-inject-function-in-angular-a-comprehensive-guide-17jb)
-- [Angular Formly: The Ultimate Guide to Dynamic Forms](https://manthanank.hashnode.dev/angular-formly-the-ultimate-guide-to-dynamic-forms)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
