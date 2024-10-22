@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Boost Your Productivity: Must-Have VS Code Extensions for Angular Developers](https://manthanank.hashnode.dev/boost-your-productivity-must-have-vs-code-extensions-for-angular-developers)
+- [Top VS Code Extensions for Angular Developers](https://dev.to/manthanank/top-vs-code-extensions-for-angular-developers-4374)
 - [How to Build Custom Directives in Angular: A Comprehensive Tutorial](https://manthanank.hashnode.dev/how-to-build-custom-directives-in-angular-a-comprehensive-tutorial)
 - [Creating Custom Directives in Angular : A Step-by-Step Guide](https://dev.to/manthanank/creating-custom-directives-in-angular-a-step-by-step-guide-5bel)
 - [Creating a Basic Todo Application Using Deno and Oak](https://manthanank.hashnode.dev/creating-a-basic-todo-application-using-deno-and-oak)
-- [Building a Simple Todo App with Deno and Oak](https://dev.to/manthanank/building-a-simple-todo-app-with-deno-and-oak-35on)
-- [Mastering Angular&#39;s inject Function: A Step-by-Step Migration Guide](https://manthanank.hashnode.dev/mastering-angulars-inject-function-a-step-by-step-migration-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
