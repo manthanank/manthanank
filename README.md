@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developing an Investment Calculator Using Angular and Tailwind CSS](https://manthanank.hashnode.dev/developing-an-investment-calculator-using-angular-and-tailwind-css)
+- [Building an Investment Calculator in Angular with Tailwind CSS](https://dev.to/manthanank/building-an-investment-calculator-in-angular-with-tailwind-css-1513)
 - [Boost Your Productivity: Must-Have VS Code Extensions for Angular Developers](https://manthanank.hashnode.dev/boost-your-productivity-must-have-vs-code-extensions-for-angular-developers)
 - [Top VS Code Extensions for Angular Developers](https://dev.to/manthanank/top-vs-code-extensions-for-angular-developers-4374)
 - [How to Build Custom Directives in Angular: A Comprehensive Tutorial](https://manthanank.hashnode.dev/how-to-build-custom-directives-in-angular-a-comprehensive-tutorial)
-- [Creating Custom Directives in Angular : A Step-by-Step Guide](https://dev.to/manthanank/creating-custom-directives-in-angular-a-step-by-step-guide-5bel)
-- [Creating a Basic Todo Application Using Deno and Oak](https://manthanank.hashnode.dev/creating-a-basic-todo-application-using-deno-and-oak)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
