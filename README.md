@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Enums in Angular: A Comprehensive Guide to Organized Constants](https://manthanank.hashnode.dev/mastering-enums-in-angular-a-comprehensive-guide-to-organized-constants)
+- [Understanding Enums in Angular - A Guide to Organized Constants](https://dev.to/manthanank/understanding-enums-in-angular-a-guide-to-organized-constants-3bp2)
 - [Leveraging Git Stash for Efficient Workflow](https://manthanank.hashnode.dev/leveraging-git-stash-for-efficient-workflow)
 - [Mastering Git Stash: A Guide to Temporarily Shelving Changes in Git](https://dev.to/manthanank/title-mastering-git-stash-a-guide-to-temporarily-shelving-changes-in-git-3ppl)
 - [Mastering Error Handling in Angular](https://manthanank.hashnode.dev/mastering-error-handling-in-angular)
-- [Handling Global Errors in Angular : A Simple App with Custom ErrorHandler](https://dev.to/manthanank/handling-global-errors-in-angular-a-simple-app-with-custom-errorhandler-4ak9)
-- [Developing an Investment Calculator Using Angular and Tailwind CSS](https://manthanank.hashnode.dev/developing-an-investment-calculator-using-angular-and-tailwind-css)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
