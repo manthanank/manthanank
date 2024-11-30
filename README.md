@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Discovering Alternatives to Enums in TypeScript and Angular](https://manthanank.hashnode.dev/discovering-alternatives-to-enums-in-typescript-and-angular)
+- [Exploring Enum Alternatives in TypeScript and Angular](https://dev.to/manthanank/exploring-enum-alternatives-in-typescript-and-angular-400l)
 - [Creating an Angular Application with Enums: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-an-angular-application-with-enums-a-step-by-step-guide)
 - [Building an Angular App with Enum - A Hands-On Guide](https://dev.to/manthanank/building-an-angular-app-with-enum-a-hands-on-guide-44jl)
 - [Mastering Enums in Angular: A Comprehensive Guide to Organized Constants](https://manthanank.hashnode.dev/mastering-enums-in-angular-a-comprehensive-guide-to-organized-constants)
-- [Understanding Enums in Angular - A Guide to Organized Constants](https://dev.to/manthanank/understanding-enums-in-angular-a-guide-to-organized-constants-3bp2)
-- [Leveraging Git Stash for Efficient Workflow](https://manthanank.hashnode.dev/leveraging-git-stash-for-efficient-workflow)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
