@@ -99,11 +99,11 @@
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a Tic Tac Toe Game with Angular: A Step-by-Step Tutorial](https://manthanank.hashnode.dev/creating-a-tic-tac-toe-game-with-angular-a-step-by-step-tutorial)
+- [Building a Tic Tac Toe Game in Angular: A Beginner&#39;s Guide](https://dev.to/manthanank/building-a-tic-tac-toe-game-in-angular-a-beginners-guide-fcm)
 - [Creating an Angular Application with Enum Alternatives: A Practical Guide](https://manthanank.hashnode.dev/creating-an-angular-application-with-enum-alternatives-a-practical-guide)
 - [Building an Angular App with Enum Alternatives - A Hands-On Guide](https://dev.to/manthanank/building-an-angular-app-with-enum-alternatives-a-hands-on-guide-2e6m)
 - [Discovering Alternatives to Enums in TypeScript and Angular](https://manthanank.hashnode.dev/discovering-alternatives-to-enums-in-typescript-and-angular)
-- [Exploring Enum Alternatives in TypeScript and Angular](https://dev.to/manthanank/exploring-enum-alternatives-in-typescript-and-angular-400l)
-- [Creating an Angular Application with Enums: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-an-angular-application-with-enums-a-step-by-step-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
