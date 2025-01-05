@@ -1,5 +1,7 @@
 # Hey, I'm Manthan Ankolekar👋
 
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. Here's a little about me:
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Software+Engineer%F0%9F%8E%93;Front+End+Developer%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;MEAN+Stack+Developer%F0%9F%9A%80;Learn%2C+Code%2C+Build+%F0%9F%91%BD)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=manthanank&color=brightgreen)
@@ -10,9 +12,13 @@
 
 - 💻 I'm a Software Developer.
 - 🧑‍💻 I’m currently working on Full Stack projects.
-- ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
+- 🌱 I’m currently learning advanced RxJS and Angular state management techniques.
+- 👯 I’m looking to collaborate on Angular-based projects, MEAN stack applications, and real-time collaborative tools.
 - 📄 Check out my [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing)
+- 💬 Ask me about Angular, MEAN stack development, and integrating Tailwind CSS in modern web apps.
+- ✉️ Feel free to reach out to me at [manthan.ank46@gmail.com](mailto:manthan.ank46@gmail.com)
 - 📝 I regularly write articles on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
+- ⚡ Fun fact: I’ve built 10+ side projects using the MEAN stack and love exploring creative ways to solve problems!
 
 ## Languages and Tools
 
@@ -143,6 +149,10 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 💬 Let's Talk
+
+Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
 
 ---
 
