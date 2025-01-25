@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Integrating Tailwind CSS 4.0 with Modern Angular v19.1: Setup Guide](https://manthanank.hashnode.dev/integrating-tailwind-css-40-with-modern-angular-v191-setup-guide)
+- [Setting Up Tailwind CSS 4.0 in Angular v19.1: A Step-by-Step Guide](https://dev.to/manthanank/setting-up-tailwind-css-40-in-angular-v191-a-step-by-step-guide-258m)
 - [Developing a Stylish Music Player with Angular and Tailwind CSS](https://manthanank.hashnode.dev/developing-a-stylish-music-player-with-angular-and-tailwind-css)
 - [Building a Modern Music Player App with Angular and Tailwind CSS](https://dev.to/manthanank/building-a-modern-music-player-app-with-angular-and-tailwind-css-213g)
 - [Creating a Tic Tac Toe Game with Angular: A Step-by-Step Tutorial](https://manthanank.hashnode.dev/creating-a-tic-tac-toe-game-with-angular-a-step-by-step-tutorial)
-- [Building a Tic Tac Toe Game in Angular: A Beginner&#39;s Guide](https://dev.to/manthanank/building-a-tic-tac-toe-game-in-angular-a-beginners-guide-fcm)
-- [Creating an Angular Application with Enum Alternatives: A Practical Guide](https://manthanank.hashnode.dev/creating-an-angular-application-with-enum-alternatives-a-practical-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
