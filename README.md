@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Angular View Encapsulation: Master Component Style Isolation](https://manthanank.hashnode.dev/angular-view-encapsulation-master-component-style-isolation)
+- [Angular View Encapsulation - A Practical Guide to Component Styling](https://dev.to/manthanank/angular-view-encapsulation-a-practical-guide-to-component-styling-5df2)
 - [Generating a Zoneless Angular App](https://dev.to/manthanank/generating-a-zoneless-angular-app-59ea)
 - [Creating a Docker Container for a Node.js Application](https://manthanank.hashnode.dev/creating-a-docker-container-for-a-nodejs-application)
 - [Containerizing a Node.js Application with Docker](https://dev.to/manthanank/containerizing-a-nodejs-application-with-docker-33dn)
-- [Integrating Tailwind CSS 4.0 with Modern Angular v19.1: Setup Guide](https://manthanank.hashnode.dev/integrating-tailwind-css-40-with-modern-angular-v191-setup-guide)
-- [Setting Up Tailwind CSS 4.0 in Angular v19.1: A Step-by-Step Guide](https://dev.to/manthanank/setting-up-tailwind-css-40-in-angular-v191-a-step-by-step-guide-258m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
