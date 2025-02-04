@@ -10,4 +10,4 @@
 
 ## Most Used Languages
 
-[![Manthan Ankolekar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=manthanank)](https://github.com/manthanank/github-readme-stats)
+[![Manthan Ankolekar's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=manthanank&layout=compact)](https://github.com/manthanank/github-readme-stats)
