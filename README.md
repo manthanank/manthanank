@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Creating a CRUD Application with Flask and SQLAlchemy: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-a-crud-application-with-flask-and-sqlalchemy-a-step-by-step-guide)
+- [Building a CRUD Application with Flask and SQLAlchemy](https://dev.to/manthanank/building-a-crud-application-with-flask-and-sqlalchemy-472n)
 - [Angular View Encapsulation: Master Component Style Isolation](https://manthanank.hashnode.dev/angular-view-encapsulation-master-component-style-isolation)
 - [Angular View Encapsulation - A Practical Guide to Component Styling](https://dev.to/manthanank/angular-view-encapsulation-a-practical-guide-to-component-styling-5df2)
 - [Generating a Zoneless Angular App](https://dev.to/manthanank/generating-a-zoneless-angular-app-59ea)
-- [Creating a Docker Container for a Node.js Application](https://manthanank.hashnode.dev/creating-a-docker-container-for-a-nodejs-application)
-- [Containerizing a Node.js Application with Docker](https://dev.to/manthanank/containerizing-a-nodejs-application-with-docker-33dn)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
