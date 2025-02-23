@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NPM Dependency Conflicts: When to Use --legacy-peer-deps vs --force](https://manthanank.hashnode.dev/npm-dependency-conflicts-when-to-use-legacy-peer-deps-vs-force)
+- [Understanding Version Control with ~ and ^ in package.json](https://dev.to/manthanank/understanding-version-control-with-and-in-packagejson-h7g)
 - [Most used Git commands](https://manthanank.medium.com/most-used-git-commands-e751cc71854f?source=rss-ade313d62381------2)
 - [Creating a CRUD Application with Flask and MongoDB: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-a-crud-application-with-flask-and-mongodb-a-step-by-step-guide)
 - [Building a CRUD Application with Flask and MongoDB](https://dev.to/manthanank/building-a-crud-application-with-flask-and-mongodb-52pk)
-- [Creating a CRUD Application with Flask and SQLAlchemy: A Step-by-Step Guide](https://manthanank.hashnode.dev/creating-a-crud-application-with-flask-and-sqlalchemy-a-step-by-step-guide)
-- [Building a CRUD Application with Flask and SQLAlchemy](https://dev.to/manthanank/building-a-crud-application-with-flask-and-sqlalchemy-472n)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
