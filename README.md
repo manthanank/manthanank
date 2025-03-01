@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
 - [Configuring Dynamic Environments in Angular Applications](https://manthanank.hashnode.dev/configuring-dynamic-environments-in-angular-applications)
 - [Managing Environment Variables in Angular](https://dev.to/manthanank/managing-environment-variables-in-angular-40k0)
 - [Safe NPM Package Installation: Understanding --legacy-peer-deps](https://manthanank.hashnode.dev/safe-npm-package-installation-understanding-legacy-peer-deps)
 - [NPM Installation Guide: Choosing Between --legacy-peer-deps and --force](https://dev.to/manthanank/npm-installation-guide-choosing-between-legacy-peer-deps-and-force-1kbm)
-- [NPM Dependency Conflicts: When to Use --legacy-peer-deps vs --force](https://manthanank.hashnode.dev/npm-dependency-conflicts-when-to-use-legacy-peer-deps-vs-force)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
