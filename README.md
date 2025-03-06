@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Data Fetching in Angular with the Rxresource API](https://manthanank.hashnode.dev/mastering-data-fetching-in-angular-with-the-rxresource-api)
+- [Mastering Angular&#39;s Resource API - A Practical Guide](https://dev.to/manthanank/mastering-angulars-resource-api-a-practical-guide-2hgp)
 - [Mastering Data Fetching in Angular with the Resource API](https://manthanank.hashnode.dev/mastering-data-fetching-in-angular-with-the-resource-api)
 - [Mastering Angular&#39;s Resource API: A Practical Guide](https://dev.to/manthanank/mastering-angulars-resource-api-a-practical-guide-3k08)
 - [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
-- [Configuring Dynamic Environments in Angular Applications](https://manthanank.hashnode.dev/configuring-dynamic-environments-in-angular-applications)
-- [Managing Environment Variables in Angular](https://dev.to/manthanank/managing-environment-variables-in-angular-40k0)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
