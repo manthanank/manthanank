@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [linkedSignal in Action: Simplifying Angular State Management](https://manthanank.hashnode.dev/linkedsignal-in-action-simplifying-angular-state-management)
+- [Exploring Angular&#39;s linkedSignal for Reactive State Management](https://dev.to/manthanank/exploring-angulars-linkedsignal-for-reactive-state-management-4m5a)
 - [Mastering Data Fetching in Angular with the Rxresource API](https://manthanank.hashnode.dev/mastering-data-fetching-in-angular-with-the-rxresource-api)
 - [Mastering Angular&#39;s Resource API - A Practical Guide](https://dev.to/manthanank/mastering-angulars-resource-api-a-practical-guide-2hgp)
 - [Mastering Data Fetching in Angular with the Resource API](https://manthanank.hashnode.dev/mastering-data-fetching-in-angular-with-the-resource-api)
-- [Mastering Angular&#39;s Resource API: A Practical Guide](https://dev.to/manthanank/mastering-angulars-resource-api-a-practical-guide-3k08)
-- [Fetching and Displaying Data in Angular Using httpResource](https://dev.to/manthanank/fetching-and-displaying-data-in-angular-using-httpresource-a1c)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
