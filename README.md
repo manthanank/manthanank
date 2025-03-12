@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Securing Angular HTTP Requests: Authentication and Retry Patterns](https://manthanank.hashnode.dev/securing-angular-http-requests-authentication-and-retry-patterns)
+- [Enhancing Angular Applications with HTTP Interceptors for Authentication and Retry Logic](https://dev.to/manthanank/enhancing-angular-applications-with-http-interceptors-for-authentication-and-retry-logic-41h6)
 - [Angular&#39;s afterRenderEffect: A Deep Dive into Post-Render Operations](https://manthanank.hashnode.dev/angulars-afterrendereffect-a-deep-dive-into-post-render-operations)
 - [Enhancing Angular Applications with afterRenderEffect and Signals](https://dev.to/manthanank/enhancing-angular-applications-with-afterrendereffect-and-signals-1jan)
 - [linkedSignal in Action: Simplifying Angular State Management](https://manthanank.hashnode.dev/linkedsignal-in-action-simplifying-angular-state-management)
-- [Exploring Angular&#39;s linkedSignal for Reactive State Management](https://dev.to/manthanank/exploring-angulars-linkedsignal-for-reactive-state-management-4m5a)
-- [Mastering Data Fetching in Angular with the Rxresource API](https://manthanank.hashnode.dev/mastering-data-fetching-in-angular-with-the-rxresource-api)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
