@@ -6,31 +6,22 @@ on:
       - master
   workflow_dispatch:
   schedule:
-    - cron: '0 0 */3 * *'  # Runs every 3 days at midnight
-
+    - cron: '0 0 * * *'
+  
 jobs:
   build:
     name: Update this repo's README
-    runs-on: ubuntu-22.04  # Use a different runner
+    runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout main branch
+      - name: checkput main branch
         uses: actions/checkout@v2
-
-      - name: Cache Blog Data
-        uses: actions/cache@v3
-        with:
-          path: ~/.blog-post-cache
-          key: ${{ runner.os }}-blog-cache
-
-      - name: Update blogs
+      - name: update blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/manthanank, https://medium.com/feed/@manthanank"  # Use /feed instead of /rss.xml
-          max_retries: 3
-          retry_delay: 300
+          feed_list: "https://dev.to/feed/manthanank, https://medium.com/feed/@manthanank"
 
-      - name: WakaTime Language Insights
+      - name: wakatime language insights
         uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
