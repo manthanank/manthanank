@@ -7,16 +7,16 @@ on:
   workflow_dispatch:
   schedule:
     - cron: '0 0 */3 * *'  # Runs every 3 days at midnight
-  
+
 jobs:
   build:
     name: Update this repo's README
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-22.04  # Use a different runner
     
     steps:
       - name: Checkout main branch
         uses: actions/checkout@v2
-      
+
       - name: Cache Blog Data
         uses: actions/cache@v3
         with:
@@ -26,7 +26,7 @@ jobs:
       - name: Update blogs
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://dev.to/feed/manthanank, https://medium.com/feed/@manthanank, https://manthanank.hashnode.dev/feed"
+          feed_list: "https://dev.to/feed/manthanank, https://medium.com/feed/@manthanank, https://manthanank.hashnode.dev/feed"  # Use /feed instead of /rss.xml
           max_retries: 3
           retry_delay: 300
 
