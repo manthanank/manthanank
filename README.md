@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building an AI-Powered Image Editor with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-editor-with-googles-gemini-api-487m)
+- [Building an AI-Powered Image Generator with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-generator-with-googles-gemini-api-19pd)
 - [Building a Node.js CRUD API with Supabase](https://dev.to/manthanank/building-a-nodejs-crud-api-with-supabase-3bkp)
 - [Enhancing Angular Applications with HTTP Interceptors for Authentication and Retry Logic](https://dev.to/manthanank/enhancing-angular-applications-with-http-interceptors-for-authentication-and-retry-logic-41h6)
 - [Enhancing Angular Applications with afterRenderEffect and Signals](https://dev.to/manthanank/enhancing-angular-applications-with-afterrendereffect-and-signals-1jan)
-- [Exploring Angular&#39;s linkedSignal for Reactive State Management](https://dev.to/manthanank/exploring-angulars-linkedsignal-for-reactive-state-management-4m5a)
-- [Mastering Angular&#39;s Rxresource API - A Practical Guide](https://dev.to/manthanank/mastering-angulars-resource-api-a-practical-guide-2hgp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
