@@ -25,13 +25,13 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: "16"
-          cache: 'npm'
+          # Remove cache config to avoid lock file requirement
       
       - name: Setup Pages
         uses: actions/configure-pages@v3
       
       - name: Install dependencies
-        run: npm ci || npm install
+        run: npm install
       
       - name: Build docs/site
         run: npm run build:docs || npm run docs || npm run build || echo "No build script found"

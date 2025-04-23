@@ -22,10 +22,10 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: ${{ matrix.node-version }}
-        cache: 'npm'
+        # Remove the cache config that requires a lock file
         
     - name: Install dependencies
-      run: npm ci || npm install
+      run: npm install
       
     - name: Run linting
       run: npm run lint || echo "Linting not configured"
