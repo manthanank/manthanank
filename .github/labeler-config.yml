@@ -1,0 +1,18 @@
+# Labels for issues and pull requests based on their title
+
+bug:
+  - '(bug|fix|issue|problem)'
+enhancement:
+  - '(feature|enhancement|improvement)'
+documentation:
+  - '(docs|documentation)'
+dependencies:
+  - '(dependency|dependencies|package)'
+question:
+  - '(help|question|support)'
+test:
+  - '(test|testing)'
+refactor:
+  - '(refactor|refactoring)'
+ci:
+  - '(ci|cd|workflow|action|automate)'
