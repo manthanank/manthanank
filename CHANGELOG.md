@@ -1,3 +1,12 @@
+## [1.14.3](https://github.com/manthanank/manthanank/compare/v1.14.2...v1.14.3) (2025-04-25)
+
+
+### Bug Fixes
+
+* Update fetch paths and date formatting in loadCodingStats function ([6e66a0b](https://github.com/manthanank/manthanank/commit/6e66a0b3acafad478cc1b989bd4dfc0c09d9998d))
+
+
+
 ## [1.14.2](https://github.com/manthanank/manthanank/compare/v1.14.1...v1.14.2) (2025-04-25)
 
 
