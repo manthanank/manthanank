@@ -34,6 +34,9 @@ jobs:
 
       - name: Debug Project Root
         run: ls -la
+        
+      - name: Debug All Directories
+        run: find . -type d
 
       - name: Debug Build Output
         run: ls -la ./public
