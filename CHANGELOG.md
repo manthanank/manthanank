@@ -1,3 +1,12 @@
+## [1.14.4](https://github.com/manthanank/manthanank/compare/v1.14.3...v1.14.4) (2025-04-25)
+
+
+### Bug Fixes
+
+* Improve wakastats.json copying logic in deploy-to-pages workflow ([230e069](https://github.com/manthanank/manthanank/commit/230e0695a90d30707d2b4b078915a7e2c85ef826))
+
+
+
 ## [1.14.3](https://github.com/manthanank/manthanank/compare/v1.14.2...v1.14.3) (2025-04-25)
 
 
