@@ -5,11 +5,17 @@ on:
   pull_request:
     types: [opened, edited]
 
+# Required permissions for the labeler to work properly
+permissions:
+  contents: read
+  issues: write
+  pull-requests: write
+
 jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/labeler@v4
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        repo-token: "${{ secrets.PA_TOKEN }}"
         configuration-path: .github/labeler-config.yml
