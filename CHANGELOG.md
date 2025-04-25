@@ -1,3 +1,12 @@
+# [1.14.0](https://github.com/manthanank/manthanank/compare/v1.13.0...v1.14.0) (2025-04-25)
+
+
+### Features
+
+* Enhance deployment workflow to include data directory and debug outputs ([602546f](https://github.com/manthanank/manthanank/commit/602546f2407f823d43f32bc0ec649d7fd34d8105))
+
+
+
 # [1.13.0](https://github.com/manthanank/manthanank/compare/v1.12.10...v1.13.0) (2025-04-25)
 
 
