@@ -16,19 +16,20 @@ updates:
     # Use conventional commits format
     commit-message:
       prefix: "chore"
-      prefix-development: "chore"
       include: "scope"
     
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
-      interval: "weekly"
+      interval: "monthly"
+    # Allow up to 5 open pull requests for GitHub Actions dependencies
+    open-pull-requests-limit: 5
+    # Specify labels for pull requests
     labels:
       - "dependencies"
       - "github-actions"
     # Use conventional commits format
     commit-message:
       prefix: "chore"
-      prefix-development: "chore"
       include: "scope"
