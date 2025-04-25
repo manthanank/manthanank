@@ -13,6 +13,11 @@ updates:
       - "npm"
     # Allow up to 10 open pull requests for npm dependencies
     open-pull-requests-limit: 10
+    # Use conventional commits format
+    commit-message:
+      prefix: "chore"
+      prefix-development: "chore"
+      include: "scope"
     
   # Enable version updates for GitHub Actions
   - package-ecosystem: "github-actions"
@@ -22,3 +27,8 @@ updates:
     labels:
       - "dependencies"
       - "github-actions"
+    # Use conventional commits format
+    commit-message:
+      prefix: "chore"
+      prefix-development: "chore"
+      include: "scope"

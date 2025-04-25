@@ -30,16 +30,23 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       
-      - name: Copy assets to public directory
+      - name: Prepare public directory
         run: |
+          # Ensure the public directory exists and is empty
+          mkdir -p public
+          # Copy the HTML, CSS, and JS files
+          cp -f public/*.html public/*.css public/*.js public/ 2>/dev/null || true
+          # Create assets directory and copy all assets
           mkdir -p public/assets
-          cp -r assets/* public/assets/ || true
+          cp -r assets/* public/assets/ 2>/dev/null || true
+          # Verify content exists in the directory
+          ls -la public/
           echo "$(date)" > public/build-timestamp.txt
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: 'public'
+          path: './public'
           
       - name: Deploy to GitHub Pages
         id: deployment
