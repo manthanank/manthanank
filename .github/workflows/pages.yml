@@ -25,7 +25,6 @@ jobs:
         uses: actions/setup-node@v3 # Latest version confirmed
         with:
           node-version: "16"
-          cache: "npm" # Added caching for NPM dependencies
       
       - name: Install dependencies
         run: npm install
