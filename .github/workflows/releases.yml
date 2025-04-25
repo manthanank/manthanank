@@ -19,7 +19,7 @@ jobs:
         run: |
           COMMIT_MSG=$(git log -1 --pretty=%B)
           echo "Original commit message: $COMMIT_MSG"
-          
+
           # Check if it's a Dependabot commit and transform it
           if [[ "$COMMIT_MSG" == "Bump "* ]]; then
             CONVENTIONAL_MSG="chore(deps): $COMMIT_MSG"
@@ -43,6 +43,17 @@ jobs:
           release-count: 0
           skip-on-empty: false
           skip-version-file: false
+          types: |
+            {"feat": {"name": "Features"},
+             "fix": {"name": "Bug Fixes"},
+             "perf": {"name": "Performance Improvements"},
+             "docs": {"name": "Documentation"},
+             "style": {"name": "Styles"},
+             "refactor": {"name": "Code Refactoring"},
+             "test": {"name": "Tests"},
+             "build": {"name": "Build System"},
+             "ci": {"name": "Continuous Integration"},
+             "chore": {"name": "Chores"}}
 
       - name: Create Release
         uses: actions/create-release@v1
