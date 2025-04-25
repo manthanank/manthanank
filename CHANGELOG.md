@@ -1,3 +1,12 @@
+## [1.14.7](https://github.com/manthanank/manthanank/compare/v1.14.6...v1.14.7) (2025-04-25)
+
+
+### Bug Fixes
+
+* Correct environment variable name for GitHub token in release workflow ([963b556](https://github.com/manthanank/manthanank/commit/963b556f65d7221c7bd443a20be965950bd658ac))
+
+
+
 ## [1.14.6](https://github.com/manthanank/manthanank/compare/v1.14.5...v1.14.6) (2025-04-25)
 
 
