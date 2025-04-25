@@ -48,11 +48,19 @@ jobs:
           mkdir -p public/assets/svg
           cp -r assets/svg/* public/assets/svg/ 2>/dev/null || true
 
-          # Create data directory and ensure wakastats.json is copied
+          # Create data directory and ensure wakastats.json is copied correctly
           mkdir -p public/data
-          cp -f public/data/wakastats.json public/data/ 2>/dev/null || true
-          # If the file exists in the root data directory, copy it to public as well
-          cp -f data/wakastats.json public/data/ 2>/dev/null || true
+
+          # Check if the file exists in the root data directory and copy it
+          if [ -f data/wakastats.json ]; then
+            cp -f data/wakastats.json public/data/
+            echo "Copied wakastats.json from data/ directory"
+          # If not in root data/, check if it's directly in public/data/
+          elif [ -f public/data/wakastats.json ]; then
+            echo "wakastats.json already exists in public/data/"
+          else
+            echo "WARNING: No wakastats.json file found in either location"
+          fi
 
           # Debug: List the contents of the SVG directory to verify files are copied
           echo "SVG directory contents:"
