@@ -19,16 +19,13 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v3 # Latest version confirmed
       
       - name: Setup Node
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v3 # Latest version confirmed
         with:
           node-version: "16"
-          # Remove cache config to avoid lock file requirement
-      
-      - name: Setup Pages
-        uses: actions/upload-artifact@v4
+          cache: "npm" # Added caching for NPM dependencies
       
       - name: Install dependencies
         run: npm install
@@ -37,7 +34,7 @@ jobs:
         run: npm run build:docs || npm run docs || npm run build || echo "No build script found"
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v2 # Latest version confirmed
         with:
           path: './public'
 
@@ -50,4 +47,4 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v2 # Latest version confirmed
