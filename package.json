@@ -1,12 +1,18 @@
 {
-  "name": "manthanank",
-  "version": "1.10.5",
+  "name": "@manthanank/profile",
+  "version": "1.10.2",
   "description": "This is my GitHub Profile",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "build": "node -e \"require('fs').existsSync('public/assets') || require('fs').mkdirSync('public/assets', {recursive: true}); console.log('Build completed');\""
+    "build": "node -e \"require('fs').existsSync('public/assets') || require('fs').mkdirSync('public/assets', {recursive: true}); console.log('Build completed');\"",
+    "lint": "eslint --ext .js .",
+    "lint:fix": "eslint --ext .js . --fix",
+    "format": "prettier --write \"**/*.{js,json,css,md,html}\"",
+    "dev": "http-server public -o -c-1",
+    "update-stats": "node scripts/update-stats.js",
+    "validate": "npm run lint && npm run build"
   },
   "repository": {
     "type": "git",
@@ -20,5 +26,10 @@
   "bugs": {
     "url": "https://github.com/manthanank/manthanank/issues"
   },
-  "homepage": "https://github.com/manthanank/manthanank#readme"
+  "homepage": "https://github.com/manthanank/manthanank#readme",
+  "devDependencies": {
+    "eslint": "^8.54.0",
+    "http-server": "^14.1.1",
+    "prettier": "^3.1.0"
+  }
 }

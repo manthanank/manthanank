@@ -26,38 +26,43 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
-      
+
       - name: Setup Pages
         uses: actions/configure-pages@v3
-      
+
       - name: Build project
         run: npm install && npm run build
-        
+
       - name: Prepare public directory
         run: |
           # Copy the HTML file from the root directory if it exists
           cp -f index.html public/ 2>/dev/null || true
-          
+
           # Make sure key files exist in the public directory
           if [ ! -f public/index.html ]; then
             echo "<!DOCTYPE html><html><head><title>GitHub Profile</title><link rel='stylesheet' href='style.css'></head><body><script src='script.js'></script></body></html>" > public/index.html
             echo "Index file created since none was found."
           fi
-          
-          # Create assets directory and copy all assets
-          mkdir -p public/assets
-          cp -r assets/* public/assets/ 2>/dev/null || true
-          
-          # Verify content exists in the directory
-          echo "Public directory contents:"
-          ls -la public/
+
+          # Create assets directory and copy all SVG assets with proper structure
+          mkdir -p public/assets/svg
+          cp -r assets/svg/* public/assets/svg/ 2>/dev/null || true
+
+          # Debug: List the contents of the SVG directory to verify files are copied
+          echo "SVG directory contents:"
+          ls -la public/assets/svg/ || echo "No SVG files found"
+
+          # Verify content exists in the public directory
+          echo "Public directory structure:"
+          find public -type d | sort
+
           echo "$(date)" > public/build-timestamp.txt
-      
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: 'public'
-          
+
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
