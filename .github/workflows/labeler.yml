@@ -15,7 +15,7 @@ jobs:
   triage:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/labeler@v4
+    - uses: actions/labeler@v5
       with:
         repo-token: "${{ secrets.GH_TOKEN }}"
         configuration-path: .github/labeler-config.yml
