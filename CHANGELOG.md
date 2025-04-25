@@ -1,3 +1,12 @@
+## [1.14.5](https://github.com/manthanank/manthanank/compare/v1.14.4...v1.14.5) (2025-04-25)
+
+
+### Bug Fixes
+
+* Update error handling and improve data validation in loadCodingStats function ([b370a98](https://github.com/manthanank/manthanank/commit/b370a98e43d93629fda28a13a6ebcd09340431cc))
+
+
+
 ## [1.14.4](https://github.com/manthanank/manthanank/compare/v1.14.3...v1.14.4) (2025-04-25)
 
 
