@@ -1,3 +1,12 @@
+# [1.13.0](https://github.com/manthanank/manthanank/compare/v1.12.10...v1.13.0) (2025-04-25)
+
+
+### Features
+
+* Add initial project files including .eslintrc.json, .gitignore, service worker, and manifest ([7da7f6a](https://github.com/manthanank/manthanank/commit/7da7f6a1f1758ef1f0fd8e98acc5966d83dde240))
+
+
+
 ## [1.12.10](https://github.com/manthanank/manthanank/compare/v1.12.9...v1.12.10) (2025-04-25)
 
 
