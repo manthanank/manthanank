@@ -1,0 +1,39 @@
+name: Update WakaTime Stats
+
+on:
+  schedule:
+    # Updates once per day at midnight
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18'
+          
+      - name: Fetch WakaTime stats
+        run: |
+          # Encode API key in base64 as required by WakaTime API
+          AUTH_HEADER=$(echo -n "${{ secrets.WAKATIME_API_KEY }}" | base64)
+          
+          # Create directory if it doesn't exist
+          mkdir -p ./public/data
+          
+          # Fetch last 7 days stats and save to file
+          curl -H "Authorization: Basic $AUTH_HEADER" \
+               https://api.wakatime.com/api/v1/users/current/stats/last_7_days > ./public/data/wakastats.json
+          
+      - name: Commit and push if changed
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "GitHub Actions"
+          git add ./public/data/wakastats.json
+          git commit -m "Update WakaTime stats" || exit 0
+          git push
