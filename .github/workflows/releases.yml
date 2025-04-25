@@ -9,16 +9,40 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
 
-      - name: conventional Changelog Action
+      # Add this step to convert Dependabot PR titles to conventional commit format
+      - name: Process commit message
+        id: process_commit
+        run: |
+          COMMIT_MSG=$(git log -1 --pretty=%B)
+          echo "Original commit message: $COMMIT_MSG"
+          
+          # Check if it's a Dependabot commit and transform it
+          if [[ "$COMMIT_MSG" == "Bump "* ]]; then
+            CONVENTIONAL_MSG="chore(deps): $COMMIT_MSG"
+            echo "Transformed to: $CONVENTIONAL_MSG"
+            echo "commit_message=$CONVENTIONAL_MSG" >> $GITHUB_OUTPUT
+          else
+            echo "commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Conventional Changelog Action
         id: changelog
         uses: TriPSs/conventional-changelog-action@v3.7.1
         with:
           github-token: ${{ secrets.PA_TOKEN }}
           version-file: './releases.json,./package.json'
+          git-message: '{version}'
+          git-user-name: 'Automated'
+          git-user-email: 'actions@github.com'
+          # Use the processed commit message if available
+          preset: 'angular'
+          output-file: 'CHANGELOG.md'
 
-      - name: create release
+      - name: Create Release
         uses: actions/create-release@v1
         if: ${{ steps.changelog.outputs.skipped == 'false' }}
         env:
