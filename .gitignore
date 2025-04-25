@@ -13,6 +13,7 @@ jspm_packages/
 # Build outputs
 dist/
 build/
+/out
 
 # Environment variables
 .env
@@ -53,3 +54,15 @@ Thumbs.db
 # Personal dev notes
 NOTES.md
 TODO.md
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# IDE specific files
+.vscode/*
+!.vscode/extensions.json
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+*.sublime-project
+*.sublime-workspace
