@@ -1,3 +1,7 @@
+## [1.12.3](https://github.com/manthanank/manthanank/compare/v1.12.2...v1.12.3) (2025-04-25)
+
+
+
 ## [1.12.2](https://github.com/manthanank/manthanank/compare/v1.12.1...v1.12.2) (2025-04-25)
 
 
