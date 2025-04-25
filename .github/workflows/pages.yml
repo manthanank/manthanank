@@ -32,13 +32,16 @@ jobs:
       - name: Build docs/site
         run: npm run build:docs || npm run docs || npm run build || echo "No build script found"
 
+      - name: Debug Project Root
+        run: ls -la
+
       - name: Debug Build Output
         run: ls -la ./public
 
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3 # Latest version confirmed
+        uses: actions/upload-pages-artifact@v3
         with:
-          path: './public'
+          path: './public' # Ensure this matches the actual build output directory
 
   deploy:
     environment:
