@@ -236,11 +236,8 @@ async function loadCodingStats() {
         // Option 1: Using a pre-generated stats file (from GitHub Actions)
         const response = await fetch(`./data/wakastats.json`);
 
-        // Option 2: Using a serverless function or backend proxy
-        // const response = await fetch('/api/wakatime-stats');
-
         if (!response.ok) {
-            throw new Error('Failed to fetch WakaTime stats');
+            throw new Error(`Failed to fetch WakaTime stats: ${response.status} ${response.statusText}`);
         }
 
         const data = await response.json();
@@ -249,7 +246,7 @@ async function loadCodingStats() {
         let statsText = '';
 
         // WakaTime API structure: data.data.languages contains language stats
-        if (data.data && data.data.languages) {
+        if (data.data && data.data.languages && data.data.languages.length > 0) {
             // Sort languages by time spent
             const languages = data.data.languages.sort((a, b) => b.total_seconds - a.total_seconds);
 
@@ -283,15 +280,16 @@ async function loadCodingStats() {
 
             // Add last updated info
             statsText += `\nLast updated: ${new Date(data.data.end).toLocaleDateString()}`;
-        } else {
-            throw new Error('Unexpected data format from WakaTime API');
-        }
 
-        codingStatsElement.textContent = statsText;
+            // Set the text content
+            codingStatsElement.textContent = statsText;
+        } else {
+            codingStatsElement.textContent = 'No coding stats available. Check back later.';
+        }
 
     } catch (error) {
         console.error('Error fetching WakaTime stats:', error);
-
+        codingStatsElement.textContent = 'Could not load coding stats. Please check browser console for errors.';
     }
 }
 
