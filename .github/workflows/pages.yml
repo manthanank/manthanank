@@ -34,7 +34,7 @@ jobs:
         run: npm run build:docs || npm run docs || npm run build || echo "No build script found"
       
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2 # Latest version confirmed
+        uses: actions/upload-pages-artifact@v3 # Latest version confirmed
         with:
           path: './public'
 
