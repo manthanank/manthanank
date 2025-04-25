@@ -234,7 +234,7 @@ async function loadCodingStats() {
         // this should be accessed through a proxy server or pre-generated file
 
         // Option 1: Using a pre-generated stats file (from GitHub Actions)
-        const response = await fetch(`/data/wakastats.json`);
+        const response = await fetch(`./data/wakastats.json`);
 
         // Option 2: Using a serverless function or backend proxy
         // const response = await fetch('/api/wakatime-stats');
@@ -282,7 +282,7 @@ async function loadCodingStats() {
             });
 
             // Add last updated info
-            statsText += `\nLast updated: ${new Date(data.data.range.end).toLocaleDateString()}`;
+            statsText += `\nLast updated: ${new Date(data.data.end).toLocaleDateString()}`;
         } else {
             throw new Error('Unexpected data format from WakaTime API');
         }
