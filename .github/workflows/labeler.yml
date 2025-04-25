@@ -19,3 +19,5 @@ jobs:
       with:
         repo-token: "${{ secrets.PA_TOKEN }}"
         configuration-path: .github/labeler-config.yml
+        sync-labels: false
+        dot: false
