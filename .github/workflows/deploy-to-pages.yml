@@ -30,23 +30,33 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v3
       
+      - name: Build project
+        run: npm ci && npm run build
+        
       - name: Prepare public directory
         run: |
-          # Ensure the public directory exists and is empty
-          mkdir -p public
-          # Copy the HTML, CSS, and JS files
-          cp -f public/*.html public/*.css public/*.js public/ 2>/dev/null || true
+          # Copy the HTML file from the root directory if it exists
+          cp -f index.html public/ 2>/dev/null || true
+          
+          # Make sure key files exist in the public directory
+          if [ ! -f public/index.html ]; then
+            echo "<!DOCTYPE html><html><head><title>GitHub Profile</title><link rel='stylesheet' href='style.css'></head><body><script src='script.js'></script></body></html>" > public/index.html
+            echo "Index file created since none was found."
+          fi
+          
           # Create assets directory and copy all assets
           mkdir -p public/assets
           cp -r assets/* public/assets/ 2>/dev/null || true
+          
           # Verify content exists in the directory
+          echo "Public directory contents:"
           ls -la public/
           echo "$(date)" > public/build-timestamp.txt
       
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './public'
+          path: 'public'
           
       - name: Deploy to GitHub Pages
         id: deployment

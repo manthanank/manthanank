@@ -31,16 +31,18 @@ jobs:
 
       - name: Conventional Changelog Action
         id: changelog
-        uses: TriPSs/conventional-changelog-action@v3.7.1
+        uses: TriPSs/conventional-changelog-action@v6.0.0
         with:
           github-token: ${{ secrets.PA_TOKEN }}
           version-file: './releases.json,./package.json'
           git-message: '{version}'
           git-user-name: 'Automated'
           git-user-email: 'actions@github.com'
-          # Use the processed commit message if available
           preset: 'angular'
           output-file: 'CHANGELOG.md'
+          release-count: 0
+          skip-on-empty: false
+          skip-version-file: false
 
       - name: Create Release
         uses: actions/create-release@v1
