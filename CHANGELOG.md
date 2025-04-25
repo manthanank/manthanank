@@ -1,3 +1,12 @@
+## [1.12.10](https://github.com/manthanank/manthanank/compare/v1.12.9...v1.12.10) (2025-04-25)
+
+
+### Bug Fixes
+
+* Update token references from PA_TOKEN to GH_TOKEN in workflows ([28d31bb](https://github.com/manthanank/manthanank/commit/28d31bb4f5d27c2cb84aa55a3e8bcbd7482c6b28))
+
+
+
 ## [1.12.9](https://github.com/manthanank/manthanank/compare/v1.12.8...v1.12.9) (2025-04-25)
 
 
