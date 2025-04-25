@@ -16,10 +16,10 @@ const updateDateElement = document.getElementById('update-date');
 const typingTextElement = document.getElementById('typing-text');
 
 // Set current date
-updateDateElement.textContent = new Date().toLocaleDateString('en-US', { 
-    year: 'numeric', 
-    month: 'long', 
-    day: 'numeric' 
+updateDateElement.textContent = new Date().toLocaleDateString('en-US', {
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric'
 });
 
 // Typing text effect for the subtitle
@@ -36,7 +36,7 @@ let typingDelay = 200;
 
 function typeText() {
     const currentText = texts[textIndex];
-    
+
     if (isDeleting) {
         typingTextElement.textContent = currentText.substring(0, charIndex - 1);
         charIndex--;
@@ -46,7 +46,7 @@ function typeText() {
         charIndex++;
         typingDelay = 200;
     }
-    
+
     if (!isDeleting && charIndex === currentText.length) {
         isDeleting = true;
         typingDelay = 1000; // Pause at the end
@@ -55,7 +55,7 @@ function typeText() {
         textIndex = (textIndex + 1) % texts.length;
         typingDelay = 500; // Pause before typing next text
     }
-    
+
     setTimeout(typeText, typingDelay);
 }
 
@@ -64,19 +64,19 @@ async function fetchGitHubProfile() {
     try {
         const response = await fetch(`https://api.github.com/users/${username}`);
         if (!response.ok) throw new Error('Failed to fetch GitHub profile');
-        
+
         const data = await response.json();
-        
+
         // Update profile information
         avatarElement.src = data.avatar_url;
         nameElement.textContent = data.name || username;
         bioElement.textContent = data.bio || 'Software Developer';
         followersElement.textContent = `${data.followers} followers`;
         reposCountElement.textContent = `${data.public_repos} repositories`;
-        
+
         // Fetch profile stars count
         fetchProfileViews();
-            
+
         return data;
     } catch (error) {
         console.error('Error fetching GitHub profile:', error);
@@ -90,7 +90,7 @@ async function fetchGitHubProfile() {
 async function fetchProfileViews() {
     try {
         const starCountElement = document.getElementById('star-count');
-        
+
         // Skip the traffic API attempt as it requires authentication
         // Go directly to the fallback method using GitHub repository data
         fetch(`https://api.github.com/repos/${username}/${username}`)
@@ -107,7 +107,7 @@ async function fetchProfileViews() {
             })
             .catch(error => {
                 console.warn('Unable to fetch GitHub repository data:', error);
-                
+
                 // Final fallback - use localStorage to create a client-side counter
                 let starCount = localStorage.getItem('profile_stars') || 0;
                 starCount = parseInt(starCount) + 1;
@@ -151,7 +151,7 @@ function loadSkills() {
         { name: 'MongoDB', icon: './assets/svg/mongodb.svg' },
         { name: 'Docker', icon: './assets/svg/docker.svg' }
     ];
-    
+
     skillsContainer.innerHTML = '';
     skills.forEach(skill => {
         const skillElement = document.createElement('div');
@@ -169,10 +169,10 @@ async function fetchRepositories() {
     try {
         const response = await fetch(`https://api.github.com/users/${username}/repos?sort=stars&per_page=6`);
         if (!response.ok) throw new Error('Failed to fetch repositories');
-        
+
         const repos = await response.json();
         reposContainer.innerHTML = '';
-        
+
         repos.forEach(repo => {
             const repoCard = document.createElement('div');
             repoCard.className = 'repo-card';
@@ -198,17 +198,17 @@ async function fetchBlogPosts() {
     try {
         const response = await fetch(`https://dev.to/api/articles?username=${username}&per_page=5`);
         if (!response.ok) throw new Error('Failed to fetch blog posts');
-        
+
         const posts = await response.json();
         blogContainer.innerHTML = '';
-        
+
         posts.forEach(post => {
             const date = new Date(post.published_timestamp).toLocaleDateString('en-US', {
                 year: 'numeric',
                 month: 'short',
                 day: 'numeric'
             });
-            
+
             const blogItem = document.createElement('div');
             blogItem.className = 'blog-item';
             blogItem.innerHTML = `
@@ -228,43 +228,43 @@ async function fetchBlogPosts() {
 async function loadCodingStats() {
     try {
         codingStatsElement.textContent = 'Loading coding stats...';
-        
+
         // WakaTime API endpoint for last 7 days of coding activity
         // NOTE: This requires authentication. Since we can't expose API keys in client-side code,
         // this should be accessed through a proxy server or pre-generated file
-        
+
         // Option 1: Using a pre-generated stats file (from GitHub Actions)
         const response = await fetch(`/data/wakastats.json`);
-        
+
         // Option 2: Using a serverless function or backend proxy
         // const response = await fetch('/api/wakatime-stats');
-        
+
         if (!response.ok) {
             throw new Error('Failed to fetch WakaTime stats');
         }
-        
+
         const data = await response.json();
-        
+
         // Format the data in a similar way to the placeholder text
         let statsText = '';
-        
+
         // WakaTime API structure: data.data.languages contains language stats
         if (data.data && data.data.languages) {
             // Sort languages by time spent
             const languages = data.data.languages.sort((a, b) => b.total_seconds - a.total_seconds);
-            
+
             // Get the top 10 languages
             const topLanguages = languages.slice(0, 10);
-            
+
             // Generate stats text for each language
             topLanguages.forEach(lang => {
                 // Calculate percentage
                 const percentage = lang.percent.toFixed(2);
-                
+
                 // Create bar based on percentage (20 characters max)
                 const barLength = Math.ceil((lang.percent / 100) * 20);
                 const bar = '█'.repeat(barLength) + '░'.repeat(20 - barLength);
-                
+
                 // Format time
                 let timeText;
                 if (lang.hours > 0) {
@@ -272,35 +272,26 @@ async function loadCodingStats() {
                 } else {
                     timeText = `${lang.minutes} min${lang.minutes !== 1 ? 's' : ''}`;
                 }
-                
+
                 // Pad the language name and time for alignment
                 const paddedName = lang.name.padEnd(12, ' ');
                 const paddedTime = timeText.padEnd(15, ' ');
-                
+
                 // Add to stats text
                 statsText += `${paddedName} ${paddedTime} ${bar} ${percentage} %\n`;
             });
-            
+
             // Add last updated info
             statsText += `\nLast updated: ${new Date(data.data.range.end).toLocaleDateString()}`;
         } else {
             throw new Error('Unexpected data format from WakaTime API');
         }
-        
+
         codingStatsElement.textContent = statsText;
-        
+
     } catch (error) {
         console.error('Error fetching WakaTime stats:', error);
-        
-        // Fallback data
-        codingStatsElement.textContent = `
-Python       9 hrs 37 mins   ███████████▒░░░░░░░░░░░░░   45.51 %
-JavaScript   3 hrs 32 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
-HTML         2 hrs 15 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-TypeScript   1 hr 19 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-CSS          44 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
 
-(Fallback data - WakaTime API unavailable)`;
     }
 }
 
