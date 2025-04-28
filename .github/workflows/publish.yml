@@ -1,23 +1,16 @@
 name: NPM Package Publish
 
 on:
-  push:
-    branches:
-      - main
-    paths:
-      - 'index.js'
-      - 'package.json'
-      - '.github/workflows/publish.yml'
+  release:
+    types: [published]
 
 jobs:
-  build-and-publish:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
         with:
-          # This is required for the auto-versioning step to work correctly
           fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Setup Node.js
         uses: actions/setup-node@v3
@@ -28,71 +21,14 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Configure Git
+      - name: Get version from package.json
+        id: package-version
         run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions@github.com"
-
-      - name: Sync package version with latest git tag
-        id: sync-version
-        run: |
-          # Get the latest tag from git
-          LATEST_TAG=$(git describe --tags --abbrev=0 2>/dev/null || echo "v0.0.0")
-          echo "Latest git tag: $LATEST_TAG"
-
-          # Remove the 'v' prefix if it exists
-          LATEST_VERSION=${LATEST_TAG#v}
-          echo "Latest version: $LATEST_VERSION"
-
-          # Get current version from package.json
-          CURRENT_VERSION=$(node -p "require('./package.json').version")
-          echo "Current package.json version: $CURRENT_VERSION"
-
-          # If git tag version is higher, update package.json
-          if [ "$(printf '%s\n' "$LATEST_VERSION" "$CURRENT_VERSION" | sort -V | tail -n1)" != "$CURRENT_VERSION" ]; then
-            echo "Updating package.json version to match git tag"
-            npm version $LATEST_VERSION --no-git-tag-version --allow-same-version
-          fi
-
-          # Store the current version for use in later steps
-          echo "CURRENT_VERSION=${CURRENT_VERSION}" >> $GITHUB_OUTPUT
-
-      - name: Auto Version Bump
-        id: version-bump
-        run: |
-          # Determine appropriate version bump based on commit messages
-          if git log -1 --pretty=%B | grep -i -E "breaking change|major"; then
-            echo "Bumping major version"
-            npm version major --no-git-tag-version
-          elif git log -1 --pretty=%B | grep -i -E "feature|minor"; then
-            echo "Bumping minor version"
-            npm version minor --no-git-tag-version
-          else
-            echo "Bumping patch version"
-            npm version patch --no-git-tag-version
-          fi
-
-          # Get the new version after bump
-          NEW_VERSION=$(node -p "require('./package.json').version")
-          echo "NEW_VERSION=${NEW_VERSION}" >> $GITHUB_OUTPUT
-
-          # Check if tag already exists
-          if git rev-parse "v$NEW_VERSION" >/dev/null 2>&1; then
-            echo "Tag v$NEW_VERSION already exists, will skip tagging"
-            echo "TAG_EXISTS=true" >> $GITHUB_OUTPUT
-          else
-            echo "TAG_EXISTS=false" >> $GITHUB_OUTPUT
-          fi
-
-      - name: Create and push Git Tag
-        if: steps.version-bump.outputs.TAG_EXISTS == 'false'
-        run: |
-          NEW_VERSION=$(node -p "require('./package.json').version")
-          git tag -a "v$NEW_VERSION" -m "Version $NEW_VERSION"
-          git push --follow-tags
+          VERSION=$(node -p "require('./package.json').version")
+          echo "Version from package.json: $VERSION"
+          echo "version=$VERSION" >> $GITHUB_OUTPUT
 
       - name: Publish to npm
-        # Use npm automation token instead of regular token to bypass OTP
         run: |
           echo "//registry.npmjs.org/:_authToken=$NPM_TOKEN" > ~/.npmrc
           npm publish --access public
