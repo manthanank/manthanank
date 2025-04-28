@@ -1,4 +1,4 @@
-## [1.15.4](https://github.com/manthanank/manthanank/compare/v1.15.3...v1.15.4) (2025-04-28)
+## [1.15.5](https://github.com/manthanank/manthanank/compare/v1.15.3...v1.15.5) (2025-04-28)
 
 
 
