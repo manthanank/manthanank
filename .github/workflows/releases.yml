@@ -29,13 +29,28 @@ jobs:
             echo "commit_message=$COMMIT_MSG" >> $GITHUB_OUTPUT
           fi
 
+      # Check for existing tag to handle the case where the tag already exists
+      - name: Check if tag exists
+        id: check_tag
+        run: |
+          # Get latest version from package.json
+          PACKAGE_VERSION=$(node -p "require('./package.json').version")
+          # Check if tag v{PACKAGE_VERSION} exists
+          if git tag -l "v$PACKAGE_VERSION" | grep -q "v$PACKAGE_VERSION"; then
+            echo "Tag v$PACKAGE_VERSION already exists, will use skip_tag_action=true"
+            echo "skip_tag_action=true" >> $GITHUB_OUTPUT
+          else
+            echo "Tag v$PACKAGE_VERSION does not exist"
+            echo "skip_tag_action=false" >> $GITHUB_OUTPUT
+          fi
+
       - name: Conventional Changelog Action
         id: changelog
         uses: TriPSs/conventional-changelog-action@v6.0.0
         with:
           github-token: ${{ secrets.GH_TOKEN }}
           version-file: './releases.json,./package.json'
-          git-message: '{version}'
+          git-message: '{version} [skip ci]'
           git-user-name: 'Automated'
           git-user-email: 'actions@github.com'
           preset: 'angular'
@@ -43,6 +58,7 @@ jobs:
           release-count: 0
           skip-on-empty: false
           skip-version-file: false
+          skip-tag: ${{ steps.check_tag.outputs.skip_tag_action }}
           types: |
             {"feat": {"name": "Features"},
              "fix": {"name": "Bug Fixes"},
@@ -57,7 +73,7 @@ jobs:
 
       - name: Create Release
         uses: actions/create-release@v1
-        if: ${{ steps.changelog.outputs.skipped == 'false' }}
+        if: ${{ steps.changelog.outputs.skipped == 'false' && steps.check_tag.outputs.skip_tag_action == 'false' }}
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
