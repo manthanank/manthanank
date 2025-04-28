@@ -7,8 +7,6 @@ const nameElement = document.getElementById('name');
 const bioElement = document.getElementById('bio');
 const followersElement = document.getElementById('followers');
 const reposCountElement = document.getElementById('repos');
-// Using the variable to fix unused variable warning
-const profileViewsElement = document.getElementById('profile-stars');
 const skillsContainer = document.getElementById('skills-container');
 const reposContainer = document.getElementById('repos-container');
 const blogContainer = document.getElementById('blog-container');
@@ -20,7 +18,7 @@ const typingTextElement = document.getElementById('typing-text');
 updateDateElement.textContent = new Date().toLocaleDateString('en-US', {
   year: 'numeric',
   month: 'long',
-  day: 'numeric'
+  day: 'numeric',
 });
 
 // Typing text effect for the subtitle
@@ -28,14 +26,14 @@ const texts = [
   'Software Engineer🎓',
   'Front End Developer🧑‍💻',
   'MEAN Stack Developer🚀',
-  'Learn, Code, Build 👽'
+  'Learn, Code, Build 👽',
 ];
 let textIndex = 0;
 let charIndex = 0;
 let isDeleting = false;
 let typingDelay = 200;
 
-function typeText () {
+function typeText() {
   const currentText = texts[textIndex];
 
   if (isDeleting) {
@@ -61,7 +59,7 @@ function typeText () {
 }
 
 // Fetch GitHub profile data
-async function fetchGitHubProfile () {
+async function fetchGitHubProfile() {
   try {
     const response = await fetch(`https://api.github.com/users/${username}`);
     if (!response.ok) throw new Error('Failed to fetch GitHub profile');
@@ -88,7 +86,7 @@ async function fetchGitHubProfile () {
 }
 
 // Fetch profile stars using GitHub API
-async function fetchProfileViews () {
+async function fetchProfileViews() {
   try {
     const starCountElement = document.getElementById('star-count');
 
@@ -122,7 +120,7 @@ async function fetchProfileViews () {
 }
 
 // Load skills
-function loadSkills () {
+function loadSkills() {
   const skills = [
     { name: 'HTML', icon: './assets/svg/html.svg' },
     { name: 'CSS', icon: './assets/svg/css.svg' },
@@ -150,7 +148,7 @@ function loadSkills () {
     { name: 'npm', icon: './assets/svg/npm.svg' },
     { name: 'MySQL', icon: './assets/svg/mysql.svg' },
     { name: 'MongoDB', icon: './assets/svg/mongodb.svg' },
-    { name: 'Docker', icon: './assets/svg/docker.svg' }
+    { name: 'Docker', icon: './assets/svg/docker.svg' },
   ];
 
   skillsContainer.innerHTML = '';
@@ -166,9 +164,11 @@ function loadSkills () {
 }
 
 // Fetch GitHub repositories
-async function fetchRepositories () {
+async function fetchRepositories() {
   try {
-    const response = await fetch(`https://api.github.com/users/${username}/repos?sort=stars&per_page=6`);
+    const response = await fetch(
+      `https://api.github.com/users/${username}/repos?sort=stars&per_page=6`
+    );
     if (!response.ok) throw new Error('Failed to fetch repositories');
 
     const repos = await response.json();
@@ -195,7 +195,7 @@ async function fetchRepositories () {
 }
 
 // Fetch blog posts from Dev.to
-async function fetchBlogPosts () {
+async function fetchBlogPosts() {
   try {
     const response = await fetch(`https://dev.to/api/articles?username=${username}&per_page=5`);
     if (!response.ok) throw new Error('Failed to fetch blog posts');
@@ -207,7 +207,7 @@ async function fetchBlogPosts () {
       const date = new Date(post.published_timestamp).toLocaleDateString('en-US', {
         year: 'numeric',
         month: 'short',
-        day: 'numeric'
+        day: 'numeric',
       });
 
       const blogItem = document.createElement('div');
@@ -226,7 +226,7 @@ async function fetchBlogPosts () {
 }
 
 // Fetch coding stats from WakaTime API
-async function loadCodingStats () {
+async function loadCodingStats() {
   try {
     codingStatsElement.textContent = 'Loading coding stats...';
 
@@ -287,15 +287,15 @@ async function loadCodingStats () {
     } else {
       codingStatsElement.textContent = 'No coding stats available. Check back later.';
     }
-
   } catch (error) {
     console.error('Error fetching WakaTime stats:', error);
-    codingStatsElement.textContent = 'Could not load coding stats. Please check browser console for errors.';
+    codingStatsElement.textContent =
+      'Could not load coding stats. Please check browser console for errors.';
   }
 }
 
 // Initialize everything
-async function initialize () {
+async function initialize() {
   typeText(); // Start typing animation
   await fetchGitHubProfile();
   loadSkills();
