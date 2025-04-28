@@ -12,7 +12,11 @@
     "format": "prettier --write \"**/*.{js,json,css,md,html}\"",
     "dev": "http-server public -o -c-1",
     "update-stats": "node scripts/update-stats.js",
-    "validate": "npm run lint && npm run build"
+    "validate": "npm run lint && npm run build",
+    "prepublishOnly": "npm run validate",
+    "publish-patch": "npm version patch && npm publish",
+    "publish-minor": "npm version minor && npm publish",
+    "publish-major": "npm version major && npm publish"
   },
   "repository": {
     "type": "git",
