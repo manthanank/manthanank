@@ -33,9 +33,9 @@ async function fetchWakaTimeStats() {
       languages: [],
       range: {
         end: new Date().toISOString(),
-        start: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString() // 7 days ago
-      }
-    }
+        start: new Date(Date.now() - 7 * 24 * 60 * 60 * 1000).toISOString(), // 7 days ago
+      },
+    },
   };
 
   // Options for the API request
@@ -44,17 +44,17 @@ async function fetchWakaTimeStats() {
     path: `/api/v1/users/current/stats/last_7_days?api_key=${WAKATIME_API_KEY}`,
     method: 'GET',
     headers: {
-      'User-Agent': 'ManthanANK/Github-Profile'
-    }
+      'User-Agent': 'ManthanANK/Github-Profile',
+    },
   };
 
-  return new Promise((resolve) => {
+  return new Promise(resolve => {
     console.log('Fetching WakaTime stats...');
 
-    const req = https.request(options, (res) => {
+    const req = https.request(options, res => {
       let data = '';
 
-      res.on('data', (chunk) => {
+      res.on('data', chunk => {
         data += chunk;
       });
 
@@ -74,7 +74,7 @@ async function fetchWakaTimeStats() {
       });
     });
 
-    req.on('error', (e) => {
+    req.on('error', e => {
       console.error(`API request error: ${e.message}`);
       resolve(defaultData);
     });
@@ -98,12 +98,11 @@ async function main() {
 
     // Log a sample of the data
     if (stats.data && stats.data.languages && stats.data.languages.length) {
-      console.log(`Top 3 languages of the last 7 days:`);
+      console.log('Top 3 languages of the last 7 days:');
       stats.data.languages.slice(0, 3).forEach((lang, i) => {
         console.log(`${i + 1}. ${lang.name}: ${lang.percent.toFixed(2)}%`);
       });
     }
-
   } catch (error) {
     console.error('Error updating stats:', error);
     process.exit(1);
