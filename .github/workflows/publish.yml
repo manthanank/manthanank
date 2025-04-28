@@ -1,31 +1,55 @@
-name: NPM Package
+name: NPM Package Publish
 
 on:
-  release:
-    types: [published]
+  push:
+    branches:
+      - main
+    paths:
+      - 'index.js'
+      - 'package.json'
+      - '.github/workflows/publish.yml'
 
 jobs:
-  build:
+  build-and-publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
         with:
-          node-version: 16
-      - name: Install dependencies
-        run: npm install
+          # This is required for the auto-versioning step to work correctly
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
 
-  publish-npm:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
         with:
           node-version: 16
           registry-url: https://registry.npmjs.org/
+
       - name: Install dependencies
         run: npm install
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "github-actions@github.com"
+
+      - name: Auto Version Bump
+        run: |
+          # Determine appropriate version bump based on commit messages
+          if git log -1 --pretty=%B | grep -i -E "breaking change|major"; then
+            echo "Bumping major version"
+            npm version major
+          elif git log -1 --pretty=%B | grep -i -E "feature|minor"; then
+            echo "Bumping minor version"
+            npm version minor
+          else
+            echo "Bumping patch version"
+            npm version patch
+          fi
+
+      - name: Push Git Tag
+        run: git push --follow-tags
+
       - name: Publish to npm
         # Use npm automation token instead of regular token to bypass OTP
         run: |
