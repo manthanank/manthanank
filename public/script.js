@@ -235,7 +235,7 @@ async function loadCodingStats () {
     // this should be accessed through a proxy server or pre-generated file
 
     // Option 1: Using a pre-generated stats file (from GitHub Actions)
-    const response = await fetch(`./data/wakastats.json`);
+    const response = await fetch('./data/wakastats.json');
 
     if (!response.ok) {
       throw new Error(`Failed to fetch WakaTime stats: ${response.status} ${response.statusText}`);
