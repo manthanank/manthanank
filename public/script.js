@@ -6,6 +6,7 @@ const avatarElement = document.getElementById('avatar');
 const nameElement = document.getElementById('name');
 const bioElement = document.getElementById('bio');
 const followersElement = document.getElementById('followers');
+const profileViewsElement = document.getElementById('profile-stars');
 const reposCountElement = document.getElementById('repos');
 const skillsContainer = document.getElementById('skills-container');
 const reposContainer = document.getElementById('repos-container');
@@ -72,9 +73,10 @@ async function fetchGitHubProfile() {
     bioElement.textContent = data.bio || 'Software Developer';
     followersElement.textContent = `${data.followers} followers`;
     reposCountElement.textContent = `${data.public_repos} repositories`;
+    profileViewsElement.textContent = `${data.public_stars || 0} stars`;
 
     // Fetch profile stars count
-    fetchProfileViews();
+    await fetchProfileViews();
 
     return data;
   } catch (error) {
