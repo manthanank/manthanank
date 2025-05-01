@@ -21,7 +21,7 @@ jobs:
           types: feat,fix,docs,style,refactor,perf,test,build,ci,chore,revert
 
       - name: Lint Code Base
-        uses: github/super-linter@v5
+        uses: github/super-linter@v7
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
