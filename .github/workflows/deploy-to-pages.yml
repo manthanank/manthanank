@@ -3,8 +3,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main  # Set this to your default branch
-  workflow_dispatch:  # Allows manual triggering
+      - main # Set this to your default branch
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
 
 # Sets permissions of the GH_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -14,7 +16,7 @@ permissions:
 
 # Allow only one concurrent deployment
 concurrency:
-  group: "pages"
+  group: 'pages'
   cancel-in-progress: true
 
 jobs:
