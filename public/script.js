@@ -6,7 +6,7 @@ const avatarElement = document.getElementById('avatar');
 const nameElement = document.getElementById('name');
 const bioElement = document.getElementById('bio');
 const followersElement = document.getElementById('followers');
-const profileViewsElement = document.getElementById('profile-stars');
+const followingElement = document.getElementById('following');
 const reposCountElement = document.getElementById('repos');
 const skillsContainer = document.getElementById('skills-container');
 const reposContainer = document.getElementById('repos-container');
@@ -73,10 +73,7 @@ async function fetchGitHubProfile() {
     bioElement.textContent = data.bio || 'Software Developer';
     followersElement.textContent = `${data.followers} followers`;
     reposCountElement.textContent = `${data.public_repos} repositories`;
-    profileViewsElement.textContent = `${data.public_stars || 0} stars`;
-
-    // Fetch profile stars count
-    await fetchProfileViews();
+    followingElement.textContent = `${data.following || 0} following`;
 
     return data;
   } catch (error) {
@@ -84,40 +81,6 @@ async function fetchGitHubProfile() {
     nameElement.textContent = 'Manthan Ankolekar';
     bioElement.textContent = 'Software Developer';
     return null;
-  }
-}
-
-// Fetch profile stars using GitHub API
-async function fetchProfileViews() {
-  try {
-    const starCountElement = document.getElementById('star-count');
-
-    // Skip the traffic API attempt as it requires authentication
-    // Go directly to the fallback method using GitHub repository data
-    fetch(`https://api.github.com/repos/${username}/${username}`)
-      .then(response => {
-        if (!response.ok) {
-          throw new Error('Failed to fetch repo data');
-        }
-        return response.json();
-      })
-      .then(data => {
-        // Use stars count as a popularity metric
-        const starCount = data.stargazers_count || 0;
-        starCountElement.textContent = `${starCount.toLocaleString()} stars`;
-      })
-      .catch(error => {
-        console.warn('Unable to fetch GitHub repository data:', error);
-
-        // Final fallback - use localStorage to create a client-side counter
-        let starCount = localStorage.getItem('profile_stars') || 0;
-        starCount = parseInt(starCount) + 1;
-        localStorage.setItem('profile_stars', starCount);
-        starCountElement.textContent = `${starCount} stars`;
-      });
-  } catch (error) {
-    console.error('Error setting up profile star counter:', error);
-    document.getElementById('star-count').textContent = 'many stars';
   }
 }
 
