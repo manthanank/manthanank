@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
 - [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
 - [Building an AI-Powered Image Studio App with Angular and Node.js](https://dev.to/manthanank/building-an-ai-powered-image-studio-app-with-angular-and-nodejs-5hmd)
 - [Building an AI-Powered Image Editor with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-editor-with-googles-gemini-api-487m)
 - [Building an AI-Powered Image Generator with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-generator-with-googles-gemini-api-19pd)
-- [Building a Node.js CRUD API with Supabase](https://dev.to/manthanank/building-a-nodejs-crud-api-with-supabase-3bkp)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
