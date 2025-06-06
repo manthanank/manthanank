@@ -1,0 +1,43 @@
+# Manthan Ankolekar - Developer Profile
+
+> Personal GitHub profile and portfolio website for Manthan Ankolekar, a Full Stack Software Developer specializing in Angular, MEAN stack, and modern web technologies. This project showcases skills, projects, blog posts, and provides a comprehensive overview of professional experience and technical expertise.
+
+This is a personal developer portfolio website built with vanilla HTML, CSS, and JavaScript. The site includes:
+
+- Interactive profile display with GitHub API integration
+- Dynamic skill showcase with SVG icons
+- Real-time coding statistics from WakaTime
+- Blog post integration from Dev.to and Hashnode
+- Responsive design with modern CSS animations
+- Service worker for offline functionality
+
+The project follows modern web development best practices and includes comprehensive documentation for contributors and users interested in creating similar developer portfolios.
+
+## Documentation
+
+- [README](README.md): Complete project overview, setup instructions, and feature descriptions
+- [Contributing Guide](CONTRIBUTING.md): Guidelines for contributing to the project
+- [Code of Conduct](CODE_OF_CONDUCT.md): Community standards and behavior expectations
+- [Changelog](CHANGELOG.md): Version history and release notes
+- [Security Policy](SECURITY.md): Security guidelines and vulnerability reporting
+
+## Code Structure
+
+- [Main HTML](public/index.html): Primary website structure and layout
+- [Styles](public/style.css): CSS styling and responsive design
+- [JavaScript](public/script.js): Interactive functionality and API integrations
+- [Service Worker](public/service-worker.js): Offline functionality and caching
+- [Package Configuration](package.json): Project dependencies and npm scripts
+
+## Assets and Data
+
+- [SVG Icons](assets/svg/): Technology and social media icons
+- [WakaTime Stats](public/data/wakastats.json): Coding activity statistics
+- [Update Script](scripts/update-stats.js): Automated statistics updating
+
+## Optional
+
+- [Sitemap](public/sitemap.xml): SEO and search engine optimization
+- [Robots.txt](public/robots.txt): Web crawler instructions
+- [Manifest](public/manifest.json): Progressive Web App configuration
+- [Dockerfile](Dockerfile): Container deployment configuration
