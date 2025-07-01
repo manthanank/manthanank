@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [🚗 Build a Ride Cost Calculator App with Angular 20 and Tailwind CSS 4](https://dev.to/manthanank/build-a-ride-cost-calculator-app-with-angular-20-and-tailwind-css-4-ao3)
 - [Peeking Under the Hood: How to List Your npm Packages](https://dev.to/manthanank/peeking-under-the-hood-how-to-list-your-npm-packages-205b)
 - [Getting Started with Angular: Installing and Creating Your First Project](https://dev.to/manthanank/getting-started-with-angular-installing-and-creating-your-first-project-2a16)
 - [Mastering Angular&#39;s New Control Flow with TypeScript Code Examples](https://dev.to/manthanank/mastering-angulars-new-control-flow-with-typescript-code-examples-1i96)
 - [Building an AI-Powered Image Studio App with Angular and Node.js](https://dev.to/manthanank/building-an-ai-powered-image-studio-app-with-angular-and-nodejs-5hmd)
-- [Building an AI-Powered Image Editor with Google&#39;s Gemini API](https://dev.to/manthanank/building-an-ai-powered-image-editor-with-googles-gemini-api-487m)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
