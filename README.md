@@ -117,16 +117,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <!--START_SECTION:waka-->
 
 ```txt
-Python       8 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.86 %
-Terraform    5 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
-Markdown     2 hrs 12 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-JavaScript   1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-JSON         55 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 %
-HTML         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
-TypeScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
-YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.46 %
-HCL          26 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
-Docker       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+Python       8 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.11 %
+Terraform    5 hrs 56 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.16 %
+Markdown     2 hrs 11 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
+JavaScript   1 hr 10 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 %
+JSON         54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
+HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+TypeScript   38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+YAML         33 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+HCL          26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+Docker       15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
 ```
 
 <!--END_SECTION:waka-->
