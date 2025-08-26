@@ -32,7 +32,7 @@
   },
   "homepage": "https://github.com/manthanank/manthanank#readme",
   "devDependencies": {
-    "eslint": "^8.54.0",
+    "eslint": "^9.34.0",
     "http-server": "^14.1.1",
     "prettier": "^3.1.0"
   }
