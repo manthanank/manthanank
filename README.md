@@ -105,11 +105,11 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 ## Recent Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform Setup Guide: Getting Started with Infrastructure as Code](https://dev.to/manthanank/terraform-setup-guide-getting-started-with-infrastructure-as-code-16k5)
 - [Essential Terraform CLI Commands You Should Know](https://dev.to/manthanank/essential-terraform-cli-commands-you-should-know-504f)
 - [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
 - [🚀 Building an AI-Powered Resume Optimizer with Angular, Node.js &amp; Gemini](https://dev.to/manthanank/building-an-ai-powered-resume-optimizer-with-angular-nodejs-gemini-44d8)
 - [Exploring Binary Assignment Operators with Angular v20.1.0 🚀](https://dev.to/manthanank/exploring-binary-assignment-operators-with-angular-v2010-g16)
-- [🚀 Build a Prompt Generator App with Angular, Tailwind CSS &amp; Google Gemini API](https://dev.to/manthanank/build-a-prompt-generator-app-with-angular-tailwind-css-google-gemini-api-g2d)
 <!-- BLOG-POST-LIST:END -->
 
 ## Weekly Insight of Languages I use
