@@ -1,0 +1,115 @@
+<div class="max-w-6xl mx-auto px-4 py-6">
+  <app-header></app-header>
+
+  <!-- Timeframe Selector -->
+  <div class="mt-4 flex items-center gap-2">
+    <button class="px-4 py-2 rounded-full text-sm font-medium border transition-colors" [ngClass]="{
+      'bg-blue-600 text-white border-blue-600': currentTimeframe() === 'week',
+      'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': currentTimeframe() !== 'week'
+    }" (click)="changeTimeframe('week')">This Week</button>
+    <button class="px-4 py-2 rounded-full text-sm font-medium border transition-colors" [ngClass]="{
+      'bg-blue-600 text-white border-blue-600': currentTimeframe() === 'month',
+      'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': currentTimeframe() !== 'month'
+    }" (click)="changeTimeframe('month')">This Month</button>
+  </div>
+
+  <!-- Filters Component -->
+  <div class="mt-6">
+    <app-filters></app-filters>
+  </div>
+
+  <!-- Controls Section -->
+  <div class="mt-4 space-y-4">
+    <!-- Sorting Controls -->
+    <div class="flex flex-wrap items-center gap-4 bg-gray-50 border border-gray-200 rounded-lg p-3">
+      <label class="text-sm text-gray-600 flex items-center gap-2">
+        <span>Sort by</span>
+        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [(ngModel)]="sortBy" (change)="applySort()">
+          <option value="release_date">Release Date</option>
+          <option value="title">Title</option>
+          <option value="platform">Platform</option>
+          <option value="genre">Genre</option>
+        </select>
+      </label>
+      <label class="text-sm text-gray-600 flex items-center gap-2">
+        <span>Order</span>
+        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [(ngModel)]="order" (change)="applySort()">
+          <option value="asc">Ascending</option>
+          <option value="desc">Descending</option>
+        </select>
+      </label>
+      <label class="text-sm text-gray-600 flex items-center gap-2">
+        <span>Show</span>
+        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [value]="limit()" (change)="onLimitChange($event)">
+          <option value="10">10 per page</option>
+          <option value="20">20 per page</option>
+          <option value="50">50 per page</option>
+          <option value="100">100 per page</option>
+        </select>
+      </label>
+      <div class="text-xs text-gray-500">
+        Sorting applies to filtered results
+      </div>
+    </div>
+
+    <!-- Pagination Info -->
+    <div class="flex items-center justify-between text-sm text-gray-600 bg-blue-50 border border-blue-200 rounded-lg p-3">
+      <div>
+        Showing {{ offset() + 1 }}-{{ Math.min(offset() + limit(), totalCount() || paginatedReleases().length) }} of {{ totalCount() || paginatedReleases().length }} releases
+        @if (getTotalPages() > 1) {
+          (Page {{ getCurrentPage() }} of {{ getTotalPages() }})
+        }
+      </div>
+      @if (getTotalPages() > 1) {
+        <div class="flex items-center gap-2">
+          <button
+            (click)="goToPage(getCurrentPage() - 1)"
+            [disabled]="!hasPreviousPage()"
+            class="px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+            Previous
+          </button>
+          <span class="px-2 py-1 text-sm bg-white border border-gray-300 rounded">
+            {{ getCurrentPage() }} / {{ getTotalPages() }}
+          </span>
+          <button
+            (click)="goToPage(getCurrentPage() + 1)"
+            [disabled]="!hasNextPage()"
+            class="px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+            Next
+          </button>
+        </div>
+      } @else {
+        <div class="text-xs text-gray-500">
+          All results on this page
+        </div>
+      }
+    </div>
+  </div>
+
+  @if (isLoading()) {
+    <div class="mt-8 text-gray-600">Loading releases...</div>
+  } @else if (error()) {
+    <div class="mt-8 text-red-600">{{ error() }}</div>
+  } @else {
+    <!-- Results Summary -->
+    <div class="mt-6 flex items-center justify-between">
+      <div class="text-sm text-gray-600">
+        Showing {{ paginatedReleases().length }} of {{ getDisplayCount() }} releases
+      </div>
+      @if (paginatedReleases().length === 0 && getDisplayCount() > 0) {
+        <div class="text-sm text-amber-600">
+          No results match your filters. Try adjusting your search criteria.
+        </div>
+      }
+    </div>
+
+    <!-- Release Cards -->
+    <div class="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4">
+      @for (item of paginatedReleases(); track item.title) {
+      <app-release-card [release]="item"></app-release-card>
+      }
+    </div>
+
+    <!-- Note: Pagination is now handled by the controls above -->
+  }
+</div>
