@@ -1,15 +1,15 @@
-<div class="max-w-6xl mx-auto px-4 py-6">
+<div class="max-w-6xl mx-auto px-4 py-6 bg-gray-50 dark:bg-gray-900 text-gray-900 dark:text-gray-100 min-h-screen">
   <app-header></app-header>
 
   <!-- Timeframe Selector -->
   <div class="mt-4 flex items-center gap-2">
     <button class="px-4 py-2 rounded-full text-sm font-medium border transition-colors" [ngClass]="{
-      'bg-blue-600 text-white border-blue-600': currentTimeframe() === 'week',
-      'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': currentTimeframe() !== 'week'
+      'bg-gray-600 text-white border-gray-600': currentTimeframe() === 'week',
+      'bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-600 hover:bg-gray-200 dark:hover:bg-gray-700': currentTimeframe() !== 'week'
     }" (click)="changeTimeframe('week')">This Week</button>
     <button class="px-4 py-2 rounded-full text-sm font-medium border transition-colors" [ngClass]="{
-      'bg-blue-600 text-white border-blue-600': currentTimeframe() === 'month',
-      'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': currentTimeframe() !== 'month'
+      'bg-gray-600 text-white border-gray-600': currentTimeframe() === 'month',
+      'bg-gray-100 dark:bg-gray-800 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-600 hover:bg-gray-200 dark:hover:bg-gray-700': currentTimeframe() !== 'month'
     }" (click)="changeTimeframe('month')">This Month</button>
   </div>
 
@@ -21,39 +21,39 @@
   <!-- Controls Section -->
   <div class="mt-4 space-y-4">
     <!-- Sorting Controls -->
-    <div class="flex flex-wrap items-center gap-4 bg-gray-50 border border-gray-200 rounded-lg p-3">
-      <label class="text-sm text-gray-600 flex items-center gap-2">
+    <div class="flex flex-wrap items-center gap-4 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-3">
+      <label class="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-2">
         <span>Sort by</span>
-        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [(ngModel)]="sortBy" (change)="applySort()">
+        <select class="bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded px-3 py-1 text-sm text-gray-900 dark:text-gray-100" [(ngModel)]="sortBy" (change)="applySort()">
           <option value="release_date">Release Date</option>
           <option value="title">Title</option>
           <option value="platform">Platform</option>
           <option value="genre">Genre</option>
         </select>
       </label>
-      <label class="text-sm text-gray-600 flex items-center gap-2">
+      <label class="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-2">
         <span>Order</span>
-        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [(ngModel)]="order" (change)="applySort()">
+        <select class="bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded px-3 py-1 text-sm text-gray-900 dark:text-gray-100" [(ngModel)]="order" (change)="applySort()">
           <option value="asc">Ascending</option>
           <option value="desc">Descending</option>
         </select>
       </label>
-      <label class="text-sm text-gray-600 flex items-center gap-2">
+      <label class="text-sm text-gray-600 dark:text-gray-400 flex items-center gap-2">
         <span>Show</span>
-        <select class="bg-white border border-gray-300 rounded px-3 py-1 text-sm" [value]="limit()" (change)="onLimitChange($event)">
+        <select class="bg-gray-100 dark:bg-gray-700 border border-gray-300 dark:border-gray-600 rounded px-3 py-1 text-sm text-gray-900 dark:text-gray-100" [value]="limit()" (change)="onLimitChange($event)">
           <option value="10">10 per page</option>
           <option value="20">20 per page</option>
           <option value="50">50 per page</option>
           <option value="100">100 per page</option>
         </select>
       </label>
-      <div class="text-xs text-gray-500">
+      <div class="text-xs text-gray-500 dark:text-gray-400">
         Sorting applies to filtered results
       </div>
     </div>
 
     <!-- Pagination Info -->
-    <div class="flex items-center justify-between text-sm text-gray-600 bg-blue-50 border border-blue-200 rounded-lg p-3">
+    <div class="flex items-center justify-between text-sm text-gray-600 dark:text-gray-400 bg-gray-50 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg p-3">
       <div>
         Showing {{ offset() + 1 }}-{{ Math.min(offset() + limit(), totalCount() || paginatedReleases().length) }} of {{ totalCount() || paginatedReleases().length }} releases
         @if (getTotalPages() > 1) {
@@ -65,21 +65,21 @@
           <button
             (click)="goToPage(getCurrentPage() - 1)"
             [disabled]="!hasPreviousPage()"
-            class="px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+            class="px-3 py-1 text-sm border border-gray-300 dark:border-gray-600 rounded hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-100">
             Previous
           </button>
-          <span class="px-2 py-1 text-sm bg-white border border-gray-300 rounded">
+          <span class="px-2 py-1 text-sm bg-gray-100 dark:bg-gray-800 border border-gray-300 dark:border-gray-600 rounded text-gray-900 dark:text-gray-100">
             {{ getCurrentPage() }} / {{ getTotalPages() }}
           </span>
           <button
             (click)="goToPage(getCurrentPage() + 1)"
             [disabled]="!hasNextPage()"
-            class="px-3 py-1 text-sm border border-gray-300 rounded hover:bg-gray-50 disabled:opacity-50 disabled:cursor-not-allowed">
+            class="px-3 py-1 text-sm border border-gray-300 dark:border-gray-600 rounded hover:bg-gray-50 dark:hover:bg-gray-700 disabled:opacity-50 disabled:cursor-not-allowed bg-gray-100 dark:bg-gray-800 text-gray-900 dark:text-gray-100">
             Next
           </button>
         </div>
       } @else {
-        <div class="text-xs text-gray-500">
+        <div class="text-xs text-gray-500 dark:text-gray-400">
           All results on this page
         </div>
       }
@@ -87,17 +87,17 @@
   </div>
 
   @if (isLoading()) {
-    <div class="mt-8 text-gray-600">Loading releases...</div>
+    <div class="mt-8 text-gray-600 dark:text-gray-400">Loading releases...</div>
   } @else if (error()) {
-    <div class="mt-8 text-red-600">{{ error() }}</div>
+    <div class="mt-8 text-red-600 dark:text-red-400">{{ error() }}</div>
   } @else {
     <!-- Results Summary -->
     <div class="mt-6 flex items-center justify-between">
-      <div class="text-sm text-gray-600">
+      <div class="text-sm text-gray-600 dark:text-gray-400">
         Showing {{ paginatedReleases().length }} of {{ getDisplayCount() }} releases
       </div>
       @if (paginatedReleases().length === 0 && getDisplayCount() > 0) {
-        <div class="text-sm text-amber-600">
+        <div class="text-sm text-amber-600 dark:text-amber-400">
           No results match your filters. Try adjusting your search criteria.
         </div>
       }
@@ -112,4 +112,17 @@
 
     <!-- Note: Pagination is now handled by the controls above -->
   }
+
+  <!-- Visitor Count Text at Bottom -->
+  <div class="mt-8 pt-4 border-t border-gray-200 dark:border-gray-700 text-center">
+    <span class="text-sm text-gray-600 dark:text-gray-400">
+      @if (visitorCountLoading()) {
+        <span class="animate-pulse">Loading visitor count...</span>
+      } @else if (visitorCountError()) {
+        <span class="text-red-500 dark:text-red-400">Error loading visitor count</span>
+      } @else {
+        Total Visitors: <span class="font-semibold text-gray-800 dark:text-gray-200">{{ visitorCount() }}</span>
+      }
+    </span>
+  </div>
 </div>

@@ -1,10 +1,10 @@
-<div class="bg-white border border-gray-200 rounded-lg shadow-sm">
+<div class="bg-gray-100 dark:bg-gray-800 border border-gray-200 dark:border-gray-700 rounded-lg shadow-sm">
   <!-- Filter Header -->
-  <div class="flex items-center justify-between p-4 border-b border-gray-200">
+  <div class="flex items-center justify-between p-4 border-b border-gray-200 dark:border-gray-700">
     <div class="flex items-center gap-3">
-      <h3 class="text-lg font-semibold text-gray-900">Filters</h3>
+      <h3 class="text-lg font-semibold text-gray-900 dark:text-gray-100">Filters</h3>
       @if (getFilterCount() > 0) {
-        <span class="px-2 py-1 text-xs font-medium bg-blue-100 text-blue-800 rounded-full">
+        <span class="px-2 py-1 text-xs font-medium bg-gray-100 dark:bg-gray-700 text-gray-800 dark:text-gray-200 rounded-full">
           {{ getFilterCount() }} active
         </span>
       }
@@ -13,13 +13,13 @@
       @if (getFilterCount() > 0) {
         <button
           (click)="clearFilters()"
-          class="px-3 py-1 text-sm text-gray-600 hover:text-gray-800 hover:bg-gray-100 rounded-md transition-colors">
+          class="px-3 py-1 text-sm text-gray-600 dark:text-gray-400 hover:text-gray-800 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-md transition-colors">
           Clear All
         </button>
       }
       <button
         (click)="toggleExpanded()"
-        class="p-2 text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-md transition-colors">
+        class="p-2 text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 hover:bg-gray-100 dark:hover:bg-gray-700 rounded-md transition-colors">
         <svg class="w-4 h-4 transition-transform" [ngClass]="{ 'rotate-180': isExpanded() }" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
         </svg>
@@ -32,26 +32,26 @@
     <div class="p-4 space-y-6">
       <!-- Search -->
       <div>
-        <label class="block text-sm font-medium text-gray-700 mb-2">Search</label>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">Search</label>
         <input
           type="text"
           [(ngModel)]="searchTerm"
           (input)="onSearchChange()"
           placeholder="Search by title, platform, or genre..."
-          class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+          class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-transparent bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-gray-100 placeholder-gray-500 dark:placeholder-gray-400">
       </div>
 
       <!-- Platform Filter -->
       <div>
-        <label class="block text-sm font-medium text-gray-700 mb-3">Platforms</label>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-3">Platforms</label>
         <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
           @for (platform of availablePlatforms(); track platform) {
             <button
               (click)="togglePlatform(platform)"
               class="px-3 py-2 text-sm border rounded-md transition-colors"
               [ngClass]="{
-                'bg-blue-600 text-white border-blue-600': filters().platforms.includes(platform),
-                'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': !filters().platforms.includes(platform)
+                'bg-gray-600 text-white border-gray-600': filters().platforms.includes(platform),
+                'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-600': !filters().platforms.includes(platform)
               }">
               {{ platform }}
             </button>
@@ -61,7 +61,7 @@
 
       <!-- Genre Filter -->
       <div>
-        <label class="block text-sm font-medium text-gray-700 mb-3">Genres</label>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-3">Genres</label>
         <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2">
           @for (genre of availableGenres(); track genre) {
             <button
@@ -69,7 +69,7 @@
               class="px-3 py-2 text-sm border rounded-md transition-colors"
               [ngClass]="{
                 'bg-green-600 text-white border-green-600': filters().genres.includes(genre),
-                'bg-white text-gray-700 border-gray-300 hover:bg-gray-50': !filters().genres.includes(genre)
+                'bg-gray-100 dark:bg-gray-700 text-gray-700 dark:text-gray-300 border-gray-300 dark:border-gray-600 hover:bg-gray-50 dark:hover:bg-gray-600': !filters().genres.includes(genre)
               }">
               {{ genre }}
             </button>
@@ -79,55 +79,55 @@
 
       <!-- Date Range Filter -->
       <div>
-        <label class="block text-sm font-medium text-gray-700 mb-3">Release Date Range</label>
+        <label class="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-3">Release Date Range</label>
         <div class="grid grid-cols-1 sm:grid-cols-2 gap-3">
           <div>
-            <label class="block text-xs text-gray-500 mb-1">From</label>
+            <label class="block text-xs text-gray-500 dark:text-gray-400 mb-1">From</label>
             <input
               type="date"
               [value]="filters().dateRange?.start || ''"
               (change)="setDateRange($event.target.value, filters().dateRange?.end || '')"
-              class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+              class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-transparent bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-gray-100">
           </div>
           <div>
-            <label class="block text-xs text-gray-500 mb-1">To</label>
+            <label class="block text-xs text-gray-500 dark:text-gray-400 mb-1">To</label>
             <input
               type="date"
               [value]="filters().dateRange?.end || ''"
               (change)="setDateRange(filters().dateRange?.start || '', $event.target.value)"
-              class="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent">
+              class="w-full px-3 py-2 border border-gray-300 dark:border-gray-600 rounded-md focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-transparent bg-gray-100 dark:bg-gray-700 text-gray-900 dark:text-gray-100">
           </div>
         </div>
       </div>
 
       <!-- Results Count and Quick Actions -->
-      <div class="pt-4 border-t border-gray-200">
-        <div class="flex items-center justify-between text-sm text-gray-600">
+      <div class="pt-4 border-t border-gray-200 dark:border-gray-700">
+        <div class="flex items-center justify-between text-sm text-gray-600 dark:text-gray-400">
           <span>Showing {{ paginatedReleases().length }} results</span>
           @if (getFilterCount() > 0) {
-            <span class="text-blue-600 font-medium">{{ getFilterCount() }} filter(s) applied</span>
+            <span class="text-gray-600 dark:text-gray-400 font-medium">{{ getFilterCount() }} filter(s) applied</span>
           }
         </div>
         @if (paginatedReleases().length > 1) {
           <div class="mt-3 flex flex-wrap gap-2">
             <button
               (click)="ott.setSort('release_date', 'asc')"
-              class="px-2 py-1 text-xs bg-gray-100 hover:bg-gray-200 rounded transition-colors">
+              class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors text-gray-700 dark:text-gray-300">
               Sort by Date ↑
             </button>
             <button
               (click)="ott.setSort('title', 'asc')"
-              class="px-2 py-1 text-xs bg-gray-100 hover:bg-gray-200 rounded transition-colors">
+              class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors text-gray-700 dark:text-gray-300">
               Sort by Title A-Z
             </button>
             <button
               (click)="ott.setSort('platform', 'asc')"
-              class="px-2 py-1 text-xs bg-gray-100 hover:bg-gray-200 rounded transition-colors">
+              class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors text-gray-700 dark:text-gray-300">
               Sort by Platform
             </button>
             <button
               (click)="ott.setSort('genre', 'asc')"
-              class="px-2 py-1 text-xs bg-gray-100 hover:bg-gray-200 rounded transition-colors">
+              class="px-2 py-1 text-xs bg-gray-100 dark:bg-gray-700 hover:bg-gray-200 dark:hover:bg-gray-600 rounded transition-colors text-gray-700 dark:text-gray-300">
               Sort by Genre
             </button>
           </div>

@@ -1,8 +1,9 @@
 import { Component } from '@angular/core';
+import { DarkModeToggle } from '../dark-mode-toggle/dark-mode-toggle';
 
 @Component({
   selector: 'app-header',
-  imports: [],
+  imports: [DarkModeToggle],
   templateUrl: './header.html',
   styleUrl: './header.scss',
 })

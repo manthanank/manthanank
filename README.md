@@ -1,59 +1,157 @@
 # OttReleases
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.4.
+A modern web application that tracks and displays upcoming OTT (Over-The-Top) platform releases including movies, TV shows, and series. Built with Angular 20 and powered by Google Gemini AI for intelligent content discovery.
 
-## Development server
+## Features
 
-To start a local development server, run:
+- 🎬 **Real-time OTT Releases**: Track upcoming releases across multiple platforms
+- 🤖 **AI-Powered**: Uses Google Gemini AI to fetch and categorize content
+- 🌙 **Dark Mode**: Built-in dark/light theme toggle
+- 📱 **Responsive Design**: Optimized for desktop and mobile devices
+- 🔍 **Advanced Filtering**: Filter by platform, genre, and timeframes
+- 📊 **Analytics**: Visitor tracking and engagement metrics
+- ⚡ **Modern Stack**: Angular 20 with signals, Tailwind CSS, and Node.js backend
+
+## Tech Stack
+
+### Frontend
+
+- **Angular 20** with signals for reactive state management
+- **Tailwind CSS** for styling
+- **TypeScript** for type safety
+- **RxJS** for reactive programming
+
+### Backend
+
+- **Node.js** with Express.js
+- **Google Gemini AI** for content generation
+- **CORS** enabled for cross-origin requests
+- **Environment-based configuration**
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (v18 or higher)
+- Angular CLI (v20.3.4)
+- Google Gemini API key
+
+### Installation
+
+1. **Clone the repository**
 
 ```bash
-ng serve
+git clone <repository-url>
+cd ott-releases
 ```
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
-
-## Code scaffolding
-
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+- **Install frontend dependencies**
 
 ```bash
-ng generate component component-name
+npm install
 ```
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+- **Install backend dependencies**
 
 ```bash
-ng generate --help
+cd backend
+npm install
+cd ..
 ```
 
-## Building
-
-To build the project run:
+- **Set up environment variables**
 
 ```bash
+# Copy the example environment file
+cp backend/.env.example backend/.env
+
+# Edit backend/.env and add your Google Gemini API key
+GEMINI_API_KEY=your_gemini_api_key_here
+```
+
+### Development
+
+- **Start the backend server**
+
+```bash
+cd backend
+npm run dev
+```
+
+The backend will run on `http://localhost:5000`
+
+- **Start the frontend development server**
+
+```bash
+npm start
+```
+
+The application will be available at `http://localhost:4200`
+
+### Building for Production
+
+```bash
+# Build the Angular application
 ng build
+
+# The build artifacts will be stored in the `dist/` directory
 ```
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+### Running Tests
 
 ```bash
+# Run unit tests
 ng test
+
+# Run tests in watch mode
+ng test --watch
 ```
 
-## Running end-to-end tests
+## API Endpoints
 
-For end-to-end (e2e) testing, run:
+The backend provides the following API endpoints:
 
-```bash
-ng e2e
+- `GET /api/ott/releases` - Fetch OTT releases
+  - Query parameters:
+    - `timeframe`: "week" or "month" (default: "week")
+    - `limit`: Number of results (default: 20)
+    - `offset`: Pagination offset (default: 0)
+    - `sortBy`: Sort field - "release_date", "title", "platform" (default: "release_date")
+    - `order`: Sort order - "asc" or "desc" (default: "asc")
+
+## Project Structure
+
+```tree
+ott-releases/
+├── src/                    # Angular frontend
+│   ├── app/
+│   │   ├── components/     # Reusable UI components
+│   │   ├── pages/         # Page components
+│   │   ├── services/      # Business logic and API services
+│   │   └── models/        # TypeScript interfaces
+│   └── environments/      # Environment configurations
+├── backend/               # Node.js backend
+│   ├── src/
+│   │   ├── controllers/   # API route handlers
+│   │   ├── services/      # Business logic (Gemini AI integration)
+│   │   ├── routes/        # Express routes
+│   │   └── config/        # Configuration files
+│   └── server.js          # Express server entry point
+└── public/               # Static assets
 ```
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
+## Contributing
 
-## Additional Resources
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'Add some amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Author
+
+**Manthan Ankolekar** - [GitHub Profile](https://github.com/manthanankolekar)

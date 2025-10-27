@@ -1,10 +1,12 @@
-import { Component, OnInit, inject } from '@angular/core';
+import { Component, OnInit, inject, signal } from '@angular/core';
 import { FormsModule } from '@angular/forms';
 import { Ott } from '../../services/ott';
+import { Track } from '../../services/track';
 import { Header } from '../../components/header/header';
 import { ReleaseCard } from '../../components/release-card/release-card';
 import { Filters } from '../../components/filters/filters';
 import { NgClass } from '@angular/common';
+import { Visit } from '../../models/visit.model';
 
 @Component({
   selector: 'app-home',
@@ -14,6 +16,7 @@ import { NgClass } from '@angular/common';
 })
 export class Home implements OnInit {
   private ott = inject(Ott);
+  private track = inject(Track);
 
   // Use signals from the service
   releases = this.ott.releases;
@@ -27,6 +30,11 @@ export class Home implements OnInit {
   limit = this.ott.limit;
   offset = this.ott.offset;
 
+  // Visitor count signals
+  visitorCount = signal<number>(0);
+  visitorCountLoading = signal<boolean>(false);
+  visitorCountError = signal<string | null>(null);
+
   // Local UI state for sorting controls
   sortBy: 'release_date' | 'title' | 'platform' | 'genre' = 'release_date';
   order: 'asc' | 'desc' = 'asc';
@@ -34,6 +42,24 @@ export class Home implements OnInit {
   ngOnInit() {
     // The service automatically fetches data when initialized
     // No need for manual data fetching
+    this.loadVisitorCount();
+  }
+
+  loadVisitorCount() {
+    this.visitorCountLoading.set(true);
+    this.visitorCountError.set(null);
+
+    this.track.trackProjectVisit('ott-releases').subscribe({
+      next: (visit: Visit) => {
+        this.visitorCount.set(visit.uniqueVisitors);
+        this.visitorCountLoading.set(false);
+      },
+      error: (error) => {
+        console.error('Failed to load visitor count:', error);
+        this.visitorCountError.set('Failed to load visitor count');
+        this.visitorCountLoading.set(false);
+      }
+    });
   }
 
   changeTimeframe(tf: 'week' | 'month') {

@@ -1,2 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
 @use "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* Dark mode styles */
+html.dark {
+  color-scheme: dark;
+}
+
+/* Ensure body has proper background in both light and dark modes */
+body {
+  background-color: #f9fafb; /* gray-50 */
+}
+
+html.dark body {
+  background-color: #111827; /* gray-900 */
+}
