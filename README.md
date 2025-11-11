@@ -117,16 +117,16 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <!--START_SECTION:waka-->
 
 ```txt
-Python       11 hrs 1 min    ██████████░░░░░░░░░░░░░░░   40.22 %
-YAML         4 hrs 41 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-Markdown     3 hrs 45 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-Text         2 hrs 17 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 %
-SQL          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
-Bash         1 hr 31 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-JSON         31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
-Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+Python       12 hrs 42 mins  ████████████▒░░░░░░░░░░░░   48.75 %
+YAML         4 hrs 22 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.80 %
+Markdown     3 hrs 32 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.58 %
+SQL          1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+Text         1 hr 8 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 %
+Bash         50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
+JavaScript   46 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
+Other        14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+TypeScript   13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.83 %
 ```
 
 <!--END_SECTION:waka-->
