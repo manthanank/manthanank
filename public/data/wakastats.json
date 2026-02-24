@@ -1,1 +1,904 @@
-{"data": {"id": "a970895b-56e6-4332-9549-27fb1f467fe7", "user_id": "4dba2d8e-7880-4f8a-85ef-bd4068ab7bbf", "range": "last_7_days", "start": "2026-02-16T18:30:00Z", "end": "2026-02-23T18:29:59Z", "timeout": 15, "writes_only": false, "timezone": "Asia/Kolkata", "ai_additions": 1344, "ai_deletions": 0, "human_additions": 6533, "human_deletions": 254, "holidays": 1, "status": "ok", "created_at": "2026-02-20T22:09:31Z", "modified_at": "2026-02-23T22:04:33Z", "editors": [{"total_seconds": 36076.51, "name": "VS Code", "percent": 100.0, "digital": "10:01", "decimal": "10.02", "text": "10 hrs 1 min", "hours": 10, "minutes": 1}], "operating_systems": [{"total_seconds": 36076.51, "name": "Windows", "percent": 100.0, "digital": "10:01", "decimal": "10.02", "text": "10 hrs 1 min", "hours": 10, "minutes": 1}], "days_minus_holidays": 6, "human_readable_daily_average": "1 hr 35 mins", "is_stuck": false, "categories": [{"name": "Coding", "total_seconds": 21575.71, "percent": 59.81, "digital": "5:59", "decimal": "5.98", "text": "5 hrs 59 mins", "hours": 5, "minutes": 59}, {"name": "Writing Docs", "total_seconds": 13823.382, "percent": 38.32, "digital": "3:50", "decimal": "3.83", "text": "3 hrs 50 mins", "hours": 3, "minutes": 50}, {"name": "AI Coding", "total_seconds": 677.418, "percent": 1.88, "digital": "0:11", "decimal": "0.18", "text": "11 mins", "hours": 0, "minutes": 11}], "human_readable_total": "9 hrs 35 mins", "total_seconds": 34551.834, "projects": [{"total_seconds": 10176.378, "name": "algo-trading-backend", "ai_additions": 0, "ai_deletions": 0, "human_additions": 2559, "human_deletions": 193, "percent": 28.21, "digital": "2:49", "decimal": "2.82", "text": "2 hrs 49 mins", "hours": 2, "minutes": 49}, {"total_seconds": 6975.016, "name": "Algo Trading", "ai_additions": 0, "ai_deletions": 0, "human_additions": 2446, "human_deletions": 0, "percent": 19.33, "digital": "1:56", "decimal": "1.93", "text": "1 hr 56 mins", "hours": 1, "minutes": 56}, {"total_seconds": 5430.909, "name": "Dash-parsing", "ai_additions": 0, "ai_deletions": 0, "human_additions": 258, "human_deletions": 50, "percent": 15.05, "digital": "1:30", "decimal": "1.50", "text": "1 hr 30 mins", "hours": 1, "minutes": 30}, {"total_seconds": 4206.816, "name": "algo-trading-ai", "ai_additions": 0, "ai_deletions": 0, "human_additions": 703, "human_deletions": 0, "percent": 11.66, "digital": "1:10", "decimal": "1.17", "text": "1 hr 10 mins", "hours": 1, "minutes": 10}, {"total_seconds": 2948.563, "name": "dealerdash-ai-fastapi", "ai_additions": 562, "ai_deletions": 0, "human_additions": 1, "human_deletions": 1, "percent": 8.17, "digital": "0:49", "decimal": "0.82", "text": "49 mins", "hours": 0, "minutes": 49}, {"total_seconds": 2522.274, "name": "Projects", "ai_additions": 0, "ai_deletions": 0, "human_additions": 0, "human_deletions": 0, "percent": 6.99, "digital": "0:42", "decimal": "0.70", "text": "42 mins", "hours": 0, "minutes": 42}, {"total_seconds": 1388.161, "name": "DealerDash-newUI", "ai_additions": 80, "ai_deletions": 0, "human_additions": 4, "human_deletions": 3, "percent": 3.85, "digital": "0:23", "decimal": "0.38", "text": "23 mins", "hours": 0, "minutes": 23}, {"total_seconds": 987.953, "name": "algo-trading-frontend", "ai_additions": 0, "ai_deletions": 0, "human_additions": 558, "human_deletions": 7, "percent": 2.74, "digital": "0:16", "decimal": "0.27", "text": "16 mins", "hours": 0, "minutes": 16}, {"total_seconds": 808.049, "name": "DealerDash-newUI-Backend", "ai_additions": 333, "ai_deletions": 0, "human_additions": 0, "human_deletions": 0, "percent": 2.24, "digital": "0:13", "decimal": "0.22", "text": "13 mins", "hours": 0, "minutes": 13}, {"total_seconds": 632.391, "name": "dealerdash-supabase", "ai_additions": 369, "ai_deletions": 0, "human_additions": 4, "human_deletions": 0, "percent": 1.75, "digital": "0:10", "decimal": "0.17", "text": "10 mins", "hours": 0, "minutes": 10}], "is_up_to_date": true, "human_readable_daily_average_including_other_language": "1 hr 40 mins", "dependencies": [{"total_seconds": 5104.112, "name": "openpyxl", "percent": 10.68, "digital": "1:25", "decimal": "1.42", "text": "1 hr 25 mins", "hours": 1, "minutes": 25}, {"total_seconds": 4853.825, "name": "re", "percent": 10.15, "digital": "1:20", "decimal": "1.33", "text": "1 hr 20 mins", "hours": 1, "minutes": 20}, {"total_seconds": 3629.542, "name": "zipfile", "percent": 7.59, "digital": "1:00", "decimal": "1.00", "text": "1 hr", "hours": 1, "minutes": 0}, {"total_seconds": 3629.542, "name": "shutil", "percent": 7.59, "digital": "1:00", "decimal": "1.00", "text": "1 hr", "hours": 1, "minutes": 0}, {"total_seconds": 3452.827, "name": "datetime", "percent": 7.22, "digital": "0:57", "decimal": "0.95", "text": "57 mins", "hours": 0, "minutes": 57}, {"total_seconds": 2956.116, "name": "json", "percent": 6.18, "digital": "0:49", "decimal": "0.82", "text": "49 mins", "hours": 0, "minutes": 49}, {"total_seconds": 2909.091, "name": "typing", "percent": 6.08, "digital": "0:48", "decimal": "0.80", "text": "48 mins", "hours": 0, "minutes": 48}, {"total_seconds": 1982.581, "name": "time", "percent": 4.15, "digital": "0:33", "decimal": "0.55", "text": "33 mins", "hours": 0, "minutes": 33}, {"total_seconds": 1848.095, "name": "base64", "percent": 3.87, "digital": "0:30", "decimal": "0.50", "text": "30 mins", "hours": 0, "minutes": 30}, {"total_seconds": 1692.877, "name": "logging", "percent": 3.54, "digital": "0:28", "decimal": "0.47", "text": "28 mins", "hours": 0, "minutes": 28}, {"total_seconds": 1561.752, "name": "django", "percent": 3.27, "digital": "0:26", "decimal": "0.43", "text": "26 mins", "hours": 0, "minutes": 26}, {"total_seconds": 1548.269, "name": "supabaseClient", "percent": 3.24, "digital": "0:25", "decimal": "0.42", "text": "25 mins", "hours": 0, "minutes": 25}, {"total_seconds": 1340.948, "name": "dataclasses", "percent": 2.8, "digital": "0:22", "decimal": "0.37", "text": "22 mins", "hours": 0, "minutes": 22}, {"total_seconds": 1222.269, "name": "app", "percent": 2.56, "digital": "0:20", "decimal": "0.33", "text": "20 mins", "hours": 0, "minutes": 20}, {"total_seconds": 1215.902, "name": "shared", "percent": 2.54, "digital": "0:20", "decimal": "0.33", "text": "20 mins", "hours": 0, "minutes": 20}, {"total_seconds": 953.034, "name": "backendUtils", "percent": 1.99, "digital": "0:15", "decimal": "0.25", "text": "15 mins", "hours": 0, "minutes": 15}, {"total_seconds": 904.474, "name": "fastapi", "percent": 1.89, "digital": "0:15", "decimal": "0.25", "text": "15 mins", "hours": 0, "minutes": 15}, {"total_seconds": 871.223, "name": "starlette", "percent": 1.82, "digital": "0:14", "decimal": "0.23", "text": "14 mins", "hours": 0, "minutes": 14}, {"total_seconds": 608.224, "name": "threading", "percent": 1.27, "digital": "0:10", "decimal": "0.17", "text": "10 mins", "hours": 0, "minutes": 10}, {"total_seconds": 506.922, "name": "requests", "percent": 1.06, "digital": "0:08", "decimal": "0.13", "text": "8 mins", "hours": 0, "minutes": 8}, {"total_seconds": 503.134, "name": "functools", "percent": 1.05, "digital": "0:08", "decimal": "0.13", "text": "8 mins", "hours": 0, "minutes": 8}, {"total_seconds": 423.889, "name": "helper", "percent": 0.89, "digital": "0:07", "decimal": "0.12", "text": "7 mins", "hours": 0, "minutes": 7}, {"total_seconds": 423.692, "name": "concurrent", "percent": 0.89, "digital": "0:07", "decimal": "0.12", "text": "7 mins", "hours": 0, "minutes": 7}, {"total_seconds": 419.065, "name": "multiprocessing", "percent": 0.88, "digital": "0:06", "decimal": "0.10", "text": "6 mins", "hours": 0, "minutes": 6}, {"total_seconds": 419.065, "name": "resource_files", "percent": 0.88, "digital": "0:06", "decimal": "0.10", "text": "6 mins", "hours": 0, "minutes": 6}, {"total_seconds": 382.631, "name": "dotenv", "percent": 0.8, "digital": "0:06", "decimal": "0.10", "text": "6 mins", "hours": 0, "minutes": 6}, {"total_seconds": 313.61, "name": "utils", "percent": 0.66, "digital": "0:05", "decimal": "0.08", "text": "5 mins", "hours": 0, "minutes": 5}, {"total_seconds": 313.61, "name": "v1", "percent": 0.66, "digital": "0:05", "decimal": "0.08", "text": "5 mins", "hours": 0, "minutes": 5}, {"total_seconds": 286.565, "name": "rest_framework", "percent": 0.6, "digital": "0:04", "decimal": "0.07", "text": "4 mins", "hours": 0, "minutes": 4}, {"total_seconds": 270.684, "name": "math", "percent": 0.57, "digital": "0:04", "decimal": "0.07", "text": "4 mins", "hours": 0, "minutes": 4}, {"total_seconds": 134.78, "name": "massive", "percent": 0.28, "digital": "0:02", "decimal": "0.03", "text": "2 mins", "hours": 0, "minutes": 2}, {"total_seconds": 129.23, "name": "pathlib", "percent": 0.27, "digital": "0:02", "decimal": "0.03", "text": "2 mins", "hours": 0, "minutes": 2}, {"total_seconds": 121.904, "name": "asyncio", "percent": 0.25, "digital": "0:02", "decimal": "0.03", "text": "2 mins", "hours": 0, "minutes": 2}, {"total_seconds": 107.062, "name": "react", "percent": 0.22, "digital": "0:01", "decimal": "0.02", "text": "1 min", "hours": 0, "minutes": 1}, {"total_seconds": 107.062, "name": "formatFunctions", "percent": 0.22, "digital": "0:01", "decimal": "0.02", "text": "1 min", "hours": 0, "minutes": 1}, {"total_seconds": 107.062, "name": "aiStats", "percent": 0.22, "digital": "0:01", "decimal": "0.02", "text": "1 min", "hours": 0, "minutes": 1}, {"total_seconds": 95.308, "name": "xml", "percent": 0.2, "digital": "0:01", "decimal": "0.02", "text": "1 min", "hours": 0, "minutes": 1}, {"total_seconds": 60.436, "name": "pandas", "percent": 0.13, "digital": "0:01", "decimal": "0.02", "text": "1 min", "hours": 0, "minutes": 1}, {"total_seconds": 59.976, "name": "useAPIError", "percent": 0.13, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 59.976, "name": "dashoardStore", "percent": 0.13, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 59.976, "name": "StatCards", "percent": 0.13, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 55.612, "name": "websocket", "percent": 0.12, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 55.612, "name": "collections", "percent": 0.12, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 33.251, "name": "contextlib", "percent": 0.07, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 33.251, "name": "uvicorn", "percent": 0.07, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 7.343, "name": "exc", "percent": 0.02, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 6.367, "name": "traceback", "percent": 0.01, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 6.241, "name": "uuid", "percent": 0.01, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 6.241, "name": "boto3", "percent": 0.01, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 4.824, "name": "numpy", "percent": 0.01, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 4.824, "name": "pdfplumber", "percent": 0.01, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 1.754, "name": "decorators", "percent": 0.0, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 1.653, "name": "tradingproject", "percent": 0.0, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 1.653, "name": "channels", "percent": 0.0, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 1.153, "name": "random", "percent": 0.0, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}, {"total_seconds": 0.958, "name": "supabase", "percent": 0.0, "digital": "0:00", "decimal": "0.00", "text": "0 secs", "hours": 0, "minutes": 0}], "machines": [{"total_seconds": 36076.51, "name": "HewlettPackard", "machine_name_id": "970344ea-7a75-46f0-82a0-66d19d704ded", "percent": 100.0, "digital": "10:01", "decimal": "10.02", "text": "10 hrs 1 min", "hours": 10, "minutes": 1}], "languages": [{"name": "Markdown", "total_seconds": 14232.275, "percent": 39.45, "digital": "3:57", "decimal": "3.95", "text": "3 hrs 57 mins", "hours": 3, "minutes": 57}, {"name": "Python", "total_seconds": 11860.515, "percent": 32.88, "digital": "3:17", "decimal": "3.28", "text": "3 hrs 17 mins", "hours": 3, "minutes": 17}, {"name": "JSON", "total_seconds": 3155.781, "percent": 8.75, "digital": "0:52", "decimal": "0.87", "text": "52 mins", "hours": 0, "minutes": 52}, {"name": "Bash", "total_seconds": 2212.433, "percent": 6.13, "digital": "0:36", "decimal": "0.60", "text": "36 mins", "hours": 0, "minutes": 36}, {"name": "Other", "total_seconds": 1524.676, "percent": 4.23, "digital": "0:25", "decimal": "0.42", "text": "25 mins", "hours": 0, "minutes": 25}, {"name": "SQL", "total_seconds": 1409.552, "percent": 3.91, "digital": "0:23", "decimal": "0.38", "text": "23 mins", "hours": 0, "minutes": 23}, {"name": "JavaScript", "total_seconds": 1337.622, "percent": 3.71, "digital": "0:22", "decimal": "0.37", "text": "22 mins", "hours": 0, "minutes": 22}, {"name": "Text", "total_seconds": 343.656, "percent": 0.95, "digital": "0:05", "decimal": "0.08", "text": "5 mins", "hours": 0, "minutes": 5}], "daily_average": 5759.0, "is_up_to_date_pending_future": false, "total_seconds_including_other_language": 36076.51, "days_including_holidays": 7, "is_already_updating": false, "human_readable_total_including_other_language": "10 hrs 1 min", "best_day": {"date": "2026-02-19", "total_seconds": 13774.872, "text": "3 hrs 49 mins"}, "percent_calculated": 100, "daily_average_including_other_language": 6013.0, "is_cached": true, "username": "manthanank", "is_including_today": false, "human_readable_range": "last week", "is_coding_activity_visible": true, "is_language_usage_visible": true, "is_editor_usage_visible": true, "is_category_usage_visible": true, "is_os_usage_visible": true}}
+{
+  "data": {
+    "id": "a970895b-56e6-4332-9549-27fb1f467fe7",
+    "user_id": "4dba2d8e-7880-4f8a-85ef-bd4068ab7bbf",
+    "range": "last_7_days",
+    "start": "2026-02-16T18:30:00Z",
+    "end": "2026-02-23T18:29:59Z",
+    "timeout": 15,
+    "writes_only": false,
+    "timezone": "Asia/Kolkata",
+    "ai_additions": 1344,
+    "ai_deletions": 0,
+    "human_additions": 6533,
+    "human_deletions": 254,
+    "holidays": 1,
+    "status": "ok",
+    "created_at": "2026-02-20T22:09:31Z",
+    "modified_at": "2026-02-23T22:04:33Z",
+    "editors": [
+      {
+        "total_seconds": 36076.51,
+        "name": "VS Code",
+        "percent": 100,
+        "digital": "10:01",
+        "decimal": "10.02",
+        "text": "10 hrs 1 min",
+        "hours": 10,
+        "minutes": 1
+      }
+    ],
+    "operating_systems": [
+      {
+        "total_seconds": 36076.51,
+        "name": "Windows",
+        "percent": 100,
+        "digital": "10:01",
+        "decimal": "10.02",
+        "text": "10 hrs 1 min",
+        "hours": 10,
+        "minutes": 1
+      }
+    ],
+    "days_minus_holidays": 6,
+    "human_readable_daily_average": "1 hr 35 mins",
+    "is_stuck": false,
+    "categories": [
+      {
+        "name": "Coding",
+        "total_seconds": 21575.71,
+        "percent": 59.81,
+        "digital": "5:59",
+        "decimal": "5.98",
+        "text": "5 hrs 59 mins",
+        "hours": 5,
+        "minutes": 59
+      },
+      {
+        "name": "Writing Docs",
+        "total_seconds": 13823.382,
+        "percent": 38.32,
+        "digital": "3:50",
+        "decimal": "3.83",
+        "text": "3 hrs 50 mins",
+        "hours": 3,
+        "minutes": 50
+      },
+      {
+        "name": "AI Coding",
+        "total_seconds": 677.418,
+        "percent": 1.88,
+        "digital": "0:11",
+        "decimal": "0.18",
+        "text": "11 mins",
+        "hours": 0,
+        "minutes": 11
+      }
+    ],
+    "human_readable_total": "9 hrs 35 mins",
+    "total_seconds": 34551.834,
+    "projects": [
+      {
+        "total_seconds": 10176.378,
+        "name": "algo-trading-backend",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 2559,
+        "human_deletions": 193,
+        "percent": 28.21,
+        "digital": "2:49",
+        "decimal": "2.82",
+        "text": "2 hrs 49 mins",
+        "hours": 2,
+        "minutes": 49
+      },
+      {
+        "total_seconds": 6975.016,
+        "name": "Algo Trading",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 2446,
+        "human_deletions": 0,
+        "percent": 19.33,
+        "digital": "1:56",
+        "decimal": "1.93",
+        "text": "1 hr 56 mins",
+        "hours": 1,
+        "minutes": 56
+      },
+      {
+        "total_seconds": 5430.909,
+        "name": "Dash-parsing",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 258,
+        "human_deletions": 50,
+        "percent": 15.05,
+        "digital": "1:30",
+        "decimal": "1.50",
+        "text": "1 hr 30 mins",
+        "hours": 1,
+        "minutes": 30
+      },
+      {
+        "total_seconds": 4206.816,
+        "name": "algo-trading-ai",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 703,
+        "human_deletions": 0,
+        "percent": 11.66,
+        "digital": "1:10",
+        "decimal": "1.17",
+        "text": "1 hr 10 mins",
+        "hours": 1,
+        "minutes": 10
+      },
+      {
+        "total_seconds": 2948.563,
+        "name": "dealerdash-ai-fastapi",
+        "ai_additions": 562,
+        "ai_deletions": 0,
+        "human_additions": 1,
+        "human_deletions": 1,
+        "percent": 8.17,
+        "digital": "0:49",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49
+      },
+      {
+        "total_seconds": 2522.274,
+        "name": "Projects",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "percent": 6.99,
+        "digital": "0:42",
+        "decimal": "0.70",
+        "text": "42 mins",
+        "hours": 0,
+        "minutes": 42
+      },
+      {
+        "total_seconds": 1388.161,
+        "name": "DealerDash-newUI",
+        "ai_additions": 80,
+        "ai_deletions": 0,
+        "human_additions": 4,
+        "human_deletions": 3,
+        "percent": 3.85,
+        "digital": "0:23",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23
+      },
+      {
+        "total_seconds": 987.953,
+        "name": "algo-trading-frontend",
+        "ai_additions": 0,
+        "ai_deletions": 0,
+        "human_additions": 558,
+        "human_deletions": 7,
+        "percent": 2.74,
+        "digital": "0:16",
+        "decimal": "0.27",
+        "text": "16 mins",
+        "hours": 0,
+        "minutes": 16
+      },
+      {
+        "total_seconds": 808.049,
+        "name": "DealerDash-newUI-Backend",
+        "ai_additions": 333,
+        "ai_deletions": 0,
+        "human_additions": 0,
+        "human_deletions": 0,
+        "percent": 2.24,
+        "digital": "0:13",
+        "decimal": "0.22",
+        "text": "13 mins",
+        "hours": 0,
+        "minutes": 13
+      },
+      {
+        "total_seconds": 632.391,
+        "name": "dealerdash-supabase",
+        "ai_additions": 369,
+        "ai_deletions": 0,
+        "human_additions": 4,
+        "human_deletions": 0,
+        "percent": 1.75,
+        "digital": "0:10",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10
+      }
+    ],
+    "is_up_to_date": true,
+    "human_readable_daily_average_including_other_language": "1 hr 40 mins",
+    "dependencies": [
+      {
+        "total_seconds": 5104.112,
+        "name": "openpyxl",
+        "percent": 10.68,
+        "digital": "1:25",
+        "decimal": "1.42",
+        "text": "1 hr 25 mins",
+        "hours": 1,
+        "minutes": 25
+      },
+      {
+        "total_seconds": 4853.825,
+        "name": "re",
+        "percent": 10.15,
+        "digital": "1:20",
+        "decimal": "1.33",
+        "text": "1 hr 20 mins",
+        "hours": 1,
+        "minutes": 20
+      },
+      {
+        "total_seconds": 3629.542,
+        "name": "zipfile",
+        "percent": 7.59,
+        "digital": "1:00",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 3629.542,
+        "name": "shutil",
+        "percent": 7.59,
+        "digital": "1:00",
+        "decimal": "1.00",
+        "text": "1 hr",
+        "hours": 1,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 3452.827,
+        "name": "datetime",
+        "percent": 7.22,
+        "digital": "0:57",
+        "decimal": "0.95",
+        "text": "57 mins",
+        "hours": 0,
+        "minutes": 57
+      },
+      {
+        "total_seconds": 2956.116,
+        "name": "json",
+        "percent": 6.18,
+        "digital": "0:49",
+        "decimal": "0.82",
+        "text": "49 mins",
+        "hours": 0,
+        "minutes": 49
+      },
+      {
+        "total_seconds": 2909.091,
+        "name": "typing",
+        "percent": 6.08,
+        "digital": "0:48",
+        "decimal": "0.80",
+        "text": "48 mins",
+        "hours": 0,
+        "minutes": 48
+      },
+      {
+        "total_seconds": 1982.581,
+        "name": "time",
+        "percent": 4.15,
+        "digital": "0:33",
+        "decimal": "0.55",
+        "text": "33 mins",
+        "hours": 0,
+        "minutes": 33
+      },
+      {
+        "total_seconds": 1848.095,
+        "name": "base64",
+        "percent": 3.87,
+        "digital": "0:30",
+        "decimal": "0.50",
+        "text": "30 mins",
+        "hours": 0,
+        "minutes": 30
+      },
+      {
+        "total_seconds": 1692.877,
+        "name": "logging",
+        "percent": 3.54,
+        "digital": "0:28",
+        "decimal": "0.47",
+        "text": "28 mins",
+        "hours": 0,
+        "minutes": 28
+      },
+      {
+        "total_seconds": 1561.752,
+        "name": "django",
+        "percent": 3.27,
+        "digital": "0:26",
+        "decimal": "0.43",
+        "text": "26 mins",
+        "hours": 0,
+        "minutes": 26
+      },
+      {
+        "total_seconds": 1548.269,
+        "name": "supabaseClient",
+        "percent": 3.24,
+        "digital": "0:25",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25
+      },
+      {
+        "total_seconds": 1340.948,
+        "name": "dataclasses",
+        "percent": 2.8,
+        "digital": "0:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22
+      },
+      {
+        "total_seconds": 1222.269,
+        "name": "app",
+        "percent": 2.56,
+        "digital": "0:20",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20
+      },
+      {
+        "total_seconds": 1215.902,
+        "name": "shared",
+        "percent": 2.54,
+        "digital": "0:20",
+        "decimal": "0.33",
+        "text": "20 mins",
+        "hours": 0,
+        "minutes": 20
+      },
+      {
+        "total_seconds": 953.034,
+        "name": "backendUtils",
+        "percent": 1.99,
+        "digital": "0:15",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15
+      },
+      {
+        "total_seconds": 904.474,
+        "name": "fastapi",
+        "percent": 1.89,
+        "digital": "0:15",
+        "decimal": "0.25",
+        "text": "15 mins",
+        "hours": 0,
+        "minutes": 15
+      },
+      {
+        "total_seconds": 871.223,
+        "name": "starlette",
+        "percent": 1.82,
+        "digital": "0:14",
+        "decimal": "0.23",
+        "text": "14 mins",
+        "hours": 0,
+        "minutes": 14
+      },
+      {
+        "total_seconds": 608.224,
+        "name": "threading",
+        "percent": 1.27,
+        "digital": "0:10",
+        "decimal": "0.17",
+        "text": "10 mins",
+        "hours": 0,
+        "minutes": 10
+      },
+      {
+        "total_seconds": 506.922,
+        "name": "requests",
+        "percent": 1.06,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8
+      },
+      {
+        "total_seconds": 503.134,
+        "name": "functools",
+        "percent": 1.05,
+        "digital": "0:08",
+        "decimal": "0.13",
+        "text": "8 mins",
+        "hours": 0,
+        "minutes": 8
+      },
+      {
+        "total_seconds": 423.889,
+        "name": "helper",
+        "percent": 0.89,
+        "digital": "0:07",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7
+      },
+      {
+        "total_seconds": 423.692,
+        "name": "concurrent",
+        "percent": 0.89,
+        "digital": "0:07",
+        "decimal": "0.12",
+        "text": "7 mins",
+        "hours": 0,
+        "minutes": 7
+      },
+      {
+        "total_seconds": 419.065,
+        "name": "multiprocessing",
+        "percent": 0.88,
+        "digital": "0:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6
+      },
+      {
+        "total_seconds": 419.065,
+        "name": "resource_files",
+        "percent": 0.88,
+        "digital": "0:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6
+      },
+      {
+        "total_seconds": 382.631,
+        "name": "dotenv",
+        "percent": 0.8,
+        "digital": "0:06",
+        "decimal": "0.10",
+        "text": "6 mins",
+        "hours": 0,
+        "minutes": 6
+      },
+      {
+        "total_seconds": 313.61,
+        "name": "utils",
+        "percent": 0.66,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5
+      },
+      {
+        "total_seconds": 313.61,
+        "name": "v1",
+        "percent": 0.66,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5
+      },
+      {
+        "total_seconds": 286.565,
+        "name": "rest_framework",
+        "percent": 0.6,
+        "digital": "0:04",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4
+      },
+      {
+        "total_seconds": 270.684,
+        "name": "math",
+        "percent": 0.57,
+        "digital": "0:04",
+        "decimal": "0.07",
+        "text": "4 mins",
+        "hours": 0,
+        "minutes": 4
+      },
+      {
+        "total_seconds": 134.78,
+        "name": "massive",
+        "percent": 0.28,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2
+      },
+      {
+        "total_seconds": 129.23,
+        "name": "pathlib",
+        "percent": 0.27,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2
+      },
+      {
+        "total_seconds": 121.904,
+        "name": "asyncio",
+        "percent": 0.25,
+        "digital": "0:02",
+        "decimal": "0.03",
+        "text": "2 mins",
+        "hours": 0,
+        "minutes": 2
+      },
+      {
+        "total_seconds": 107.062,
+        "name": "react",
+        "percent": 0.22,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1
+      },
+      {
+        "total_seconds": 107.062,
+        "name": "formatFunctions",
+        "percent": 0.22,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1
+      },
+      {
+        "total_seconds": 107.062,
+        "name": "aiStats",
+        "percent": 0.22,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1
+      },
+      {
+        "total_seconds": 95.308,
+        "name": "xml",
+        "percent": 0.2,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1
+      },
+      {
+        "total_seconds": 60.436,
+        "name": "pandas",
+        "percent": 0.13,
+        "digital": "0:01",
+        "decimal": "0.02",
+        "text": "1 min",
+        "hours": 0,
+        "minutes": 1
+      },
+      {
+        "total_seconds": 59.976,
+        "name": "useAPIError",
+        "percent": 0.13,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 59.976,
+        "name": "dashoardStore",
+        "percent": 0.13,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 59.976,
+        "name": "StatCards",
+        "percent": 0.13,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 55.612,
+        "name": "websocket",
+        "percent": 0.12,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 55.612,
+        "name": "collections",
+        "percent": 0.12,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 33.251,
+        "name": "contextlib",
+        "percent": 0.07,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 33.251,
+        "name": "uvicorn",
+        "percent": 0.07,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 7.343,
+        "name": "exc",
+        "percent": 0.02,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 6.367,
+        "name": "traceback",
+        "percent": 0.01,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 6.241,
+        "name": "uuid",
+        "percent": 0.01,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 6.241,
+        "name": "boto3",
+        "percent": 0.01,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 4.824,
+        "name": "numpy",
+        "percent": 0.01,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 4.824,
+        "name": "pdfplumber",
+        "percent": 0.01,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 1.754,
+        "name": "decorators",
+        "percent": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 1.653,
+        "name": "tradingproject",
+        "percent": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 1.653,
+        "name": "channels",
+        "percent": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 1.153,
+        "name": "random",
+        "percent": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      },
+      {
+        "total_seconds": 0.958,
+        "name": "supabase",
+        "percent": 0,
+        "digital": "0:00",
+        "decimal": "0.00",
+        "text": "0 secs",
+        "hours": 0,
+        "minutes": 0
+      }
+    ],
+    "machines": [
+      {
+        "total_seconds": 36076.51,
+        "name": "HewlettPackard",
+        "machine_name_id": "970344ea-7a75-46f0-82a0-66d19d704ded",
+        "percent": 100,
+        "digital": "10:01",
+        "decimal": "10.02",
+        "text": "10 hrs 1 min",
+        "hours": 10,
+        "minutes": 1
+      }
+    ],
+    "languages": [
+      {
+        "name": "Markdown",
+        "total_seconds": 14232.275,
+        "percent": 39.45,
+        "digital": "3:57",
+        "decimal": "3.95",
+        "text": "3 hrs 57 mins",
+        "hours": 3,
+        "minutes": 57
+      },
+      {
+        "name": "Python",
+        "total_seconds": 11860.515,
+        "percent": 32.88,
+        "digital": "3:17",
+        "decimal": "3.28",
+        "text": "3 hrs 17 mins",
+        "hours": 3,
+        "minutes": 17
+      },
+      {
+        "name": "JSON",
+        "total_seconds": 3155.781,
+        "percent": 8.75,
+        "digital": "0:52",
+        "decimal": "0.87",
+        "text": "52 mins",
+        "hours": 0,
+        "minutes": 52
+      },
+      {
+        "name": "Bash",
+        "total_seconds": 2212.433,
+        "percent": 6.13,
+        "digital": "0:36",
+        "decimal": "0.60",
+        "text": "36 mins",
+        "hours": 0,
+        "minutes": 36
+      },
+      {
+        "name": "Other",
+        "total_seconds": 1524.676,
+        "percent": 4.23,
+        "digital": "0:25",
+        "decimal": "0.42",
+        "text": "25 mins",
+        "hours": 0,
+        "minutes": 25
+      },
+      {
+        "name": "SQL",
+        "total_seconds": 1409.552,
+        "percent": 3.91,
+        "digital": "0:23",
+        "decimal": "0.38",
+        "text": "23 mins",
+        "hours": 0,
+        "minutes": 23
+      },
+      {
+        "name": "JavaScript",
+        "total_seconds": 1337.622,
+        "percent": 3.71,
+        "digital": "0:22",
+        "decimal": "0.37",
+        "text": "22 mins",
+        "hours": 0,
+        "minutes": 22
+      },
+      {
+        "name": "Text",
+        "total_seconds": 343.656,
+        "percent": 0.95,
+        "digital": "0:05",
+        "decimal": "0.08",
+        "text": "5 mins",
+        "hours": 0,
+        "minutes": 5
+      }
+    ],
+    "daily_average": 5759,
+    "is_up_to_date_pending_future": false,
+    "total_seconds_including_other_language": 36076.51,
+    "days_including_holidays": 7,
+    "is_already_updating": false,
+    "human_readable_total_including_other_language": "10 hrs 1 min",
+    "best_day": {
+      "date": "2026-02-19",
+      "total_seconds": 13774.872,
+      "text": "3 hrs 49 mins"
+    },
+    "percent_calculated": 100,
+    "daily_average_including_other_language": 6013,
+    "is_cached": true,
+    "username": "manthanank",
+    "is_including_today": false,
+    "human_readable_range": "last week",
+    "is_coding_activity_visible": true,
+    "is_language_usage_visible": true,
+    "is_editor_usage_visible": true,
+    "is_category_usage_visible": true,
+    "is_os_usage_visible": true
+  }
+}
