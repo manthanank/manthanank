@@ -117,8 +117,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   14 mins               ████████████████▓░░░░░░░░   67.21 %
-Python       7 mins                ████████▒░░░░░░░░░░░░░░░░   32.79 %
+Python   7 mins                █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
