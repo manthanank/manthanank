@@ -30,19 +30,17 @@ Most of my current work is in private repositories.
 
 ## Tech I use
 
-- **Front end:** Angular, TypeScript, RxJS, NgRx, Next.js, React, Tailwind CSS
-- **Back end:** Node.js, Express, NestJS, Python, Flask
-- **Data:** PostgreSQL, MongoDB, MySQL, Supabase, Firebase, Redis
-- **Infrastructure:** Docker, AWS (EC2, S3), Terraform, Kubernetes, GitHub Actions, Nginx and Caddy
+- **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS and SCSS
+- **Front end:** Angular, RxJS, NgRx, Next.js, React, Astro, Tailwind CSS, Bootstrap, Chart.js, Three.js
+- **Back end:** Node.js, Express, NestJS, Fastify, Hono, Deno, Flask, Socket.IO, GraphQL, REST APIs with Swagger, JWT auth
+- **Data:** PostgreSQL, MongoDB, MySQL, Redis, Supabase, Firebase, RabbitMQ
+- **AI:** Gemini API, OpenAI API
+- **Infrastructure:** Docker, AWS (EC2, S3), Terraform, Kubernetes, GitHub Actions, Vercel, Nginx, Caddy, Cloudinary
+- **Testing:** Node test runner, Vitest, browser end-to-end tests
 
 ## Writing
 
 I write about Node.js, Angular and infrastructure on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a Node.js Product API on Kubernetes with MongoDB](https://dev.to/manthanank/deploying-a-nodejs-product-api-on-kubernetes-with-mongodb-hfo)
-- [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
-- [Terraform Setup Guide: Getting Started with Infrastructure as Code](https://dev.to/manthanank/terraform-setup-guide-getting-started-with-infrastructure-as-code-16k5)
-- [Essential Terraform CLI Commands You Should Know](https://dev.to/manthanank/essential-terraform-cli-commands-you-should-know-504f)
-- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
 <!-- BLOG-POST-LIST:END -->
