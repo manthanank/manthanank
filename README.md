@@ -117,7 +117,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Other      6 hrs 28 mins         ███████████████████▓░░░░░   79.13 %
+Markdown   1 hr 42 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.87 %
 ```
 
 <!--END_SECTION:waka-->
