@@ -90,7 +90,21 @@ async function main() {
   try {
     console.log('Updating stats...');
 
-    const stats = await fetchWakaTimeStats();
+    const raw = await fetchWakaTimeStats();
+
+    // Publish only what the site shows. The full response names private
+    // projects, machines and dependencies, so it must never reach this
+    // public repo.
+    const d = (raw && raw.data) || {};
+    const stats = {
+      data: {
+        start: d.start,
+        end: d.end,
+        range: d.range,
+        human_readable_total: d.human_readable_total,
+        languages: (d.languages || []).map(({ name, percent, text, total_seconds }) => ({ name, percent, text, total_seconds })),
+      },
+    };
 
     // Write stats to JSON file
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(stats, null, 2));
