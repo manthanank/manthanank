@@ -2,7 +2,7 @@
 
 Full-stack developer in Karnataka, India. I build web apps end to end: database, API, front end and deployment.
 
-[Website](https://manthanank.dev) · [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing) · [dev.to](https://dev.to/manthanank) · [Hashnode](https://manthanank.hashnode.dev/) · [Email](mailto:manthan.ank46@gmail.com)
+[Website](https://manthanank.dev) · [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing) · [dev.to](https://dev.to/manthanank) · [Hashnode](https://manthanank.hashnode.dev/) · [Email](mailto:manthan.ank46@gmail.com) · [X](https://x.com/manthan_ank) · [GitLab](https://gitlab.com/manthanank)
 
 ## What I work on
 
