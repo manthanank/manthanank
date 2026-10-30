@@ -4,15 +4,18 @@ Full-stack developer in Karnataka, India. I build web apps end to end: database,
 
 [Website](https://manthanank.dev) · [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing) · [dev.to](https://dev.to/manthanank) · [Hashnode](https://manthanank.hashnode.dev/) · [Email](mailto:manthan.ank46@gmail.com)
 
-## What I'm building now
+## What I work on
 
-**Handoff:** vehicle condition records for dealerships. Staff photograph a car at key-out and key-in, the record is sealed so it can't be changed, and the customer signs on their phone. It covers test drives, service valet, loaners, deliveries, dealer trades and sublet work, with damage billing, Stripe payments and multi-store support. Built with Next.js, PostgreSQL with row-level security, S3, Twilio and Docker.
+I build production web apps for businesses, from the database and API to the screens staff and customers use, plus the deployment. That includes:
 
-**CarePulse:** a 20-second customer check-in that clears the service queue. Built with Next.js and Supabase.
+- multi-tenant data with row-level security
+- payments
+- texting and email
+- photo capture and storage
+- role-based access
+- automated end-to-end testing
 
-**ReconOS:** reconditioning software that works alongside a dealership's DMS and recon workflow.
-
-These are private. Contact me if you'd like a walkthrough.
+Most of my current work is in private repositories.
 
 ## Open-source projects
 
@@ -37,9 +40,4 @@ These are private. Contact me if you'd like a walkthrough.
 I write about Node.js, Angular and infrastructure on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Deploying a Node.js Product API on Kubernetes with MongoDB](https://dev.to/manthanank/deploying-a-nodejs-product-api-on-kubernetes-with-mongodb-hfo)
-- [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
-- [Terraform Setup Guide: Getting Started with Infrastructure as Code](https://dev.to/manthanank/terraform-setup-guide-getting-started-with-infrastructure-as-code-16k5)
-- [Essential Terraform CLI Commands You Should Know](https://dev.to/manthanank/essential-terraform-cli-commands-you-should-know-504f)
-- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
 <!-- BLOG-POST-LIST:END -->
