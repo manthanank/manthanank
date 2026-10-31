@@ -19,4 +19,4 @@ jobs:
       - name: update blogs
         uses: gautamkrishnar/blog-post-workflow@1.9.7
         with:
-          feed_list: "https://dev.to/feed/manthanank"
+          feed_list: "https://dev.to/feed/manthanank,https://manthanank.hashnode.dev/rss.xml"

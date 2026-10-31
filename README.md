@@ -4,6 +4,8 @@ Full-stack developer in Karnataka, India. I build web apps end to end: database,
 
 [Website](https://manthanank.dev) · [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing) · [dev.to](https://dev.to/manthanank) · [Hashnode](https://manthanank.hashnode.dev/) · [Email](mailto:manthan.ank46@gmail.com) · [X](https://x.com/manthan_ank) · [GitLab](https://gitlab.com/manthanank)
 
+Open to collaboration. Email me at manthan.ank46@gmail.com.
+
 ## What I work on
 
 I build production web apps for businesses, from the database and API to the screens staff and customers use, plus the deployment. That includes:
@@ -30,6 +32,11 @@ Most of my current work is in private repositories.
 
 ## Tech I use
 
+Angular, Next.js, Node.js, Python, PostgreSQL
+
+<details>
+<summary>Everything I use</summary>
+
 - **Languages:** TypeScript, JavaScript, Python, SQL, HTML, CSS and SCSS
 - **Front end:** Angular, RxJS, NgRx, Next.js, React, Astro, Tailwind CSS, Bootstrap, Chart.js, Three.js
 - **Back end:** Node.js, Express, NestJS, Fastify, Hono, Deno, Flask, Socket.IO, GraphQL, REST APIs with Swagger, JWT auth
@@ -37,6 +44,14 @@ Most of my current work is in private repositories.
 - **AI:** Gemini API, OpenAI API
 - **Infrastructure:** Docker, AWS (EC2, S3), Terraform, Kubernetes, GitHub Actions, Vercel, Nginx, Caddy, Cloudinary
 - **Testing:** Node test runner, Vitest, browser end-to-end tests
+
+</details>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/manthanank/manthanank/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/manthanank/manthanank/output/github-snake.svg">
+  <img alt="Contribution graph drawn as a snake" src="https://raw.githubusercontent.com/manthanank/manthanank/output/github-snake.svg">
+</picture>
 
 ## Writing
 
