@@ -1,19 +1,19 @@
 {
   "data": {
-    "start": "2026-10-22T18:30:00Z",
-    "end": "2026-10-29T18:29:59Z",
+    "start": "2026-10-23T18:30:00Z",
+    "end": "2026-10-30T18:29:59Z",
     "range": "last_7_days",
     "human_readable_total": "1 hr 42 mins",
     "languages": [
       {
         "name": "Other",
-        "percent": 79.13,
-        "text": "6 hrs 28 mins",
-        "total_seconds": 23316.557
+        "percent": 68.79,
+        "text": "3 hrs 45 mins",
+        "total_seconds": 13556.878
       },
       {
         "name": "Markdown",
-        "percent": 20.87,
+        "percent": 31.21,
         "text": "1 hr 42 mins",
         "total_seconds": 6150.308
       }
