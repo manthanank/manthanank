@@ -58,9 +58,9 @@ Angular, Next.js, Node.js, Python, PostgreSQL
 I write about Node.js, Angular and infrastructure on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
+- [Step-by-Step Guide: Deploying Node.js + MongoDB on Kubernetes](https://manthanank.hashnode.dev/step-by-step-guide-deploying-nodejs-mongodb-on-kubernetes)
 - [🚀 Deploying a Node.js Product API on Kubernetes with MongoDB](https://dev.to/manthanank/deploying-a-nodejs-product-api-on-kubernetes-with-mongodb-hfo)
+- [Automating Node.js App Deployment on AWS using Terraform](https://manthanank.hashnode.dev/automating-nodejs-app-deployment-on-aws-using-terraform)
 - [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
-- [Terraform Setup Guide: Getting Started with Infrastructure as Code](https://dev.to/manthanank/terraform-setup-guide-getting-started-with-infrastructure-as-code-16k5)
-- [Essential Terraform CLI Commands You Should Know](https://dev.to/manthanank/essential-terraform-cli-commands-you-should-know-504f)
-- [🚀 Automate Media Uploads to Cloudinary with Node.js: A Complete Guide](https://dev.to/manthanank/automate-media-uploads-to-cloudinary-with-nodejs-a-complete-guide-1eah)
+- [Terraform Setup Made Simple: A Beginner’s Guide](https://manthanank.hashnode.dev/terraform-setup-made-simple-a-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
