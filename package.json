@@ -7,8 +7,8 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
     "build": "node -e \"require('fs').existsSync('public/assets') || require('fs').mkdirSync('public/assets', {recursive: true}); console.log('Build completed');\"",
-    "lint": "eslint --ext .js .",
-    "lint:fix": "eslint --ext .js . --fix",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
     "format": "prettier --write \"**/*.{js,json,css,md,html}\"",
     "dev": "http-server public -o -c-1",
     "update-stats": "node scripts/update-stats.js",
@@ -32,7 +32,9 @@
   },
   "homepage": "https://github.com/manthanank/manthanank#readme",
   "devDependencies": {
+    "@eslint/js": "^10.0.1",
     "eslint": "^10.13.0",
+    "globals": "^16.5.0",
     "http-server": "^14.1.1",
     "prettier": "^3.1.0"
   }
