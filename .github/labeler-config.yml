@@ -1,0 +1,26 @@
+# Add 'bug' label to any issue or PR with title containing 'bug' or 'fix'
+bug:
+  - title: ['bug', 'fix', 'Bug', 'Fix']
+
+# Add 'feature' label to any issue or PR with title containing 'feature' or 'enhancement'
+feature:
+  - title: ['feature', 'enhancement', 'Feature', 'Enhancement']
+
+# Add 'documentation' label to any issue or PR with title containing 'doc' or 'docs'
+documentation:
+  - title: ['doc', 'docs', 'documentation', 'Documentation']
+
+# Add 'dependencies' label to any PR modifying package.json or yarn.lock
+dependencies:
+  - changed-files:
+    - any-glob-to-any-file: ['package.json', 'yarn.lock', 'package-lock.json']
+
+# Add 'ui' label to any PR modifying files in the assets directory
+ui:
+  - changed-files:
+    - any-glob-to-any-file: ['assets/**/*', 'public/**/*.css']
+
+# Add 'javascript' label to any PR modifying JS files
+javascript:
+  - changed-files:
+    - any-glob-to-any-file: ['**/*.js', '**/*.jsx']

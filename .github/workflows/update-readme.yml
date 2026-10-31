@@ -1,0 +1,22 @@
+name: Update README
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: checkput main branch
+        uses: actions/checkout@v4
+      - name: update blogs
+        uses: gautamkrishnar/blog-post-workflow@1.9.7
+        with:
+          feed_list: "https://dev.to/feed/manthanank"
