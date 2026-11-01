@@ -33,7 +33,7 @@ jobs:
             revert
 
       - name: Lint Code Base
-        uses: super-linter/super-linter@v7
+        uses: super-linter/super-linter@v9
         env:
           VALIDATE_ALL_CODEBASE: false
           DEFAULT_BRANCH: main
