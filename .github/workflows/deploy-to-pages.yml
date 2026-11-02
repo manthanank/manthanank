@@ -3,10 +3,12 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches:
-      - main # Set this to your default branch
-  workflow_dispatch: # Allows manual triggering
-  schedule:
-    - cron: '0 0 * * *' # Runs every day at 00:00 UTC
+      - main
+    paths:
+      - 'public/**'
+      - 'assets/svg/**'
+      - '.github/workflows/deploy-to-pages.yml'
+  workflow_dispatch:
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -27,56 +29,16 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - name: Checkout
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
-      - name: Build project
-        run: npm install && npm run build
-
-      - name: Prepare public directory
+      # The site loads its tech icons from ./assets/svg/
+      - name: Add SVG icons to the site
         run: |
-          # Copy the HTML file from the root directory if it exists
-          cp -f index.html public/ 2>/dev/null || true
-
-          # Make sure key files exist in the public directory
-          if [ ! -f public/index.html ]; then
-            echo "<!DOCTYPE html><html><head><title>GitHub Profile</title><link rel='stylesheet' href='style.css'></head><body><script src='script.js'></script></body></html>" > public/index.html
-            echo "Index file created since none was found."
-          fi
-
-          # Create assets directory and copy all SVG assets with proper structure
-          mkdir -p public/assets/svg
-          cp -r assets/svg/* public/assets/svg/ 2>/dev/null || true
-
-          # Create data directory and ensure wakastats.json is copied correctly
-          mkdir -p public/data
-
-          # Check if the file exists in the root data directory and copy it
-          if [ -f data/wakastats.json ]; then
-            cp -f data/wakastats.json public/data/
-            echo "Copied wakastats.json from data/ directory"
-          # If not in root data/, check if it's directly in public/data/
-          elif [ -f public/data/wakastats.json ]; then
-            echo "wakastats.json already exists in public/data/"
-          else
-            echo "WARNING: No wakastats.json file found in either location"
-          fi
-
-          # Debug: List the contents of the SVG directory to verify files are copied
-          echo "SVG directory contents:"
-          ls -la public/assets/svg/ || echo "No SVG files found"
-
-          # Debug: List the contents of the data directory
-          echo "Data directory contents:"
-          ls -la public/data/ || echo "No data files found"
-
-          # Verify content exists in the public directory
-          echo "Public directory structure:"
-          find public -type d | sort
-
-          echo "$(date)" > public/build-timestamp.txt
+          mkdir -p public/assets
+          cp -r assets/svg public/assets/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

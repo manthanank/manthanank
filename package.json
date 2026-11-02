@@ -4,7 +4,7 @@
   "description": "This is my GitHub Profile",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "node --test test/update-stats.test.js",
     "start": "node index.js",
     "build": "node -e \"require('fs').existsSync('public/assets') || require('fs').mkdirSync('public/assets', {recursive: true}); console.log('Build completed');\"",
     "lint": "eslint --ext .js .",

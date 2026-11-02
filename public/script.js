@@ -190,6 +190,24 @@ async function fetchBlogPosts() {
   }
 }
 
+/**
+ * Time spent on a language: the provided text, else total_seconds as
+ * hours and minutes, else an empty string.
+ */
+function formatLanguageTime(lang) {
+  if (typeof lang.text === 'string' && lang.text.trim()) {
+    return lang.text.trim();
+  }
+  const seconds = Number(lang.total_seconds);
+  if (!Number.isFinite(seconds) || seconds < 0) {
+    return '';
+  }
+  const hours = Math.floor(seconds / 3600);
+  const minutes = Math.floor((seconds % 3600) / 60);
+  const minText = `${minutes} min${minutes !== 1 ? 's' : ''}`;
+  return hours > 0 ? `${hours} hr${hours !== 1 ? 's' : ''} ${minText}` : minText;
+}
+
 // Fetch coding stats from WakaTime API
 async function loadCodingStats() {
   try {
@@ -214,30 +232,26 @@ async function loadCodingStats() {
     // WakaTime API structure: data.data.languages contains language stats
     if (data.data && data.data.languages && data.data.languages.length > 0) {
       // Sort languages by time spent
-      const languages = data.data.languages.sort((a, b) => b.total_seconds - a.total_seconds);
+      const languages = data.data.languages.sort(
+        (a, b) => (Number(b.total_seconds) || 0) - (Number(a.total_seconds) || 0)
+      );
 
       // Get the top 10 languages
       const topLanguages = languages.slice(0, 10);
 
       // Generate stats text for each language
       topLanguages.forEach(lang => {
-        // Calculate percentage
-        const percentage = lang.percent.toFixed(2);
+        const percent = Number(lang.percent) || 0;
+        const percentage = percent.toFixed(2);
 
         // Create bar based on percentage (20 characters max)
-        const barLength = Math.ceil((lang.percent / 100) * 20);
+        const barLength = Math.min(20, Math.max(0, Math.ceil((percent / 100) * 20)));
         const bar = '█'.repeat(barLength) + '░'.repeat(20 - barLength);
 
-        // Format time
-        let timeText;
-        if (lang.hours > 0) {
-          timeText = `${lang.hours} hr${lang.hours !== 1 ? 's' : ''} ${lang.minutes} min${lang.minutes !== 1 ? 's' : ''}`;
-        } else {
-          timeText = `${lang.minutes} min${lang.minutes !== 1 ? 's' : ''}`;
-        }
+        const timeText = formatLanguageTime(lang);
 
         // Pad the language name and time for alignment
-        const paddedName = lang.name.padEnd(12, ' ');
+        const paddedName = String(lang.name || 'Unknown').padEnd(12, ' ');
         const paddedTime = timeText.padEnd(15, ' ');
 
         // Add to stats text
@@ -245,7 +259,10 @@ async function loadCodingStats() {
       });
 
       // Add last updated info
-      statsText += `\nLast updated: ${new Date(data.data.end).toLocaleDateString()}`;
+      const updated = new Date(data.data.end);
+      if (!Number.isNaN(updated.getTime())) {
+        statsText += `\nLast updated: ${updated.toLocaleDateString()}`;
+      }
 
       // Set the text content
       codingStatsElement.textContent = statsText;

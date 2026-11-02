@@ -12,12 +12,6 @@ const WAKATIME_API_KEY = process.env.WAKATIME_API_KEY;
 const OUTPUT_DIR = path.join(__dirname, '../public/data');
 const OUTPUT_FILE = path.join(OUTPUT_DIR, 'wakastats.json');
 
-// Create the output directory if it doesn't exist
-if (!fs.existsSync(OUTPUT_DIR)) {
-  fs.mkdirSync(OUTPUT_DIR, { recursive: true });
-  console.log(`Created directory: ${OUTPUT_DIR}`);
-}
-
 /**
  * Fetch stats from WakaTime API
  */
@@ -84,6 +78,29 @@ async function fetchWakaTimeStats() {
 }
 
 /**
+ * Keep only what the site shows. The full API response names private
+ * projects, machines and dependencies, so it must never reach this
+ * public repo.
+ */
+function toPublicStats(raw) {
+  const d = (raw && raw.data) || {};
+  return {
+    data: {
+      start: d.start,
+      end: d.end,
+      range: d.range,
+      human_readable_total: d.human_readable_total,
+      languages: (d.languages || []).map(({ name, percent, text, total_seconds }) => ({
+        name,
+        percent,
+        text,
+        total_seconds,
+      })),
+    },
+  };
+}
+
+/**
  * Main function
  */
 async function main() {
@@ -92,19 +109,13 @@ async function main() {
 
     const raw = await fetchWakaTimeStats();
 
-    // Publish only what the site shows. The full response names private
-    // projects, machines and dependencies, so it must never reach this
-    // public repo.
-    const d = (raw && raw.data) || {};
-    const stats = {
-      data: {
-        start: d.start,
-        end: d.end,
-        range: d.range,
-        human_readable_total: d.human_readable_total,
-        languages: (d.languages || []).map(({ name, percent, text, total_seconds }) => ({ name, percent, text, total_seconds })),
-      },
-    };
+    const stats = toPublicStats(raw);
+
+    // Create the output directory if it doesn't exist
+    if (!fs.existsSync(OUTPUT_DIR)) {
+      fs.mkdirSync(OUTPUT_DIR, { recursive: true });
+      console.log(`Created directory: ${OUTPUT_DIR}`);
+    }
 
     // Write stats to JSON file
     fs.writeFileSync(OUTPUT_FILE, JSON.stringify(stats, null, 2));
@@ -123,4 +134,8 @@ async function main() {
   }
 }
 
-main();
+if (require.main === module) {
+  main();
+}
+
+module.exports = { toPublicStats };
