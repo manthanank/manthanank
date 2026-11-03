@@ -4,7 +4,7 @@ Full-stack developer in Karnataka, India. I build web apps end to end: database,
 
 [Website](https://manthanank.dev) · [Resume](https://docs.google.com/document/d/1Ba40AaV2Ol5hueeVe5wCI1GeBEtcPJXp3mzm-HZ6BHk/edit?usp=sharing) · [dev.to](https://dev.to/manthanank) · [Hashnode](https://manthanank.hashnode.dev/) · [Email](mailto:manthan.ank46@gmail.com) · [X](https://x.com/manthan_ank) · [GitLab](https://gitlab.com/manthanank)
 
-Open to collaboration. Email me at manthan.ank46@gmail.com.
+Available for full-time roles and freelance projects, remote or on-site. Email me at manthan.ank46@gmail.com.
 
 ## What I work on
 
@@ -17,18 +17,18 @@ I build production web apps for businesses, from the database and API to the scr
 - role-based access
 - automated end-to-end testing
 
-Most of my current work is in private repositories.
+Most of my client work is in private repositories. The projects below are public, and most have a live demo.
 
 ## Open-source projects
 
-| Project | What it is |
-|---|---|
-| [nodejs-supabase](https://github.com/manthanank/nodejs-supabase) | CRUD API on Node.js and Supabase |
-| [task-management-app](https://github.com/manthanank/task-management-app) | Full-stack task manager with admin and users (Angular, Express, MongoDB) |
-| [ai-image-studio-app](https://github.com/manthanank/ai-image-studio-app) | AI image generation and editing with the Gemini API (Angular, Express) |
-| [resume-optimizer](https://github.com/manthanank/resume-optimizer) | Tailors a resume to a job description with Gemini (Angular, Node.js) |
-| [expense-tracker-app](https://github.com/manthanank/expense-tracker-app) | Expense tracker (Angular, Express, MongoDB, Tailwind CSS) |
-| [angular-tailwindcss](https://github.com/manthanank/angular-tailwindcss) | Starter for Angular 19 with Tailwind CSS 4 |
+| Project | What it is | Live |
+|---|---|---|
+| [nodejs-supabase](https://github.com/manthanank/nodejs-supabase) | CRUD API on Node.js and Supabase | — |
+| [task-management-app](https://github.com/manthanank/task-management-app) | Full-stack task manager with admin and users (Angular, Express, MongoDB) | [Demo](https://task-management-app-manthanank.vercel.app) |
+| [ai-image-studio-app](https://github.com/manthanank/ai-image-studio-app) | AI image generation and editing with the Gemini API (Angular, Express) | [Demo](https://ai-image-studio-app.vercel.app) |
+| [resume-optimizer](https://github.com/manthanank/resume-optimizer) | Tailors a resume to a job description with Gemini (Angular, Node.js) | [Demo](https://resume-optimizer-app.vercel.app) |
+| [expense-tracker-app](https://github.com/manthanank/expense-tracker-app) | Expense tracker (Angular, Express, MongoDB, Tailwind CSS) | [Demo](https://expense-tracker-app-manthanank.vercel.app) |
+| [angular-tailwindcss](https://github.com/manthanank/angular-tailwindcss) | Starter for Angular 19 with Tailwind CSS 4 | — |
 
 ## Tech I use
 
