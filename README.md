@@ -58,9 +58,9 @@ Angular, Next.js, Node.js, Python, PostgreSQL
 I write about Node.js, Angular and infrastructure on [dev.to](https://dev.to/manthanank) and [Hashnode](https://manthanank.hashnode.dev/).
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Your First MCP Server with Node.js, TypeScript, and MySQL](https://dev.to/manthanank/building-your-first-mcp-server-with-nodejs-typescript-and-mysql-1c3j)
 - [Step-by-Step Guide: Deploying Node.js + MongoDB on Kubernetes](https://manthanank.hashnode.dev/step-by-step-guide-deploying-nodejs-mongodb-on-kubernetes)
 - [🚀 Deploying a Node.js Product API on Kubernetes with MongoDB](https://dev.to/manthanank/deploying-a-nodejs-product-api-on-kubernetes-with-mongodb-hfo)
 - [Automating Node.js App Deployment on AWS using Terraform](https://manthanank.hashnode.dev/automating-nodejs-app-deployment-on-aws-using-terraform)
 - [🚀 Deploying a Node.js CRUD App on AWS with Terraform](https://dev.to/manthanank/deploying-a-nodejs-crud-app-on-aws-with-terraform-50l3)
-- [Terraform Setup Made Simple: A Beginner’s Guide](https://manthanank.hashnode.dev/terraform-setup-made-simple-a-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
